@@ -21,11 +21,7 @@ TARGET_ROLES = [
     "full stack developer mern stack",
     "software engineer",
     "mern stack developer",
-    "backend developer",
-    "frontend developer",
-    "data scientist",
-    "devops",
-    "ai engineer"
+    "backend developer"
 ]
 
 # Target month for filtering
