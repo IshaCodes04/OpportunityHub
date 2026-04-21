@@ -21,7 +21,11 @@ TARGET_ROLES = [
     "full stack developer mern stack",
     "software engineer",
     "mern stack developer",
-    "backend developer"
+    "backend developer",
+    "frontend developer",
+    "data scientist",
+    "devops",
+    "ai engineer"
 ]
 
 # Target month for filtering
@@ -109,6 +113,7 @@ def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> li
 
                 if is_relevant:
                     jobs.append({
+                        "Role": job_title.title(),
                         "Company": job_company,
                         "Title": job_title_text,
                         "Location": job_location,
@@ -154,6 +159,10 @@ def save_job_data(data: list) -> None:
         # Create a pandas DataFrame from the job data list
         df = pd.DataFrame(data)
 
+        # Drop duplicate links to be clean
+        if 'Link' in df.columns:
+            df = df.drop_duplicates(subset=["Link"])
+
         # Read existing README.md
         if not os.path.exists('README.md'):
             print("⚠ README.md not found. Creating one...")
@@ -162,12 +171,37 @@ def save_job_data(data: list) -> None:
         with open('README.md', 'r', encoding='utf-8', errors='ignore') as f:
             readme_content = f.read()
 
-        # Find markers
+        # Update stats
+        total_jobs = len(df)
+        current_date = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
+        
+        roles_emoji = ["🔴", "🟠", "🟡", "🟢", "🔵", "🟣", "🟤", "⚫"]
+        stats_md = f"## 📅 April 2026 Opportunities ({total_jobs} Jobs)\n"
+        stats_md += f"**Last Updated:** {current_date} | **Status:** Live ✅\n\n"
+        stats_md += "### Job Categories:\n"
+        
+        if 'Role' in df.columns:
+            role_counts = df['Role'].value_counts()
+            for i, (role, count) in enumerate(role_counts.items()):
+                emoji = roles_emoji[i % len(roles_emoji)]
+                stats_md += f"- {emoji} **{role}**: {count} jobs\n"
+
+        stats_start = readme_content.find('<!--START_SECTION:stats-->')
+        stats_end = readme_content.find('<!--END_SECTION:stats-->')
+
+        if stats_start != -1 and stats_end != -1:
+            readme_content = (
+                readme_content[:stats_start + len('<!--START_SECTION:stats-->\n')]
+                + stats_md
+                + readme_content[stats_end:]
+            )
+
+        # Find markers for table
         start = readme_content.find('<!--START_SECTION:workfetch-->')
         end = readme_content.find('<!--END_SECTION:workfetch-->')
 
         if start == -1 or end == -1:
-            print("⚠ Markers not found in README.md")
+            print("⚠ Table markers not found in README.md")
             return
 
         # Create markdown table

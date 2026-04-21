@@ -3,6 +3,7 @@
 
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
+<!--START_SECTION:stats-->
 ## 📅 April 2026 Opportunities (57 Jobs)
 **Last Updated:** 2026-04-21 | **Status:** Live ✅
 
@@ -11,6 +12,7 @@ Updates every hour with the latest job opportunities. Never miss out on your dre
 - 🟠 **Software Engineer**: 25 jobs  
 - 🟡 **MERN Stack Developer**: 14 jobs
 - 🟢 **Backend Developer**: 33 jobs
+<!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
