@@ -37,8 +37,8 @@ jobs:
 
       - name: 📝 Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "ishu010.com@gmail.com"
+          git config --local user.name "IshaCodes04"
           git add april_2026_opportunities.csv README.md
           git commit -m "🔄 Update: April 2026 job opportunities (Auto)" || echo "No changes to commit"
 
