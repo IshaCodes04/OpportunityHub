@@ -146,8 +146,8 @@ def save_job_data(data: list) -> None:
         if not os.path.exists('README.md'):
             print("⚠ README.md not found. Creating one...")
             with open('README.md', 'w') as f:
-                f.write("# Work Fetch: Jobs Scraper\n\n")
-                f.write("<!--START_SECTION:workfetch-->\n")
+                f.write("# OpportunityHub: Jobs Scraper\n\n")
+                f.write("<!--START_SECTION:opportunityhub-->\n")
                 f.write("No jobs yet\n")
                 f.write("<!--END_SECTION:workfetch-->\n")
 
@@ -156,22 +156,22 @@ def save_job_data(data: list) -> None:
             readme_content = f.read()
 
         # Find markers
-        start = readme_content.find('<!--START_SECTION:workfetch-->')
-        end = readme_content.find('<!--END_SECTION:workfetch-->')
+        start = readme_content.find('<!--START_SECTION:opportunityhub-->')
+        end = readme_content.find('<!--END_SECTION:opportunityhub-->')
 
         if start == -1 or end == -1:
             print("⚠ Markers not found in README.md. Adding them...")
-            readme_content += "\n<!--START_SECTION:workfetch-->\n"
+            readme_content += "\n<!--START_SECTION:opportunityhub-->\n"
             readme_content += "No jobs yet\n"
-            readme_content += "<!--END_SECTION:workfetch-->\n"
-            start = readme_content.find('<!--START_SECTION:workfetch-->')
-            end = readme_content.find('<!--END_SECTION:workfetch-->')
+            readme_content += "<!--END_SECTION:opportunityhub-->\n"
+            start = readme_content.find('<!--START_SECTION:opportunityhub-->')
+            end = readme_content.find('<!--END_SECTION:opportunityhub-->')
 
         # Create new README content
         markdown_table = df.to_markdown(index=False) if len(df) > 0 else "No jobs found"
         new_readme_content = (
             f"{readme_content[:start]}"
-            f"<!--START_SECTION:workfetch-->\n"
+            f"<!--START_SECTION:opportunityhub-->\n"
             f"{markdown_table}\n"
             f"{readme_content[end:]}"
         )
@@ -190,7 +190,7 @@ if __name__ == "__main__":
     location = "India"
 
     print("=" * 60)
-    print("🚀 WORK FETCH - LinkedIn Jobs Scraper")
+    print("🚀 OPPORTUNITYHUB - LinkedIn Jobs Scraper")
     print("=" * 60)
     print(f"🔍 Starting scraper for: {job_title} in {location}")
     print("⏳ This may take 5-10 minutes (LinkedIn blocks requests)...\n")
