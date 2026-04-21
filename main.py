@@ -11,9 +11,21 @@ import pandas as pd
 import random
 import time
 import os
+from datetime import datetime
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# Target roles for scraping
+TARGET_ROLES = [
+    "full stack developer mern stack",
+    "software engineer",
+    "mern stack developer",
+    "backend developer"
+]
+
+# Target month for filtering
+TARGET_MONTH = "2026-04"  # April 2026
 
 def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> list:
     # Sets the pages to scrape if not provided
@@ -142,37 +154,29 @@ def save_job_data(data: list) -> None:
         # Create a pandas DataFrame from the job data list
         df = pd.DataFrame(data)
 
-        # Check if README.md exists
+        # Read existing README.md
         if not os.path.exists('README.md'):
             print("⚠ README.md not found. Creating one...")
-            with open('README.md', 'w') as f:
-                f.write("# OpportunityHub: Jobs Scraper\n\n")
-                f.write("<!--START_SECTION:opportunityhub-->\n")
-                f.write("No jobs yet\n")
-                f.write("<!--END_SECTION:workfetch-->\n")
+            return
 
-        # Read existing README.md
-        with open('README.md', 'r', encoding='utf-8') as f:
+        with open('README.md', 'r', encoding='utf-8', errors='ignore') as f:
             readme_content = f.read()
 
         # Find markers
-        start = readme_content.find('<!--START_SECTION:opportunityhub-->')
-        end = readme_content.find('<!--END_SECTION:opportunityhub-->')
+        start = readme_content.find('<!--START_SECTION:workfetch-->')
+        end = readme_content.find('<!--END_SECTION:workfetch-->')
 
         if start == -1 or end == -1:
-            print("⚠ Markers not found in README.md. Adding them...")
-            readme_content += "\n<!--START_SECTION:opportunityhub-->\n"
-            readme_content += "No jobs yet\n"
-            readme_content += "<!--END_SECTION:opportunityhub-->\n"
-            start = readme_content.find('<!--START_SECTION:opportunityhub-->')
-            end = readme_content.find('<!--END_SECTION:opportunityhub-->')
+            print("⚠ Markers not found in README.md")
+            return
 
-        # Create new README content
+        # Create markdown table
         markdown_table = df.to_markdown(index=False) if len(df) > 0 else "No jobs found"
+        
+        # Create new README content
         new_readme_content = (
             f"{readme_content[:start]}"
-            f"<!--START_SECTION:opportunityhub-->\n"
-            f"{markdown_table}\n"
+            f"<!--START_SECTION:workfetch-->\n{markdown_table}\n"
             f"{readme_content[end:]}"
         )
 
@@ -180,33 +184,109 @@ def save_job_data(data: list) -> None:
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(new_readme_content)
 
-        print(f"✅ Successfully saved {len(data)} jobs to README.md")
+        print(f"✅ Successfully updated README.md with {len(data)} jobs")
 
     except Exception as e:
         print(f"❌ Error saving data: {str(e)}")
 
-if __name__ == "__main__":
-    job_title = "Software Engineer"
-    location = "India"
 
-    print("=" * 60)
-    print("🚀 OPPORTUNITYHUB - LinkedIn Jobs Scraper")
-    print("=" * 60)
-    print(f"🔍 Starting scraper for: {job_title} in {location}")
-    print("⏳ This may take 5-10 minutes (LinkedIn blocks requests)...\n")
+def filter_jobs_by_date(jobs: list, target_month: str) -> list:
+    """
+    Filter jobs by target month.
+
+    Args:
+        jobs: List of job dictionaries
+        target_month: Target month in format "YYYY-MM"
+
+    Returns:
+        Filtered list of jobs
+    """
+    filtered = []
+    for job in jobs:
+        date_posted = job.get("Date Posted", "")
+        if date_posted.startswith(target_month):
+            filtered.append(job)
+    return filtered
+
+
+def save_to_csv(data: list, filename: str = "april_2026_opportunities.csv") -> None:
+    """
+    Save job data to CSV file.
+
+    Args:
+        data: List of job dictionaries
+        filename: Output CSV filename
+
+    Returns:
+        None
+    """
+    if not data:
+        print("⚠ No data to save")
+        return
 
     try:
-        jobs = scrape_linkedin_jobs(job_title, location)
-        
-        if jobs:
-            print(f"\n✅ Found {len(jobs)} relevant jobs!")
-            save_job_data(jobs)
-            print("📝 Data saved to README.md")
-            print("=" * 60)
+        df = pd.DataFrame(data)
+        df.to_csv(filename, index=False, encoding='utf-8')
+        print(f"✅ Successfully saved {len(data)} jobs to {filename}")
+    except Exception as e:
+        print(f"❌ Error saving CSV: {str(e)}")
+
+
+if __name__ == "__main__":
+    print("=" * 70)
+    print("🚀 OPPORTUNITYHUB - April 2026 Job Opportunities Scraper")
+    print("=" * 70)
+    print(f"📅 Target Month: April 2026")
+    print(f"🎯 Target Roles: {', '.join(TARGET_ROLES)}")
+    print("⏳ This may take 10-20 minutes (LinkedIn rate limiting)...\n")
+
+    all_jobs = []
+    location = "India"
+
+    try:
+        # Scrape jobs for each target role
+        for idx, role in enumerate(TARGET_ROLES, 1):
+            print(f"\n[{idx}/{len(TARGET_ROLES)}] 🔍 Scraping for: {role}")
+            print("-" * 70)
+            
+            jobs = scrape_linkedin_jobs(role, location, pages=3)
+            
+            if jobs:
+                print(f"✓ Found {len(jobs)} jobs for '{role}'")
+                all_jobs.extend(jobs)
+                time.sleep(random.randint(5, 10))  # Rate limiting
+            else:
+                print(f"✗ No jobs found for '{role}'")
+
+        print("\n" + "=" * 70)
+        print(f"📊 Total jobs found: {len(all_jobs)}")
+
+        if all_jobs:
+            # Filter for April 2026
+            april_jobs = filter_jobs_by_date(all_jobs, TARGET_MONTH)
+            print(f"📅 Jobs from {TARGET_MONTH}: {len(april_jobs)}")
+
+            if april_jobs:
+                # Sort by date (newest first)
+                april_jobs = sorted(april_jobs, key=lambda x: x.get("Date Posted", ""), reverse=True)
+                
+                # Save to CSV
+                save_to_csv(april_jobs)
+                
+                # Also save to README
+                save_job_data(april_jobs)
+                
+                print("\n✨ Job opportunities summary:")
+                for job in april_jobs:
+                    print(f"  • {job['Title']} at {job['Company']} ({job['Date Posted']})")
+                    
+            else:
+                print(f"\n⚠ No jobs found for {TARGET_MONTH}")
         else:
-            print("\n❌ No jobs found. Try different search terms.")
-            print("=" * 60)
+            print("\n❌ No jobs found in any search.")
+
+        print("=" * 70)
             
     except Exception as e:
         print(f"\n❌ Error during scraping: {str(e)}")
-        print("=" * 60)
+        print("=" * 70)
