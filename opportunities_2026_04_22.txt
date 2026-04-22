@@ -1,21 +1,3 @@
-# OpportunityHub: Jobs Scrapper
-> Your personal job opportunity aggregator! 🚀
-
-Updates every hour with the latest job opportunities. Never miss out on your dream role!
-
-<!--START_SECTION:stats-->
-## 📅 April 22, 2026 Opportunities (10 Jobs)
-**Last Updated:** 2026-04-22 12:30 UTC | **Status:** Live ✅
-
-### Job Categories:
-- 🔴 **Full Stack Developer Mern Stack**: 3 jobs
-- 🟠 **Mern Stack Developer**: 3 jobs
-- 🟡 **Backend Developer**: 3 jobs
-- 🟢 **Software Engineer**: 1 jobs
-<!--END_SECTION:stats-->
-
-### Current Opportunities:
-<!--START_SECTION:workfetch-->
 ROLE - Full Stack Developer Mern Stack
 COMPANY - Wake Up Whistle
 TITLE - MERN Stack Developer Intern – React, Node.js & MongoDB Projects
@@ -95,4 +77,3 @@ DATE POSTED - 2026-04-22
 ADDED AT - 2026-04-22 12:30 UTC
 LOCATION - India
 APPLY LINK - [Apply](https://in.linkedin.com/jobs/view/mern-stack-developer-intern-%E2%80%93-react-node-js-mongodb-projects-at-wake-up-whistle-4404276662?position=47&pageNum=0&refId=9FzW1dztu0XyR0%2BD%2BW%2BQqg%3D%3D&trackingId=cwmvN4TVHzAxTOhfhuM9nw%3D%3D)
-<!--END_SECTION:workfetch-->

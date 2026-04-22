@@ -27,6 +27,14 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+          cache: 'pip'
+
+      - name: 🌐 Set up Chrome
+        id: setup-chrome
+        uses: browser-actions/setup-chrome@v2
+        with:
+          chrome-version: stable
+          install-dependencies: true
 
       - name: 📦 Install dependencies
         run: |
@@ -34,15 +42,17 @@ jobs:
           pip install -r requirements.txt
 
       - name: 🔍 Run job scraper
+        env:
+          CHROME_BIN: ${{ steps.setup-chrome.outputs.chrome-path }}
         run: |
           python main.py
 
       - name: 📝 Commit changes
         run: |
-          git config --local user.email "ishu010.com@gmail.com"
-          git config --local user.name "IshaCodes04"
-          git add april_2026_opportunities.csv README.md
-          git commit -m "🔄 Update: April 2026 job opportunities (Auto)" || echo "No changes to commit"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "🔄 Update: job opportunities (Auto)" || echo "No changes to commit"
 
       - name: 🚀 Push changes to GitHub
         uses: ad-m/github-push-action@master
