@@ -4,21 +4,20 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 April 2026 Opportunities (6 Jobs)
-**Last Updated:** 2026-05-31 04:15 UTC | **Status:** Live ✅
+## 📅 April 2026 Opportunities (5 Jobs)
+**Last Updated:** 2026-05-31 08:18 UTC | **Status:** Live ✅
 
 ### Job Categories:
-- 🔴 **Mern Stack Developer**: 6 jobs
+- 🔴 **Backend Developer**: 5 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-| Role                 | Company         | Title                                     | Location                    | Link                                                                                                                                                                                                                   | Date Posted   |
-|:---------------------|:----------------|:------------------------------------------|:----------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| Mern Stack Developer | Sparks To Ideas | MERN Stack Developer Internship Ahmedabad | Junagadh, Gujarat, India    | [Apply](https://in.linkedin.com/jobs/view/mern-stack-developer-internship-ahmedabad-at-sparks-to-ideas-4398783484?position=5&pageNum=0&refId=8cr%2FDVXFIEgjTPXPikLKBQ%3D%3D&trackingId=lOCobknBXw%2FBhPGjfRQ7mw%3D%3D) | 2026-04-12    |
-| Mern Stack Developer | Sparks To Ideas | MERN Stack Developer Internship Ahmedabad | Bhavnagar, Gujarat, India   | [Apply](https://in.linkedin.com/jobs/view/mern-stack-developer-internship-ahmedabad-at-sparks-to-ideas-4398774682?position=6&pageNum=0&refId=8cr%2FDVXFIEgjTPXPikLKBQ%3D%3D&trackingId=Ro0w0zGcTzTnE%2BZu8La2QQ%3D%3D) | 2026-04-12    |
-| Mern Stack Developer | Sparks To Ideas | MERN Stack Developer Internship Ahmedabad | Ahmedabad, Gujarat, India   | [Apply](https://in.linkedin.com/jobs/view/mern-stack-developer-internship-ahmedabad-at-sparks-to-ideas-4398789503?position=7&pageNum=0&refId=8cr%2FDVXFIEgjTPXPikLKBQ%3D%3D&trackingId=teettCYF6I1IpZaysHUTyg%3D%3D)   | 2026-04-12    |
-| Mern Stack Developer | Sparks To Ideas | MERN Stack Developer Internship Ahmedabad | Jamnagar, Gujarat, India    | [Apply](https://in.linkedin.com/jobs/view/mern-stack-developer-internship-ahmedabad-at-sparks-to-ideas-4398775627?position=8&pageNum=0&refId=8cr%2FDVXFIEgjTPXPikLKBQ%3D%3D&trackingId=ZF9pBnr6pw8aqxLeAsRuQQ%3D%3D)   | 2026-04-12    |
-| Mern Stack Developer | Sparks To Ideas | MERN Stack Developer Internship Ahmedabad | Surat, Gujarat, India       | [Apply](https://in.linkedin.com/jobs/view/mern-stack-developer-internship-ahmedabad-at-sparks-to-ideas-4398786476?position=9&pageNum=0&refId=8cr%2FDVXFIEgjTPXPikLKBQ%3D%3D&trackingId=2yFjl8W2LF6U%2BsNZXqWJtg%3D%3D) | 2026-04-12    |
-| Mern Stack Developer | Sparks To Ideas | MERN Stack Developer Internship Ahmedabad | Gandhinagar, Gujarat, India | [Apply](https://in.linkedin.com/jobs/view/mern-stack-developer-internship-ahmedabad-at-sparks-to-ideas-4398794348?position=11&pageNum=0&refId=8cr%2FDVXFIEgjTPXPikLKBQ%3D%3D&trackingId=pKhJzw8pJ1jO5TEWuxcXSQ%3D%3D)  | 2026-04-12    |
+| Role              | Company                    | Title                                                           | Location                          | Link                                                                                                                                                                                                                                        | Date Posted   |
+|:------------------|:---------------------------|:----------------------------------------------------------------|:----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+| Backend Developer | FlatZ                      | Backend Developer Intern                                        | Karur, Tamil Nadu, India          | [Apply](https://in.linkedin.com/jobs/view/backend-developer-intern-at-flatz-4405025518?position=21&pageNum=0&refId=jT36x2FXRfnBOGuAITlNNQ%3D%3D&trackingId=znX2uKIgBPrrNuT%2FwYmdvg%3D%3D)                                                  | 2026-04-23    |
+| Backend Developer | VishvaVidya                | Full Stack Web and Mobile App Developer Trainee (Freshers)      | Pune Division, Maharashtra, India | [Apply](https://in.linkedin.com/jobs/view/full-stack-web-and-mobile-app-developer-trainee-freshers-at-vishvavidya-4405289858?position=5&pageNum=0&refId=jT36x2FXRfnBOGuAITlNNQ%3D%3D&trackingId=77Jv4PWamMtGRltqPlHpxw%3D%3D)               | 2026-04-22    |
+| Backend Developer | Crownstack                 | Junior Fullstack AI Engineer (Fresher /Internship/ Entry-Level) | Noida, Uttar Pradesh, India       | [Apply](https://in.linkedin.com/jobs/view/junior-fullstack-ai-engineer-fresher-internship-entry-level-at-crownstack-4404510183?position=27&pageNum=0&refId=jT36x2FXRfnBOGuAITlNNQ%3D%3D&trackingId=jfV4iPRjxqSTdFrkP4L3SA%3D%3D)            | 2026-04-21    |
+| Backend Developer | MBiG IT SERVICES PVT. LTD. | Full Stack Java Developer Internship – On-Site                  | Bhandara, Maharashtra, India      | [Apply](https://in.linkedin.com/jobs/view/full-stack-java-developer-internship-%E2%80%93-on-site-at-mbig-it-services-pvt-ltd-4401961505?position=47&pageNum=0&refId=jT36x2FXRfnBOGuAITlNNQ%3D%3D&trackingId=uA5YgQnJ9ub0Nye6Bj%2BSPQ%3D%3D) | 2026-04-21    |
+| Backend Developer | Crownstack                 | Junior Fullstack AI Engineer (Fresher /Internship/ Entry-Level) | Noida, Uttar Pradesh, India       | [Apply](https://in.linkedin.com/jobs/view/junior-fullstack-ai-engineer-fresher-internship-entry-level-at-crownstack-4404510183?position=2&pageNum=2&refId=ElFSpzxtkOnSAmSiliqbjQ%3D%3D&trackingId=pOd%2FJMh9%2FEzEtxizsXqPjw%3D%3D)         | 2026-04-21    |
 <!--END_SECTION:workfetch-->
