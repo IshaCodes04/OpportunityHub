@@ -4,19 +4,18 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 April 2026 Opportunities (4 Jobs)
-**Last Updated:** 2026-06-11 18:20 UTC | **Status:** Live ✅
+## 📅 April 2026 Opportunities (3 Jobs)
+**Last Updated:** 2026-06-11 21:26 UTC | **Status:** Live ✅
 
 ### Job Categories:
-- 🔴 **Backend Developer**: 4 jobs
+- 🔴 **Backend Developer**: 3 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-| Role              | Company                    | Title                                                      | Location                          | Link                                                                                                                                                                                                                                      | Date Posted   |
-|:------------------|:---------------------------|:-----------------------------------------------------------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| Backend Developer | VishvaVidya                | Full Stack Web and Mobile App Developer Trainee (Freshers) | Pune Division, Maharashtra, India | [Apply](https://in.linkedin.com/jobs/view/full-stack-web-and-mobile-app-developer-trainee-freshers-at-vishvavidya-4405289858?position=5&pageNum=0&refId=OlQXcsDvLBa0ADIu1kSPwg%3D%3D&trackingId=8eJfarM30uR05u9xDE1T0g%3D%3D)             | 2026-04-22    |
-| Backend Developer | MBiG IT SERVICES PVT. LTD. | Full Stack Java Developer Internship – On-Site             | Bhandara, Maharashtra, India      | [Apply](https://in.linkedin.com/jobs/view/full-stack-java-developer-internship-%E2%80%93-on-site-at-mbig-it-services-pvt-ltd-4401961505?position=37&pageNum=0&refId=OlQXcsDvLBa0ADIu1kSPwg%3D%3D&trackingId=c6wSqAVESQHONK0k02nS0g%3D%3D) | 2026-04-21    |
-| Backend Developer | Faveo                      | Golang developer Internship                                | Jammu, Jammu & Kashmir, India     | [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-at-faveo-4415026604?position=57&pageNum=0&refId=OlQXcsDvLBa0ADIu1kSPwg%3D%3D&trackingId=CewUAmRk04WTUr9kGlA09Q%3D%3D)                                               | 2026-04-20    |
-| Backend Developer | Faveo                      | Golang developer Internship                                | Jammu, Jammu & Kashmir, India     | [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-at-faveo-4415026604?position=9&pageNum=5&refId=uD0YkdWhRp8lAnmT5ExJ7A%3D%3D&trackingId=XipM3ALBiRfcWuNqJ03ShA%3D%3D)                                                | 2026-04-20    |
+| Role              | Company                    | Title                                                      | Location                          | Link                                                                                                                                                                                                                                        | Date Posted   |
+|:------------------|:---------------------------|:-----------------------------------------------------------|:----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+| Backend Developer | FlatZ                      | Backend Developer Intern                                   | Karur, Tamil Nadu, India          | [Apply](https://in.linkedin.com/jobs/view/backend-developer-intern-at-flatz-4405025518?position=24&pageNum=0&refId=f3k6D%2FQilIyQJZ8kWWIV4g%3D%3D&trackingId=LyRrluVWoyqaVywjt%2BeKJw%3D%3D)                                                | 2026-04-23    |
+| Backend Developer | VishvaVidya                | Full Stack Web and Mobile App Developer Trainee (Freshers) | Pune Division, Maharashtra, India | [Apply](https://in.linkedin.com/jobs/view/full-stack-web-and-mobile-app-developer-trainee-freshers-at-vishvavidya-4405289858?position=5&pageNum=0&refId=f3k6D%2FQilIyQJZ8kWWIV4g%3D%3D&trackingId=yvhL9Vxk8AGJj%2BsSbTdbVw%3D%3D)           | 2026-04-22    |
+| Backend Developer | MBiG IT SERVICES PVT. LTD. | Full Stack Java Developer Internship – On-Site             | Bhandara, Maharashtra, India      | [Apply](https://in.linkedin.com/jobs/view/full-stack-java-developer-internship-%E2%80%93-on-site-at-mbig-it-services-pvt-ltd-4401961505?position=42&pageNum=0&refId=f3k6D%2FQilIyQJZ8kWWIV4g%3D%3D&trackingId=U7Y2raAOmM0dOKnGXTLPrA%3D%3D) | 2026-04-21    |
 <!--END_SECTION:workfetch-->
