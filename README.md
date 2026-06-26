@@ -4,16 +4,25 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 April 2026 Opportunities (1 Jobs)
-**Last Updated:** 2026-06-26 21:24 UTC | **Status:** Live ✅
+## 📅 April 2026 Opportunities (9 Jobs)
+**Last Updated:** 2026-06-26 23:13 UTC | **Status:** Live ✅
 
 ### Job Categories:
-- 🔴 **Software Engineer**: 1 jobs
+- 🔴 **Software Engineer**: 8 jobs
+- 🟠 **Backend Developer**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-| Role              | Company      | Title      | Location                | Link                                                                                                                                                                                     | Date Posted   |
-|:------------------|:-------------|:-----------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| Software Engineer | AtkinsRéalis | Apprentice | Gurgaon, Haryana, India | [Apply](https://in.linkedin.com/jobs/view/apprentice-at-atkinsr%C3%A9alis-4399219273?position=33&pageNum=0&refId=ujBfo85QWhXe3q%2FBDsxLmQ%3D%3D&trackingId=yD48q7Enhcisx69Jy9UICA%3D%3D) | 2026-04-28    |
+| Role              | Company                                                | Title                                          | Location                         | Link                                                                                                                                                                                                                                               | Date Posted   |
+|:------------------|:-------------------------------------------------------|:-----------------------------------------------|:---------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+| Software Engineer | AtkinsRéalis                                           | Apprentice                                     | Gurgaon, Haryana, India          | [Apply](https://in.linkedin.com/jobs/view/apprentice-at-atkinsr%C3%A9alis-4399219273?position=44&pageNum=0&refId=ejBK4yEEukiuJRIaOr8SJA%3D%3D&trackingId=QnH%2B2bOZKbq7tqjWy5r4iA%3D%3D)                                                           | 2026-04-28    |
+| Software Engineer | SparrowCX                                              | L1 Trainee / L1 support engineer               | Bengaluru, Karnataka, India      | [Apply](https://in.linkedin.com/jobs/view/l1-trainee-l1-support-engineer-at-sparrowcx-4405828340?position=20&pageNum=0&refId=ejBK4yEEukiuJRIaOr8SJA%3D%3D&trackingId=uZzlr4qcLEqA0uOZM4e2Mw%3D%3D)                                                 | 2026-04-23    |
+| Software Engineer | IMEG, formally Northern Engineering & Consulting, Inc. | Mechanical Graduate Trainee Engineer           | Bengaluru, Karnataka, India      | [Apply](https://in.linkedin.com/jobs/view/mechanical-graduate-trainee-engineer-at-imeg-formally-northern-engineering-consulting-inc-4404268105?position=26&pageNum=0&refId=ejBK4yEEukiuJRIaOr8SJA%3D%3D&trackingId=BsO9WBRlhgCFAO3MijkGOw%3D%3D)   | 2026-04-22    |
+| Software Engineer | IMEG, formally Northern Engineering & Consulting, Inc. | Mechanical Graduate Trainee Engineer           | Ahmedabad, Gujarat, India        | [Apply](https://in.linkedin.com/jobs/view/mechanical-graduate-trainee-engineer-at-imeg-formally-northern-engineering-consulting-inc-4404267198?position=33&pageNum=0&refId=ejBK4yEEukiuJRIaOr8SJA%3D%3D&trackingId=Y8o8%2Br2R17x9rtOZz2PvTw%3D%3D) | 2026-04-22    |
+| Software Engineer | IMEG, formally Northern Engineering & Consulting, Inc. | Electrical Graduate Trainee Engineer           | Bengaluru, Karnataka, India      | [Apply](https://in.linkedin.com/jobs/view/electrical-graduate-trainee-engineer-at-imeg-formally-northern-engineering-consulting-inc-4403975725?position=32&pageNum=0&refId=ejBK4yEEukiuJRIaOr8SJA%3D%3D&trackingId=2WoVCWtpXO13pCrcU4MXbA%3D%3D)   | 2026-04-21    |
+| Software Engineer | IMEG, formally Northern Engineering & Consulting, Inc. | Electrical Graduate Trainee Engineer           | Ahmedabad, Gujarat, India        | [Apply](https://in.linkedin.com/jobs/view/electrical-graduate-trainee-engineer-at-imeg-formally-northern-engineering-consulting-inc-4403990337?position=35&pageNum=0&refId=ejBK4yEEukiuJRIaOr8SJA%3D%3D&trackingId=yB4cPf34gCRZBb1c0EHs%2Fw%3D%3D) | 2026-04-21    |
+| Software Engineer | IMEG, formally Northern Engineering & Consulting, Inc. | Electrical Graduate Trainee Engineer           | Pendurthi, Andhra Pradesh, India | [Apply](https://in.linkedin.com/jobs/view/electrical-graduate-trainee-engineer-at-imeg-formally-northern-engineering-consulting-inc-4403993292?position=38&pageNum=0&refId=ejBK4yEEukiuJRIaOr8SJA%3D%3D&trackingId=G5NyJKNEqKKGKottMci4vw%3D%3D)   | 2026-04-21    |
+| Backend Developer | MBiG IT SERVICES PVT. LTD.                             | Full Stack Java Developer Internship – On-Site | Bhandara, Maharashtra, India     | [Apply](https://in.linkedin.com/jobs/view/full-stack-java-developer-internship-%E2%80%93-on-site-at-mbig-it-services-pvt-ltd-4401961505?position=32&pageNum=0&refId=9SHoyhsv0m1aWXusPAAgsw%3D%3D&trackingId=1rSeqcgSjtGIQ1%2B2E14Sqw%3D%3D)        | 2026-04-21    |
+| Software Engineer | Trinitysoft Solutions                                  | Digital Marketing Intern                       | Greater Kolkata Area             | [Apply](https://in.linkedin.com/jobs/view/digital-marketing-intern-at-trinitysoft-solutions-4403191371?position=48&pageNum=0&refId=ejBK4yEEukiuJRIaOr8SJA%3D%3D&trackingId=Z6r9AS3mrT5o8Zl9YXZi8g%3D%3D)                                           | 2026-04-17    |
 <!--END_SECTION:workfetch-->
