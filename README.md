@@ -5,7 +5,7 @@ Updates every hour with the latest job opportunities. Never miss out on your dre
 
 <!--START_SECTION:stats-->
 ## 📅 April 2026 Opportunities (1 Jobs)
-**Last Updated:** 2026-06-26 19:56 UTC | **Status:** Live ✅
+**Last Updated:** 2026-06-26 21:24 UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Engineer**: 1 jobs
@@ -15,5 +15,5 @@ Updates every hour with the latest job opportunities. Never miss out on your dre
 <!--START_SECTION:workfetch-->
 | Role              | Company      | Title      | Location                | Link                                                                                                                                                                                     | Date Posted   |
 |:------------------|:-------------|:-----------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| Software Engineer | AtkinsRéalis | Apprentice | Gurgaon, Haryana, India | [Apply](https://in.linkedin.com/jobs/view/apprentice-at-atkinsr%C3%A9alis-4399219273?position=32&pageNum=0&refId=mOVMiwPIMEvMpw5hPR8PQw%3D%3D&trackingId=0e85dqO7ejCF14T3%2B05dag%3D%3D) | 2026-04-28    |
+| Software Engineer | AtkinsRéalis | Apprentice | Gurgaon, Haryana, India | [Apply](https://in.linkedin.com/jobs/view/apprentice-at-atkinsr%C3%A9alis-4399219273?position=33&pageNum=0&refId=ujBfo85QWhXe3q%2FBDsxLmQ%3D%3D&trackingId=yD48q7Enhcisx69Jy9UICA%3D%3D) | 2026-04-28    |
 <!--END_SECTION:workfetch-->
