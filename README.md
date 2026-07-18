@@ -5,7 +5,7 @@ Updates every hour with the latest job opportunities. Never miss out on your dre
 
 <!--START_SECTION:stats-->
 ## 📅 April 2026 Opportunities (2 Jobs)
-**Last Updated:** 2026-07-18 22:56 UTC | **Status:** Live ✅
+**Last Updated:** 2026-07-18 23:59 UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Engineer**: 2 jobs
@@ -13,8 +13,8 @@ Updates every hour with the latest job opportunities. Never miss out on your dre
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-| Role              | Company               | Title                    | Location                | Link                                                                                                                                                                                                     | Date Posted   |
-|:------------------|:----------------------|:-------------------------|:------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| Software Engineer | AtkinsRéalis          | Apprentice               | Gurgaon, Haryana, India | [Apply](https://in.linkedin.com/jobs/view/apprentice-at-atkinsr%C3%A9alis-4399219273?position=35&pageNum=0&refId=qMSV8prB6P1gjQkLn09tYg%3D%3D&trackingId=4nID0a9X4jbJL7OdSpSobg%3D%3D)                   | 2026-04-28    |
-| Software Engineer | Trinitysoft Solutions | Digital Marketing Intern | Greater Kolkata Area    | [Apply](https://in.linkedin.com/jobs/view/digital-marketing-intern-at-trinitysoft-solutions-4403191371?position=36&pageNum=0&refId=qMSV8prB6P1gjQkLn09tYg%3D%3D&trackingId=yMf2nS9qsd1foShCEQxpOg%3D%3D) | 2026-04-17    |
+| Role              | Company               | Title                    | Location                | Link                                                                                                                                                                                                         | Date Posted   |
+|:------------------|:----------------------|:-------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+| Software Engineer | AtkinsRéalis          | Apprentice               | Gurgaon, Haryana, India | [Apply](https://in.linkedin.com/jobs/view/apprentice-at-atkinsr%C3%A9alis-4399219273?position=43&pageNum=0&refId=VSjUMOTuiYVFZRNpfqY0iw%3D%3D&trackingId=cR%2BlOfm8ePZKFD4ZDOyYTw%3D%3D)                     | 2026-04-28    |
+| Software Engineer | Trinitysoft Solutions | Digital Marketing Intern | Greater Kolkata Area    | [Apply](https://in.linkedin.com/jobs/view/digital-marketing-intern-at-trinitysoft-solutions-4403191371?position=44&pageNum=0&refId=VSjUMOTuiYVFZRNpfqY0iw%3D%3D&trackingId=kVbnPb%2FACAH%2BXlVgEZl8uQ%3D%3D) | 2026-04-17    |
 <!--END_SECTION:workfetch-->
