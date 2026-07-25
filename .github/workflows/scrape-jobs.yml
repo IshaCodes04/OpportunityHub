@@ -52,7 +52,8 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git commit -m "🔄 Update: job opportunities (Auto)" || echo "No changes to commit"
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          git commit -m "🔄 Auto Update: Job opportunities — ${TIMESTAMP}" || echo "No changes to commit"
 
       - name: 🚀 Push changes to GitHub
         uses: ad-m/github-push-action@master
