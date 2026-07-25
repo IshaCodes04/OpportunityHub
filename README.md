@@ -4,16 +4,16 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 26, 2026 — Live Opportunities (39 Jobs)
-**Last Updated:** 2026-07-25 08:56 PM UTC | **Status:** Live ✅
+## 📅 July 26, 2026 — Live Opportunities (41 Jobs)
+**Last Updated:** 2026-07-25 10:01 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 19 jobs
 - 🟠 **Software Engineer**: 9 jobs
 - 🟡 **Full Stack Engineer**: 8 jobs
-- 🟢 **Full Stack Developer**: 1 jobs
-- 🔵 **Nodejs Developer**: 1 jobs
-- 🟣 **Backend Developer**: 1 jobs
+- 🟢 **Nodejs Developer**: 2 jobs
+- 🔵 **Backend Developer**: 2 jobs
+- 🟣 **Full Stack Developer**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -241,6 +241,22 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-07-26 12:43 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=26&pageNum=0&refId=xueBzA0YAGcfbwRcXAcz%2Bg%3D%3D&trackingId=epwaveI1wagxE5i0w8RIHw%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-26 03:31 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=21&pageNum=0&refId=5a8Q4cSUKTkOWqYUP0VuJQ%3D%3D&trackingId=VWucHds53FCdJMKZ7w%2F2NQ%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-26 03:31 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=23&pageNum=0&refId=XbJozK1IdXReE4nY0Ow1Dg%3D%3D&trackingId=k1avRL3SgUQ7kkGSbLv6vA%3D%3D)
 
 ROLE        - Full Stack Engineer
 COMPANY     - Upthrust Inc.
