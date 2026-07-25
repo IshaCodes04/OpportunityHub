@@ -4,16 +4,16 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 25, 2026 — Live Opportunities (85 Jobs)
-**Last Updated:** 2026-07-25 09:58 AM UTC | **Status:** Live ✅
+## 📅 July 25, 2026 — Live Opportunities (90 Jobs)
+**Last Updated:** 2026-07-25 11:14 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 58 jobs
-- 🟠 **Software Engineer**: 14 jobs
+- 🟠 **Software Engineer**: 18 jobs
 - 🟡 **Full Stack Engineer**: 6 jobs
 - 🟢 **Backend Developer**: 4 jobs
 - 🔵 **Full Stack Developer**: 2 jobs
-- 🟣 **Nodejs Developer**: 1 jobs
+- 🟣 **Nodejs Developer**: 2 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -126,6 +126,22 @@ ROLE        - Software Engineer
 COMPANY     - Monotype
 TITLE       - Software Engineer Trainee
 DATE POSTED - 2026-07-23
+ADDED AT    - 2026-07-25 04:44 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443492919?position=6&pageNum=0&refId=tqXAAoYlOQGQUiOK%2FtBHEA%3D%3D&trackingId=FE8unULPhckLQE7V89c%2FJA%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Monotype
+TITLE       - Software Engineer Trainee
+DATE POSTED - 2026-07-23
+ADDED AT    - 2026-07-25 04:44 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443810802?position=7&pageNum=0&refId=tqXAAoYlOQGQUiOK%2FtBHEA%3D%3D&trackingId=EVf6demfPdb1N3UqIpHX2Q%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Monotype
+TITLE       - Software Engineer Trainee
+DATE POSTED - 2026-07-23
 ADDED AT    - 2026-07-25 03:28 PM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443492919?position=6&pageNum=0&refId=D8umskH6yMpDZLYCBQFfFQ%3D%3D&trackingId=D9A%2BHWXGCI69hM3AiEpiKg%3D%3D)
@@ -201,6 +217,14 @@ DATE POSTED - 2026-07-22
 ADDED AT    - 2026-07-25 12:22 PM IST
 LOCATION    - New Delhi, Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-intern-at-16-alpha-4442987544?position=15&pageNum=0&refId=FTUMXg%2BOeLk5pWcXpudEKg%3D%3D&trackingId=hXpliaoVUZcpyBPweXWpEA%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - 16 Alpha
+TITLE       - Software Engineer Intern
+DATE POSTED - 2026-07-22
+ADDED AT    - 2026-07-25 04:44 PM IST
+LOCATION    - New Delhi, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-intern-at-16-alpha-4442987544?position=14&pageNum=0&refId=tqXAAoYlOQGQUiOK%2FtBHEA%3D%3D&trackingId=S4rUDgtdLV2vlW1PkIcAGA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - American Express
@@ -409,6 +433,14 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-07-25 12:22 PM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=35&pageNum=0&refId=GtQK5F2UiuZ%2BYOn6J0M12A%3D%3D&trackingId=HqJkEClxKsGaggMzpPyx0A%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-25 04:44 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=25&pageNum=0&refId=P1o3DMF5ERoOVA8Cfz70xA%3D%3D&trackingId=IxbhuE%2FfRpI%2BCK0UYMm9Eg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
@@ -665,6 +697,14 @@ DATE POSTED - 2026-07-01
 ADDED AT    - 2026-07-25 12:22 PM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/web-development-internship-in-delhi-at-watrana-traction-private-limited-4435356459?position=55&pageNum=0&refId=GtQK5F2UiuZ%2BYOn6J0M12A%3D%3D&trackingId=up%2B%2Bq%2F08Vw4N2w804Nv6TA%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - DigitalXNode
+TITLE       - Fresher &#8211; Software Engineer | Gurugram
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-25 04:44 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-%238211-software-engineer-gurugram-at-digitalxnode-4432350778?position=9&pageNum=0&refId=tqXAAoYlOQGQUiOK%2FtBHEA%3D%3D&trackingId=V5BzSp7%2F8vvQxMU7VOzsZg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - DigitalXNode
