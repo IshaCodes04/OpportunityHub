@@ -1,0 +1,15 @@
+ROLE        - Backend Developer
+COMPANY     - Innovative Application Consultants
+TITLE       - Python Backend Developer Trainee / Intern
+DATE POSTED - 2026-07-21
+ADDED AT    - 2026-07-26 03:33 PM IST
+LOCATION    - Nehru Place, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/python-backend-developer-trainee-intern-at-innovative-application-consultants-4443321838?position=15&pageNum=0&refId=tJosyD5FF3w3F8mkwWfbIA%3D%3D&trackingId=aedDKl9WZ21pyVceRxFd8Q%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-26 03:33 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=29&pageNum=0&refId=tJosyD5FF3w3F8mkwWfbIA%3D%3D&trackingId=I6pNtYGhcRQlm60Kmf5bkQ%3D%3D)
