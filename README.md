@@ -4,14 +4,14 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 26, 2026 — Live Opportunities (224 Jobs)
-**Last Updated:** 2026-07-26 04:04 PM UTC | **Status:** Live ✅
+## 📅 July 26, 2026 — Live Opportunities (226 Jobs)
+**Last Updated:** 2026-07-26 06:02 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 137 jobs
 - 🟠 **Full Stack Engineer**: 35 jobs
 - 🟡 **Software Engineer**: 34 jobs
-- 🟢 **Backend Developer**: 9 jobs
+- 🟢 **Backend Developer**: 11 jobs
 - 🔵 **Full Stack Developer**: 7 jobs
 - 🟣 **Nodejs Developer**: 2 jobs
 <!--END_SECTION:stats-->
@@ -726,6 +726,14 @@ ROLE        - Backend Developer
 COMPANY     - Innovative Application Consultants
 TITLE       - Python Backend Developer Trainee / Intern
 DATE POSTED - 2026-07-21
+ADDED AT    - 2026-07-26 11:32 PM IST
+LOCATION    - Nehru Place, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/python-backend-developer-trainee-intern-at-innovative-application-consultants-4443321838?position=15&pageNum=0&refId=8SKm%2BsuHAyKWJHNZDmTBgQ%3D%3D&trackingId=%2Bmuq3fIUP1wXTudx3HcwNg%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Innovative Application Consultants
+TITLE       - Python Backend Developer Trainee / Intern
+DATE POSTED - 2026-07-21
 ADDED AT    - 2026-07-26 09:34 PM IST
 LOCATION    - Nehru Place, Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/python-backend-developer-trainee-intern-at-innovative-application-consultants-4443321838?position=15&pageNum=0&refId=hkF1LBLlNENuleMl630rYA%3D%3D&trackingId=JbFroQkVWA1OgHmCr7GGzA%3D%3D)
@@ -817,6 +825,14 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-07-26 12:43 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=26&pageNum=0&refId=xueBzA0YAGcfbwRcXAcz%2Bg%3D%3D&trackingId=epwaveI1wagxE5i0w8RIHw%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-26 11:32 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=28&pageNum=0&refId=8SKm%2BsuHAyKWJHNZDmTBgQ%3D%3D&trackingId=2l3uazU76wUnmF71QgYgiw%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
