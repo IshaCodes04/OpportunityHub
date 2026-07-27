@@ -4,13 +4,13 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 28, 2026 — Live Opportunities (20 Jobs)
-**Last Updated:** 2026-07-27 07:40 PM UTC | **Status:** Live ✅
+## 📅 July 28, 2026 — Live Opportunities (21 Jobs)
+**Last Updated:** 2026-07-27 09:14 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 18 jobs
-- 🟠 **Full Stack Developer**: 1 jobs
-- 🟡 **Backend Developer**: 1 jobs
+- 🟠 **Backend Developer**: 2 jobs
+- 🟡 **Full Stack Developer**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -70,6 +70,14 @@ DATE POSTED - 2026-07-20
 ADDED AT    - 2026-07-28 01:10 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-agent-development-internship-in-noida-at-nippon-data-systems-4442545895?position=1&pageNum=7&refId=SKmpgvM8prW%2FB490fLfn7A%3D%3D&trackingId=AMOx9fZMloDB3oZbYqmVxw%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-28 02:44 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=21&pageNum=0&refId=cOPbpmkY3oEu4xBrVGVV1A%3D%3D&trackingId=T7LzcM3hq5eJVJl17Caouw%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
