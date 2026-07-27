@@ -4,16 +4,16 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 27, 2026 — Live Opportunities (99 Jobs)
-**Last Updated:** 2026-07-27 12:27 PM UTC | **Status:** Live ✅
+## 📅 July 27, 2026 — Live Opportunities (102 Jobs)
+**Last Updated:** 2026-07-27 03:44 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 56 jobs
 - 🟠 **Full Stack Engineer**: 25 jobs
-- 🟡 **Full Stack Developer**: 5 jobs
-- 🟢 **Software Engineer**: 5 jobs
-- 🔵 **Nodejs Developer**: 5 jobs
-- 🟣 **Backend Developer**: 2 jobs
+- 🟡 **Full Stack Developer**: 6 jobs
+- 🟢 **Nodejs Developer**: 6 jobs
+- 🔵 **Software Engineer**: 5 jobs
+- 🟣 **Backend Developer**: 3 jobs
 - 🟤 **Mern Stack Developer Intern**: 1 jobs
 <!--END_SECTION:stats-->
 
@@ -370,6 +370,30 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-07-27 10:09 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=22&pageNum=0&refId=Kw5%2BAGhB61HqTlEwI24HcQ%3D%3D&trackingId=Onzt%2Boy2Fg1zocGlzhj6Dw%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 09:14 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=18&pageNum=0&refId=dGH3S9tOTK3%2BUULx57Ef6A%3D%3D&trackingId=9hqv4lERd%2FTLZsjEma5wPg%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 09:14 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=23&pageNum=0&refId=LHT5QX33Nzu1V1saAID5Qw%3D%3D&trackingId=FvP8epR6mSnwVVtqK7pUXg%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 09:14 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=27&pageNum=0&refId=pf06nQbil4CUqpmzppi2qw%3D%3D&trackingId=yqVTRW6wzO3dsGKfLjf5dw%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
