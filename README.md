@@ -4,16 +4,17 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 27, 2026 — Live Opportunities (64 Jobs)
-**Last Updated:** 2026-07-27 12:02 AM UTC | **Status:** Live ✅
+## 📅 July 27, 2026 — Live Opportunities (66 Jobs)
+**Last Updated:** 2026-07-27 04:39 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 38 jobs
 - 🟠 **Full Stack Engineer**: 13 jobs
 - 🟡 **Software Engineer**: 5 jobs
-- 🟢 **Full Stack Developer**: 3 jobs
-- 🔵 **Nodejs Developer**: 3 jobs
+- 🟢 **Nodejs Developer**: 4 jobs
+- 🔵 **Full Stack Developer**: 3 jobs
 - 🟣 **Backend Developer**: 2 jobs
+- 🟤 **Mern Stack Developer Intern**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -249,6 +250,14 @@ DATE POSTED - 2026-07-21
 ADDED AT    - 2026-07-27 01:41 AM IST
 LOCATION    - Nehru Place, Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/python-backend-developer-trainee-intern-at-innovative-application-consultants-4443321838?position=15&pageNum=0&refId=n%2FY%2Bb08Ns%2BsTYq8Gne26%2Bw%3D%3D&trackingId=vXrCkMjV9BS72UumlE%2F3yA%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 10:09 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=22&pageNum=0&refId=Kw5%2BAGhB61HqTlEwI24HcQ%3D%3D&trackingId=Onzt%2Boy2Fg1zocGlzhj6Dw%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
@@ -529,4 +538,12 @@ DATE POSTED - 2026-07-01
 ADDED AT    - 2026-07-27 01:41 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-%238211-software-engineer-gurugram-at-digitalxnode-4432350778?position=15&pageNum=0&refId=qB0DHt3dhuLnI1b3tu1fLg%3D%3D&trackingId=GELH23WrehVyABdMkj96%2FA%3D%3D)
+
+ROLE        - Mern Stack Developer Intern
+COMPANY     - Neuailes Global
+TITLE       - Junior Node.js Developer
+DATE POSTED - 2026-06-28
+ADDED AT    - 2026-07-27 10:09 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/junior-node-js-developer-at-neuailes-global-4433622258?position=60&pageNum=0&refId=RuSwL2ucRNDE%2Bp3WyTGz8w%3D%3D&trackingId=iHrhku7vTxjDPraJYqSoiA%3D%3D)
 <!--END_SECTION:workfetch-->
