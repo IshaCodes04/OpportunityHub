@@ -4,21 +4,29 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 27, 2026 — Live Opportunities (102 Jobs)
-**Last Updated:** 2026-07-27 03:44 PM UTC | **Status:** Live ✅
+## 📅 July 27, 2026 — Live Opportunities (123 Jobs)
+**Last Updated:** 2026-07-27 05:45 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
-- 🔴 **Software Developer**: 56 jobs
+- 🔴 **Software Developer**: 75 jobs
 - 🟠 **Full Stack Engineer**: 25 jobs
-- 🟡 **Full Stack Developer**: 6 jobs
-- 🟢 **Nodejs Developer**: 6 jobs
+- 🟡 **Nodejs Developer**: 7 jobs
+- 🟢 **Full Stack Developer**: 6 jobs
 - 🔵 **Software Engineer**: 5 jobs
-- 🟣 **Backend Developer**: 3 jobs
+- 🟣 **Backend Developer**: 4 jobs
 - 🟤 **Mern Stack Developer Intern**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
+ROLE        - Software Developer
+COMPANY     - SpectoV
+TITLE       - AI Internship
+DATE POSTED - 2026-07-26
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-internship-at-spectov-4444389141?position=9&pageNum=10&refId=Ways%2FaOHTwgPX93hngjAIQ%3D%3D&trackingId=aBlYvAk%2FWMLBh1VttOmfXw%3D%3D)
+
 ROLE        - Software Developer
 COMPANY     - StudyECart Technologies Pvt Ltd
 TITLE       - Tower Research Capital Core Engineering Intern | Gurugram
@@ -58,6 +66,38 @@ DATE POSTED - 2026-07-26
 ADDED AT    - 2026-07-27 03:31 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/tower-research-capital-core-engineering-intern-gurugram-at-studyecart-technologies-pvt-ltd-4444854261?position=9&pageNum=12&refId=d9wDRfBbTcy1v6kwFShhIw%3D%3D&trackingId=N1AYwp%2BR18cxsQGzUOrNvQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Intouch Quality Services Private Limited
+TITLE       - Front End Development Internship in Dehradun, Delhi
+DATE POSTED - 2026-07-25
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/front-end-development-internship-in-dehradun-delhi-at-intouch-quality-services-private-limited-4445276210?position=34&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=DjDoVWWAcGv14YGxA1jHgg%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Intouch Quality Services Private Limited
+TITLE       - Front End Development Internship in Dehradun, Delhi
+DATE POSTED - 2026-07-25
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/front-end-development-internship-in-dehradun-delhi-at-intouch-quality-services-private-limited-4445276210?position=9&pageNum=2&refId=ATrb3RoKkwNPpsTPlkV%2BZQ%3D%3D&trackingId=f3hz6hT%2F4LQzcBYdX7XTEA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Intouch Quality Services Private Limited
+TITLE       - Full Stack Development Internship in Delhi, Dehradun
+DATE POSTED - 2026-07-25
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-dehradun-at-intouch-quality-services-private-limited-4445262623?position=2&pageNum=5&refId=qXAJI%2BhwmVcyysG%2B5NBicA%3D%3D&trackingId=CKn1nCgZfw2TyIS%2BIjxD%2BA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Intouch Quality Services Private Limited
+TITLE       - Full Stack Development Internship in Delhi, Dehradun
+DATE POSTED - 2026-07-25
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-dehradun-at-intouch-quality-services-private-limited-4445262623?position=52&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=M9TV0w3QPFYAJVsiQwuJ1Q%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - Intouch Quality Services Private Limited
@@ -114,6 +154,14 @@ DATE POSTED - 2026-07-25
 ADDED AT    - 2026-07-27 03:31 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-dehradun-at-intouch-quality-services-private-limited-4445262623?position=60&pageNum=0&refId=on6zgolWW%2BAF68Lcslh%2FAQ%3D%3D&trackingId=Kmtqy%2BtxCDN5cdGrxlfgcw%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - American Express
+TITLE       - Apprentice
+DATE POSTED - 2026-07-24
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/apprentice-at-american-express-4444380574?position=39&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=8cm8%2BlqJ17J1lwMxvIRQqA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - American Express
@@ -279,6 +327,22 @@ ROLE        - Software Developer
 COMPANY     - American Express
 TITLE       - Apprentice - Enterprise Technology Services
 DATE POSTED - 2026-07-22
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/apprentice-enterprise-technology-services-at-american-express-4442982057?position=38&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=oMaefa6k6%2FX6gJYlGgOVjg%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Flick2Know
+TITLE       - Computer Vision Intern
+DATE POSTED - 2026-07-22
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/computer-vision-intern-at-flick2know-4443705380?position=2&pageNum=10&refId=Ways%2FaOHTwgPX93hngjAIQ%3D%3D&trackingId=D8Y46lO7uuQPmGf8K5Zg%2Fw%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - American Express
+TITLE       - Apprentice - Enterprise Technology Services
+DATE POSTED - 2026-07-22
 ADDED AT    - 2026-07-27 05:57 PM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/apprentice-enterprise-technology-services-at-american-express-4442982057?position=47&pageNum=0&refId=w1Ek02gUMMJLZKZrWawwVQ%3D%3D&trackingId=2l694%2FAdarOZZ6ZTYUfSVA%3D%3D)
@@ -362,6 +426,70 @@ DATE POSTED - 2026-07-21
 ADDED AT    - 2026-07-27 01:41 AM IST
 LOCATION    - Nehru Place, Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/python-backend-developer-trainee-intern-at-innovative-application-consultants-4443321838?position=15&pageNum=0&refId=n%2FY%2Bb08Ns%2BsTYq8Gne26%2Bw%3D%3D&trackingId=vXrCkMjV9BS72UumlE%2F3yA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - SMARRTIF AI
+TITLE       - AI Tool Developer Internship in Delhi (Hybrid)
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-tool-developer-internship-in-delhi-hybrid-at-smarrtif-ai-4441682921?position=31&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=IfNEMWiDkNt2Q0DAVWpxIQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - SMARRTIF AI
+TITLE       - AI Tool Developer Internship in Delhi (Hybrid)
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-tool-developer-internship-in-delhi-hybrid-at-smarrtif-ai-4441682921?position=6&pageNum=2&refId=ATrb3RoKkwNPpsTPlkV%2BZQ%3D%3D&trackingId=cp%2Fss85XJseiKQ01XdJF7w%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - DeHaat
+TITLE       - Engineering Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/engineering-intern-at-dehaat-4441176448?position=1&pageNum=2&refId=ATrb3RoKkwNPpsTPlkV%2BZQ%3D%3D&trackingId=S7PnocByEuvExo80rQbDvA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - DeHaat
+TITLE       - Engineering Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/engineering-intern-at-dehaat-4441176448?position=26&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=lJ44qNEaN1SSGKUL03dRfA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=19&pageNum=0&refId=9DNzV4BDHXu0XIk7ha9bBw%3D%3D&trackingId=FvZt1U5dCr9CQhUieayCCA%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=23&pageNum=0&refId=gWLeKzcW2yJfUZbnarYhzA%3D%3D&trackingId=el6yuFMbykxjw%2F13zmmbrA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=28&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=FPxhZ3naXvDvrTA9eRxEZQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=3&pageNum=2&refId=ATrb3RoKkwNPpsTPlkV%2BZQ%3D%3D&trackingId=GyLrSQiEEg3%2FL65M9kTkkg%3D%3D)
 
 ROLE        - Nodejs Developer
 COMPANY     - Upthrust Inc.
@@ -620,6 +748,22 @@ LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=28&pageNum=0&refId=n%2FY%2Bb08Ns%2BsTYq8Gne26%2Bw%3D%3D&trackingId=UTRmrkdEMX1kE2T0XYI68g%3D%3D)
 
 ROLE        - Software Developer
+COMPANY     - Nuclei
+TITLE       - Product Intern
+DATE POSTED - 2026-07-16
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/product-intern-at-nuclei-4440607455?position=4&pageNum=12&refId=gCKstpYnhyNDczMS58MCsw%3D%3D&trackingId=BhOEygHfFNxwuq%2Btkm9TUQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Attero
+TITLE       - Intern
+DATE POSTED - 2026-07-15
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/intern-at-attero-4440968523?position=7&pageNum=10&refId=Ways%2FaOHTwgPX93hngjAIQ%3D%3D&trackingId=qQS7mnCY4%2FK3AWnLT80zAA%3D%3D)
+
+ROLE        - Software Developer
 COMPANY     - Zaptics Research
 TITLE       - Embedded Systems Internship in Noida
 DATE POSTED - 2026-07-13
@@ -671,6 +815,14 @@ ROLE        - Software Developer
 COMPANY     - AppVersal
 TITLE       - Golang Developer Internship in Noida, Greater Noida
 DATE POSTED - 2026-07-10
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-in-noida-greater-noida-at-appversal-4438852515?position=36&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=s9JSRC%2BQq0eVRCvJ4ZpNzg%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - AppVersal
+TITLE       - Golang Developer Internship in Noida, Greater Noida
+DATE POSTED - 2026-07-10
 ADDED AT    - 2026-07-27 05:57 PM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-in-noida-greater-noida-at-appversal-4438852515?position=44&pageNum=0&refId=w1Ek02gUMMJLZKZrWawwVQ%3D%3D&trackingId=cV7RitJ6jVqLIn6ZvnQzKg%3D%3D)
@@ -690,6 +842,22 @@ DATE POSTED - 2026-07-10
 ADDED AT    - 2026-07-27 03:31 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-in-noida-greater-noida-at-appversal-4438852515?position=42&pageNum=0&refId=on6zgolWW%2BAF68Lcslh%2FAQ%3D%3D&trackingId=TG7ZgK1fpNuUD6PACTVNEw%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - DigitalXNode
+TITLE       - Fresher &#8211; Software Engineer | Gurugram
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-%238211-software-engineer-gurugram-at-digitalxnode-4432350778?position=6&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=hm2dI%2BA5Q%2FDfVF8xzGJquA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - WATRANA TRACTION PRIVATE LIMITED
+TITLE       - Web Development Internship in Delhi
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-27 11:15 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/web-development-internship-in-delhi-at-watrana-traction-private-limited-4435356459?position=47&pageNum=0&refId=kxP1QFTWQUkwAaKX%2FcvdUA%3D%3D&trackingId=5EFdcO%2FpB%2Bn%2BH3El5XMBtQ%3D%3D)
 
 ROLE        - Full Stack Engineer
 COMPANY     - DigitalXNode
