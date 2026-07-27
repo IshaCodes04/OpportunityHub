@@ -4,15 +4,15 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 27, 2026 — Live Opportunities (66 Jobs)
-**Last Updated:** 2026-07-27 04:39 AM UTC | **Status:** Live ✅
+## 📅 July 27, 2026 — Live Opportunities (74 Jobs)
+**Last Updated:** 2026-07-27 08:33 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 38 jobs
-- 🟠 **Full Stack Engineer**: 13 jobs
+- 🟠 **Full Stack Engineer**: 19 jobs
 - 🟡 **Software Engineer**: 5 jobs
-- 🟢 **Nodejs Developer**: 4 jobs
-- 🔵 **Full Stack Developer**: 3 jobs
+- 🟢 **Nodejs Developer**: 5 jobs
+- 🔵 **Full Stack Developer**: 4 jobs
 - 🟣 **Backend Developer**: 2 jobs
 - 🟤 **Mern Stack Developer Intern**: 1 jobs
 <!--END_SECTION:stats-->
@@ -146,6 +146,38 @@ DATE POSTED - 2026-07-23
 ADDED AT    - 2026-07-27 03:31 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443810802?position=38&pageNum=0&refId=4vx2%2FLuDytj5ss3wBvx8EA%3D%3D&trackingId=mhbWnVUuABT3nybx6OSZkQ%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Monotype
+TITLE       - Software Engineer Trainee
+DATE POSTED - 2026-07-23
+ADDED AT    - 2026-07-27 02:03 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443492919?position=56&pageNum=0&refId=cb4%2FAo%2Bbtymm4WN0AlZZSA%3D%3D&trackingId=h2cKADmFz0AUTX%2BwDCVrhQ%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Monotype
+TITLE       - Software Engineer Trainee
+DATE POSTED - 2026-07-23
+ADDED AT    - 2026-07-27 02:03 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443492919?position=8&pageNum=5&refId=LGC73yW7QriJNPmKloOVmw%3D%3D&trackingId=1WQWbYzHZBG8ydFzW2qKaA%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Monotype
+TITLE       - Software Engineer Trainee
+DATE POSTED - 2026-07-23
+ADDED AT    - 2026-07-27 02:03 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443810802?position=57&pageNum=0&refId=cb4%2FAo%2Bbtymm4WN0AlZZSA%3D%3D&trackingId=BOXZG6MUvdQdi6CCjH9zlA%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Monotype
+TITLE       - Software Engineer Trainee
+DATE POSTED - 2026-07-23
+ADDED AT    - 2026-07-27 02:03 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443810802?position=9&pageNum=5&refId=LGC73yW7QriJNPmKloOVmw%3D%3D&trackingId=uJwA0kHEiUekmL9trcLsPA%3D%3D)
 
 ROLE        - Full Stack Engineer
 COMPANY     - Monotype
@@ -383,6 +415,30 @@ ROLE        - Full Stack Engineer
 COMPANY     - Upthrust Inc.
 TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
 DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 02:03 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=19&pageNum=0&refId=cb4%2FAo%2Bbtymm4WN0AlZZSA%3D%3D&trackingId=3Q1rOCLHJKk2FSCTu%2FYpcg%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 02:03 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=20&pageNum=0&refId=8ncC%2Bug0oRn7LLlR%2BDzYvA%3D%3D&trackingId=tf4UNkZCJ5%2BsvZsPR3O2fA%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-27 02:03 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=25&pageNum=0&refId=G7QeksAXu8PLgM4OxapXlg%3D%3D&trackingId=P%2BakK6BDr80euKvQiKMvOA%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
 ADDED AT    - 2026-07-27 01:41 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=17&pageNum=0&refId=qB0DHt3dhuLnI1b3tu1fLg%3D%3D&trackingId=rsD%2B1HaVj3QFsoFBWd3bwQ%3D%3D)
@@ -530,6 +586,14 @@ DATE POSTED - 2026-07-01
 ADDED AT    - 2026-07-27 03:31 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/web-development-internship-in-delhi-at-watrana-traction-private-limited-4435356459?position=55&pageNum=0&refId=on6zgolWW%2BAF68Lcslh%2FAQ%3D%3D&trackingId=kK5pzut00HQaosMfpuADxg%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - DigitalXNode
+TITLE       - Fresher &#8211; Software Engineer | Gurugram
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-27 02:03 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-%238211-software-engineer-gurugram-at-digitalxnode-4432350778?position=15&pageNum=0&refId=cb4%2FAo%2Bbtymm4WN0AlZZSA%3D%3D&trackingId=qXqbx%2FS785qNN0onO%2F4uYQ%3D%3D)
 
 ROLE        - Full Stack Engineer
 COMPANY     - DigitalXNode
