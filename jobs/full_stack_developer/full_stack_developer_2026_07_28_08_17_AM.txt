@@ -1,0 +1,15 @@
+ROLE        - Full Stack Developer
+COMPANY     - Eduzent Infotech Private Limited
+TITLE       - Frontend Developer Internship - Noida
+DATE POSTED - 2026-07-28
+ADDED AT    - 2026-07-28 08:17 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/frontend-developer-internship-noida-at-eduzent-infotech-private-limited-4445441425?position=35&pageNum=0&refId=iAokROiBEiGkV9EqgxB%2Blg%3D%3D&trackingId=C34ut8p6pch0NSpxm9bwYg%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-28 08:17 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=19&pageNum=0&refId=iAokROiBEiGkV9EqgxB%2Blg%3D%3D&trackingId=YTIuUFGUMrZXkUfl4ZhRcw%3D%3D)
