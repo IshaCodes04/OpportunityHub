@@ -4,13 +4,14 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 29, 2026 — Live Opportunities (25 Jobs)
-**Last Updated:** 2026-07-28 08:17 PM UTC | **Status:** Live ✅
+## 📅 July 29, 2026 — Live Opportunities (29 Jobs)
+**Last Updated:** 2026-07-28 10:07 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 23 jobs
-- 🟠 **Full Stack Developer**: 1 jobs
-- 🟡 **Backend Developer**: 1 jobs
+- 🟠 **Full Stack Engineer**: 3 jobs
+- 🟡 **Backend Developer**: 2 jobs
+- 🟢 **Full Stack Developer**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -71,6 +72,14 @@ ADDED AT    - 2026-07-29 01:47 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/apprentice-at-american-express-4444380574?position=35&pageNum=0&refId=erbvVVrjLJNzit1FJjYSAA%3D%3D&trackingId=oRccClrLEuxXvMRMK0sq%2FA%3D%3D)
 
+ROLE        - Full Stack Engineer
+COMPANY     - Monotype
+TITLE       - Software Engineer Trainee
+DATE POSTED - 2026-07-23
+ADDED AT    - 2026-07-29 03:37 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443810802?position=44&pageNum=0&refId=59aRnMJtXc%2Brb6%2FUqsx3zQ%3D%3D&trackingId=oUQonhzedhcIyKkkYABUDQ%3D%3D)
+
 ROLE        - Software Developer
 COMPANY     - American Express
 TITLE       - Apprentice - Enterprise Technology Services
@@ -78,6 +87,22 @@ DATE POSTED - 2026-07-22
 ADDED AT    - 2026-07-29 01:47 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/apprentice-enterprise-technology-services-at-american-express-4442982057?position=43&pageNum=0&refId=erbvVVrjLJNzit1FJjYSAA%3D%3D&trackingId=k0Bq4ElR0oQTHn6iAI6Ihw%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-29 03:37 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=15&pageNum=0&refId=59aRnMJtXc%2Brb6%2FUqsx3zQ%3D%3D&trackingId=ggn062hhbkHytTdoetXHhw%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-29 03:37 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=22&pageNum=0&refId=B3wIZG7jrl6QrnDV7KT2Tg%3D%3D&trackingId=IxslfgHEcsG%2BQg9eQjcyqA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
@@ -182,6 +207,14 @@ DATE POSTED - 2026-07-04
 ADDED AT    - 2026-07-29 01:47 AM IST
 LOCATION    - Gurgaon, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/product-engineering-ai-assisted-development-internship-in-gurgaon-hybrid-at-experiences-digital-4436795911?position=6&pageNum=10&refId=%2BcC0Y%2BK0VJLJh0XWu3xI1A%3D%3D&trackingId=ynnbpJsmMacKCIqDfm25KA%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - DigitalXNode
+TITLE       - Fresher &#8211; Software Engineer | Gurugram
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-29 03:37 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-%238211-software-engineer-gurugram-at-digitalxnode-4432350778?position=10&pageNum=0&refId=59aRnMJtXc%2Brb6%2FUqsx3zQ%3D%3D&trackingId=FYq5Q6YHLECKk7y2rtWnwA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - DigitalXNode
