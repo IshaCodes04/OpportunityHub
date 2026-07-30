@@ -4,13 +4,13 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 30, 2026 — Live Opportunities (115 Jobs)
-**Last Updated:** 2026-07-30 10:28 AM UTC | **Status:** Live ✅
+## 📅 July 30, 2026 — Live Opportunities (119 Jobs)
+**Last Updated:** 2026-07-30 12:47 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 90 jobs
-- 🟠 **Software Engineer**: 9 jobs
-- 🟡 **Full Stack Engineer**: 8 jobs
+- 🟠 **Full Stack Engineer**: 12 jobs
+- 🟡 **Software Engineer**: 9 jobs
 - 🟢 **Nodejs Developer**: 5 jobs
 - 🔵 **Backend Developer**: 2 jobs
 - 🟣 **Full Stack Developer**: 1 jobs
@@ -41,6 +41,14 @@ DATE POSTED - 2026-07-30
 ADDED AT    - 2026-07-30 09:38 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/mobile-app-development-internship-in-delhi-at-rakshak-securitas-pvt-ltd-4446889507?position=5&pageNum=10&refId=QA2Kdu9clEjcV7zvZKN77A%3D%3D&trackingId=x44dGxN4k5dVy9NgqgnH8g%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Zenia Mobile
+TITLE       - React Native Developer (Intern / Junior) – Remote
+DATE POSTED - 2026-07-30
+ADDED AT    - 2026-07-30 06:17 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/react-native-developer-intern-junior-%E2%80%93-remote-at-zenia-mobile-4444562096?position=41&pageNum=0&refId=71DeEbk1bEddfwBMWAyRsg%3D%3D&trackingId=0nG8dbKZrqXJAT0tpAyqTw%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - Olbrain
@@ -153,6 +161,14 @@ DATE POSTED - 2026-07-29
 ADDED AT    - 2026-07-30 09:38 AM IST
 LOCATION    - Kapashera, Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/technical-intern-ai-full-stack-at-vara5-4446062324?position=3&pageNum=12&refId=k0gS%2Bv3v4CSOgcQXGk6yIA%3D%3D&trackingId=b3IufFulDOy3naykc0scgQ%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-07-30 06:17 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=24&pageNum=0&refId=71DeEbk1bEddfwBMWAyRsg%3D%3D&trackingId=0qprHEd4JJltpTbsDUbzKQ%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - VAYUZ Technologies
@@ -554,6 +570,14 @@ ADDED AT    - 2026-07-30 09:38 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=35&pageNum=0&refId=sTXha8TUbx1WTGa0aeiKuA%3D%3D&trackingId=YbadOKSCWiZCG0eAsHmpvA%3D%3D)
 
+ROLE        - Full Stack Engineer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-30 06:17 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=14&pageNum=0&refId=71DeEbk1bEddfwBMWAyRsg%3D%3D&trackingId=5GBX4btyyCYzJOO53vXOMg%3D%3D)
+
 ROLE        - Nodejs Developer
 COMPANY     - Upthrust Inc.
 TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
@@ -857,6 +881,14 @@ DATE POSTED - 2026-07-01
 ADDED AT    - 2026-07-30 09:38 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/web-development-internship-in-delhi-at-watrana-traction-private-limited-4435356459?position=46&pageNum=0&refId=sTXha8TUbx1WTGa0aeiKuA%3D%3D&trackingId=GFr8U9ch%2Bsn57vHnLKl1OA%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - DigitalXNode
+TITLE       - Fresher &#8211; Software Engineer | Gurugram
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-30 06:17 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-%238211-software-engineer-gurugram-at-digitalxnode-4432350778?position=11&pageNum=0&refId=71DeEbk1bEddfwBMWAyRsg%3D%3D&trackingId=S26RAVYH3iUBfIzMEdJ73g%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - DigitalXNode
