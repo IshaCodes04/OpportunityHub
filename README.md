@@ -4,14 +4,14 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 30, 2026 — Live Opportunities (54 Jobs)
-**Last Updated:** 2026-07-29 10:08 PM UTC | **Status:** Live ✅
+## 📅 July 30, 2026 — Live Opportunities (55 Jobs)
+**Last Updated:** 2026-07-30 12:03 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 42 jobs
 - 🟠 **Software Engineer**: 6 jobs
 - 🟡 **Full Stack Engineer**: 3 jobs
-- 🟢 **Nodejs Developer**: 2 jobs
+- 🟢 **Nodejs Developer**: 3 jobs
 - 🔵 **Full Stack Developer**: 1 jobs
 <!--END_SECTION:stats-->
 
@@ -224,6 +224,14 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-07-30 12:52 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=21&pageNum=0&refId=dLUAJTzft4QEpFbp89cmbg%3D%3D&trackingId=lho1k0LTvPaOOddH7rBMgw%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-30 05:33 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=19&pageNum=0&refId=s1444Tpnr%2FWTPq4beKOTIw%3D%3D&trackingId=sO5umls2CUhCHMVNN4uejA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
