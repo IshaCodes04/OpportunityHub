@@ -1,0 +1,15 @@
+ROLE        - Backend Developer
+COMPANY     - Spectent™
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-30
+ADDED AT    - 2026-07-30 01:06 PM IST
+LOCATION    - Gurgaon, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-spectent%E2%84%A2-4444540185?position=6&pageNum=0&refId=xl95rDEK4orv1yqDfkzxoQ%3D%3D&trackingId=gFzstHRQA1yP9BncsJbBqA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-30 01:06 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=26&pageNum=0&refId=xl95rDEK4orv1yqDfkzxoQ%3D%3D&trackingId=Rf0szXj%2BIWl%2Fu%2FbV8zG7AA%3D%3D)
