@@ -4,8 +4,8 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 31, 2026 — Live Opportunities (175 Jobs)
-**Last Updated:** 2026-07-31 03:22 PM UTC | **Status:** Live ✅
+## 📅 July 31, 2026 — Live Opportunities (177 Jobs)
+**Last Updated:** 2026-07-31 05:42 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 132 jobs
@@ -13,11 +13,19 @@ Updates every hour with the latest job opportunities. Never miss out on your dre
 - 🟡 **Full Stack Engineer**: 12 jobs
 - 🟢 **Full Stack Developer**: 6 jobs
 - 🔵 **Nodejs Developer**: 5 jobs
-- 🟣 **Backend Developer**: 3 jobs
+- 🟣 **Backend Developer**: 5 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-07-31 11:12 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=34&pageNum=0&refId=t4VuF%2BzITiMY4RXga%2Fhe%2FA%3D%3D&trackingId=Bh1xKeGW%2BJHRCoLkctsk%2BA%3D%3D)
+
 ROLE        - Nodejs Developer
 COMPANY     - Multiplier AI
 TITLE       - Full Stack Developer Intern
@@ -665,6 +673,14 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-07-31 12:18 PM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=15&pageNum=0&refId=6T0saA9t76Kqn%2FtrD9GJWQ%3D%3D&trackingId=syKhcgJJxg0ABPearnMt2Q%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-31 11:12 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=24&pageNum=0&refId=t4VuF%2BzITiMY4RXga%2Fhe%2FA%3D%3D&trackingId=RlvQ7NVqOkbkHrjQPWi0oA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
