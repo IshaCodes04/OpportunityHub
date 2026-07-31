@@ -4,16 +4,16 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 31, 2026 — Live Opportunities (148 Jobs)
-**Last Updated:** 2026-07-31 09:48 AM UTC | **Status:** Live ✅
+## 📅 July 31, 2026 — Live Opportunities (152 Jobs)
+**Last Updated:** 2026-07-31 12:03 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 113 jobs
-- 🟠 **Software Engineer**: 15 jobs
+- 🟠 **Software Engineer**: 17 jobs
 - 🟡 **Full Stack Engineer**: 12 jobs
-- 🟢 **Full Stack Developer**: 3 jobs
+- 🟢 **Full Stack Developer**: 4 jobs
 - 🔵 **Nodejs Developer**: 3 jobs
-- 🟣 **Backend Developer**: 2 jobs
+- 🟣 **Backend Developer**: 3 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -129,6 +129,14 @@ DATE POSTED - 2026-07-29
 ADDED AT    - 2026-07-31 08:51 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=28&pageNum=0&refId=AYvUrggnk2wpDqOwqp45nw%3D%3D&trackingId=IFOS4JPEsVlhMReTNvsZJw%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-07-31 05:33 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=9&pageNum=0&refId=4jL%2BHmzzDAH8HzRaSi%2BQ1w%3D%3D&trackingId=8w87m0bjoxc%2B44%2F1%2FDRTnw%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - VAYUZ Technologies
@@ -650,6 +658,22 @@ ADDED AT    - 2026-07-31 08:51 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=7&pageNum=2&refId=F8QtwOABaPuyvtcjOAdeHg%3D%3D&trackingId=po38pZBpWDq6ZpnZHPC7bg%3D%3D)
 
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-31 05:33 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=14&pageNum=0&refId=AfucKYjMcJSLA28IUwLAdg%3D%3D&trackingId=2HY8t3Vo974OoNIZCymUOA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-31 05:33 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=26&pageNum=0&refId=70Ku%2FvkbJsaY2E9iknGKNQ%3D%3D&trackingId=B1%2FOlaKE2XggbX%2FLpZkc6w%3D%3D)
+
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
 TITLE       - AI Tool Developer Internship in Delhi (Hybrid)
@@ -953,6 +977,14 @@ DATE POSTED - 2026-07-10
 ADDED AT    - 2026-07-31 08:51 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-in-noida-greater-noida-at-appversal-4438852515?position=39&pageNum=0&refId=l8XAZmlEvKv0BjioA8TLAw%3D%3D&trackingId=C7dFzhLLO6305KIhiOkcuQ%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Samin TekMindz
+TITLE       - Fresher's Hiring
+DATE POSTED - 2026-07-10
+ADDED AT    - 2026-07-31 05:33 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-s-hiring-at-samin-tekmindz-4438371227?position=11&pageNum=0&refId=4jL%2BHmzzDAH8HzRaSi%2BQ1w%3D%3D&trackingId=Th9k3eab1hpyZ%2BfJjre%2FjA%3D%3D)
 
 ROLE        - Software Engineer
 COMPANY     - Samin TekMindz
