@@ -4,13 +4,13 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 July 31, 2026 — Live Opportunities (117 Jobs)
-**Last Updated:** 2026-07-31 03:21 AM UTC | **Status:** Live ✅
+## 📅 July 31, 2026 — Live Opportunities (124 Jobs)
+**Last Updated:** 2026-07-31 06:48 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 92 jobs
-- 🟠 **Software Engineer**: 11 jobs
-- 🟡 **Full Stack Engineer**: 9 jobs
+- 🟠 **Software Engineer**: 15 jobs
+- 🟡 **Full Stack Engineer**: 12 jobs
 - 🟢 **Full Stack Developer**: 2 jobs
 - 🔵 **Nodejs Developer**: 2 jobs
 - 🟣 **Backend Developer**: 1 jobs
@@ -81,6 +81,22 @@ DATE POSTED - 2026-07-30
 ADDED AT    - 2026-07-31 01:08 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-at-traincape-technology-4446890500?position=55&pageNum=0&refId=Sp%2FblwrG%2FOaOT8mWdulBdQ%3D%3D&trackingId=NtIiezn%2BK4Y6VXBseUK8Aw%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-07-31 12:18 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=11&pageNum=0&refId=h4WAPH1M%2Bt3kitHrXEEylA%3D%3D&trackingId=rKTQ0WKIp3oaR0RR6Ovdlg%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-07-31 12:18 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=25&pageNum=0&refId=6T0saA9t76Kqn%2FtrD9GJWQ%3D%3D&trackingId=aO4ecmu2D9fvz4kKz8nd%2Fg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - VAYUZ Technologies
@@ -450,6 +466,14 @@ ADDED AT    - 2026-07-31 01:08 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-agent-development-internship-in-noida-at-nippon-data-systems-4442545895?position=7&pageNum=5&refId=dzGxpCLdaSGIAdH8P2Xa%2BQ%3D%3D&trackingId=gko0o11yEvupvkzoHFelIg%3D%3D)
 
+ROLE        - Full Stack Engineer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-07-31 12:18 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=15&pageNum=0&refId=6T0saA9t76Kqn%2FtrD9GJWQ%3D%3D&trackingId=syKhcgJJxg0ABPearnMt2Q%3D%3D)
+
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
 TITLE       - AI Tool Developer Internship in Delhi (Hybrid)
@@ -738,6 +762,14 @@ ADDED AT    - 2026-07-31 01:08 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/embedded-systems-internship-in-noida-at-zaptics-research-4439764473?position=10&pageNum=7&refId=C%2F7AQz4vYEgoZaO0q5qTxw%3D%3D&trackingId=xmKtTgp1KCLJR15ZuvYFKw%3D%3D)
 
+ROLE        - Software Engineer
+COMPANY     - Samin TekMindz
+TITLE       - Fresher's Hiring
+DATE POSTED - 2026-07-10
+ADDED AT    - 2026-07-31 12:18 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-s-hiring-at-samin-tekmindz-4438371227?position=13&pageNum=0&refId=h4WAPH1M%2Bt3kitHrXEEylA%3D%3D&trackingId=6zrFaSq8cPBq44Qx9%2Bf6PA%3D%3D)
+
 ROLE        - Software Developer
 COMPANY     - Samin TekMindz
 TITLE       - Fresher's Hiring
@@ -817,6 +849,30 @@ DATE POSTED - 2026-07-10
 ADDED AT    - 2026-07-31 01:08 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-in-noida-greater-noida-at-appversal-4438852515?position=38&pageNum=0&refId=Sp%2FblwrG%2FOaOT8mWdulBdQ%3D%3D&trackingId=yG%2BGKffYsVVbS4mRpR%2FjNQ%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - DigitalXNode
+TITLE       - Fresher &#8211; Software Engineer | Gurugram
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-31 12:18 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-%238211-software-engineer-gurugram-at-digitalxnode-4432350778?position=13&pageNum=0&refId=6T0saA9t76Kqn%2FtrD9GJWQ%3D%3D&trackingId=m6T6lTEX7F3qqWLJs6umyg%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - DigitalXNode
+TITLE       - Fresher &#8211; Software Engineer | Gurugram
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-31 12:18 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-%238211-software-engineer-gurugram-at-digitalxnode-4432350778?position=7&pageNum=0&refId=h4WAPH1M%2Bt3kitHrXEEylA%3D%3D&trackingId=5yCvR3Ln%2Bc97TcRmQ5By7g%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Win Global PR
+TITLE       - Graduate Trainee- Integration Engineer - Merchant Integration
+DATE POSTED - 2026-07-01
+ADDED AT    - 2026-07-31 12:18 PM IST
+LOCATION    - Gurgaon, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-trainee-integration-engineer-merchant-integration-at-win-global-pr-4442353611?position=24&pageNum=0&refId=h4WAPH1M%2Bt3kitHrXEEylA%3D%3D&trackingId=BsyAQzXBgpp933gai9Y4dA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - DigitalXNode
