@@ -4,20 +4,44 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 1, 2026 — Live Opportunities (70 Jobs)
-**Last Updated:** 2026-08-01 03:19 AM UTC | **Status:** Live ✅
+## 📅 August 1, 2026 — Live Opportunities (76 Jobs)
+**Last Updated:** 2026-08-01 06:32 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 44 jobs
-- 🟠 **Full Stack Developer**: 8 jobs
+- 🟠 **Full Stack Developer**: 10 jobs
 - 🟡 **Full Stack Engineer**: 8 jobs
-- 🟢 **Nodejs Developer**: 5 jobs
-- 🔵 **Backend Developer**: 3 jobs
+- 🟢 **Nodejs Developer**: 7 jobs
+- 🔵 **Backend Developer**: 5 jobs
 - 🟣 **Software Engineer**: 2 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
+ROLE        - Nodejs Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-01 12:02 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=23&pageNum=0&refId=OUACRUkw8kWFxSwcLJcluQ%3D%3D&trackingId=rPKrE5hJKLMfjEfsFtKrJg%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-01 12:02 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=30&pageNum=0&refId=p%2Fp4v5x6m5C8JlkxgzdVdg%3D%3D&trackingId=8zRF6UiKgA7dUne0iFSVOw%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-01 12:02 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=34&pageNum=0&refId=muJs4Be4F7ut9tXzJKa9nQ%3D%3D&trackingId=XvcDTJgyJ2t10QYT3CMUSg%3D%3D)
+
 ROLE        - Nodejs Developer
 COMPANY     - Multiplier AI
 TITLE       - Full Stack Developer Intern
@@ -337,6 +361,30 @@ DATE POSTED - 2026-07-20
 ADDED AT    - 2026-08-01 02:39 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-agent-development-internship-in-noida-at-nippon-data-systems-4442545895?position=52&pageNum=0&refId=fyUgUQU1KnBwIyHe%2FHZtVQ%3D%3D&trackingId=y0bA51pqZVgnQWYdKLnVsA%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-01 12:02 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=14&pageNum=0&refId=p%2Fp4v5x6m5C8JlkxgzdVdg%3D%3D&trackingId=MWwh0NZm8rCOYT%2Feewnapw%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-01 12:02 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=22&pageNum=0&refId=OUACRUkw8kWFxSwcLJcluQ%3D%3D&trackingId=4phvRsIgnQkb9C3JSH1QDA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-01 12:02 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=25&pageNum=0&refId=muJs4Be4F7ut9tXzJKa9nQ%3D%3D&trackingId=pWaV0JALBWLSn5euzhiEZg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
