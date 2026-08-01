@@ -1,0 +1,15 @@
+ROLE        - Nodejs Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=23&pageNum=0&refId=pkTee9X1BjOPDHOdc9gJEg%3D%3D&trackingId=wVxf35p4g1dzOXfNdbk5xg%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=22&pageNum=0&refId=pkTee9X1BjOPDHOdc9gJEg%3D%3D&trackingId=DXGp%2BleQmquMPDCKQ1kzsg%3D%3D)

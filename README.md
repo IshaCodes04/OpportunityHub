@@ -4,20 +4,28 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 1, 2026 — Live Opportunities (82 Jobs)
-**Last Updated:** 2026-08-01 09:08 AM UTC | **Status:** Live ✅
+## 📅 August 1, 2026 — Live Opportunities (92 Jobs)
+**Last Updated:** 2026-08-01 11:19 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 44 jobs
-- 🟠 **Full Stack Engineer**: 12 jobs
-- 🟡 **Full Stack Developer**: 10 jobs
-- 🟢 **Nodejs Developer**: 9 jobs
+- 🟠 **Full Stack Engineer**: 16 jobs
+- 🟡 **Full Stack Developer**: 12 jobs
+- 🟢 **Nodejs Developer**: 11 jobs
 - 🔵 **Backend Developer**: 5 jobs
-- 🟣 **Software Engineer**: 2 jobs
+- 🟣 **Software Engineer**: 4 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
+ROLE        - Software Engineer
+COMPANY     - 1Fi
+TITLE       - SDE intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=9&pageNum=0&refId=roE6ARNLURs%2FZzlHFH94jg%3D%3D&trackingId=KHOdhbxmpGJok%2FLvSnZq9w%3D%3D)
+
 ROLE        - Nodejs Developer
 COMPANY     - Multiplier AI
 TITLE       - Full Stack Developer Intern
@@ -65,6 +73,30 @@ DATE POSTED - 2026-07-31
 ADDED AT    - 2026-08-01 08:49 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=43&pageNum=0&refId=xvN8PA55TqJ9dQRO0%2Fi8vQ%3D%3D&trackingId=h9cekeBPAC%2F7EhlHSrqn9Q%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=23&pageNum=0&refId=pkTee9X1BjOPDHOdc9gJEg%3D%3D&trackingId=wVxf35p4g1dzOXfNdbk5xg%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=39&pageNum=0&refId=pLr9QpW5vt2M2JYrsZQJXA%3D%3D&trackingId=Dep7Cy%2FXZPaFSEo9GnfyPw%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=44&pageNum=0&refId=ZV9waXydBBtBATAqct018A%3D%3D&trackingId=w1eGKTH2hRlc4BArrw%2FxCA%3D%3D)
 
 ROLE        - Nodejs Developer
 COMPANY     - Multiplier AI
@@ -225,6 +257,30 @@ DATE POSTED - 2026-07-29
 ADDED AT    - 2026-08-01 08:49 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=4&pageNum=2&refId=fmbxjt%2BsnkOFKgb3oH0V1w%3D%3D&trackingId=nC0DWv7iCm0%2B5y227fHXVg%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=13&pageNum=0&refId=roE6ARNLURs%2FZzlHFH94jg%3D%3D&trackingId=WaE%2Baq5NK97L%2F%2FD%2FZRkwug%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=27&pageNum=0&refId=ZV9waXydBBtBATAqct018A%3D%3D&trackingId=%2FofqRU12T3riYI5xLNWGNA%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=3&pageNum=2&refId=%2B6RRku2%2FsFMLCtIpdM%2F01Q%3D%3D&trackingId=jvrUQCFRrw%2B599kh9X6EQg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - VAYUZ Technologies
@@ -465,6 +521,30 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-08-01 08:49 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=32&pageNum=0&refId=LRtoRWT3VXzgMzd2wJX6Xw%3D%3D&trackingId=XNt%2FiflPy%2BIzkkoe5tyE4w%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=14&pageNum=0&refId=ZV9waXydBBtBATAqct018A%3D%3D&trackingId=tVhheJ42rdZ4%2FQN6iHN6mQ%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=15&pageNum=0&refId=pLr9QpW5vt2M2JYrsZQJXA%3D%3D&trackingId=ufxK%2BJeCQtnhRYuyVnAY%2FA%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-01 04:49 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=22&pageNum=0&refId=pkTee9X1BjOPDHOdc9gJEg%3D%3D&trackingId=DXGp%2BleQmquMPDCKQ1kzsg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
