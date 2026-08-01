@@ -4,20 +4,37 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 1, 2026 — Live Opportunities (92 Jobs)
-**Last Updated:** 2026-08-01 11:19 AM UTC | **Status:** Live ✅
+## 📅 August 1, 2026 — Live Opportunities (95 Jobs)
+**Last Updated:** 2026-08-01 01:35 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 44 jobs
 - 🟠 **Full Stack Engineer**: 16 jobs
 - 🟡 **Full Stack Developer**: 12 jobs
 - 🟢 **Nodejs Developer**: 11 jobs
-- 🔵 **Backend Developer**: 5 jobs
-- 🟣 **Software Engineer**: 4 jobs
+- 🔵 **Software Engineer**: 6 jobs
+- 🟣 **Backend Developer**: 5 jobs
+- 🟤 **Mern Stack Developer**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
+ROLE        - Software Engineer
+COMPANY     - 1Fi
+TITLE       - SDE intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-01 07:05 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=10&pageNum=0&refId=uIn1Mu52l95M%2BX990vkJxQ%3D%3D&trackingId=SFdlV50ZWFfpkrI8Txk72g%3D%3D)
+
+ROLE        - Mern Stack Developer
+COMPANY     - 1Fi
+TITLE       - SDE intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-01 07:05 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=6&pageNum=12&refId=L8Z88Dn9baJdtJXB23e4Yw%3D%3D&trackingId=6L8aZhzftxW8R5PJIakANQ%3D%3D)
+
 ROLE        - Software Engineer
 COMPANY     - 1Fi
 TITLE       - SDE intern
@@ -257,6 +274,14 @@ DATE POSTED - 2026-07-29
 ADDED AT    - 2026-08-01 08:49 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=4&pageNum=2&refId=fmbxjt%2BsnkOFKgb3oH0V1w%3D%3D&trackingId=nC0DWv7iCm0%2B5y227fHXVg%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-08-01 07:05 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=14&pageNum=0&refId=uIn1Mu52l95M%2BX990vkJxQ%3D%3D&trackingId=tXfME%2Bt1Ff9jeD0L%2FEYj7g%3D%3D)
 
 ROLE        - Software Engineer
 COMPANY     - Babaclick
