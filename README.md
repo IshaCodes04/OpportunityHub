@@ -4,17 +4,17 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 2, 2026 — Live Opportunities (80 Jobs)
-**Last Updated:** 2026-08-01 11:59 PM UTC | **Status:** Live ✅
+## 📅 August 2, 2026 — Live Opportunities (114 Jobs)
+**Last Updated:** 2026-08-02 03:44 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
-- 🔴 **Software Developer**: 34 jobs
-- 🟠 **Backend Developer**: 12 jobs
-- 🟡 **Full Stack Developer**: 8 jobs
-- 🟢 **Nodejs Developer**: 8 jobs
-- 🔵 **Mern Stack Developer Intern**: 7 jobs
-- 🟣 **Software Engineer**: 6 jobs
-- 🟤 **Full Stack Engineer**: 5 jobs
+- 🔴 **Software Developer**: 50 jobs
+- 🟠 **Backend Developer**: 16 jobs
+- 🟡 **Full Stack Developer**: 12 jobs
+- 🟢 **Nodejs Developer**: 12 jobs
+- 🔵 **Full Stack Engineer**: 10 jobs
+- 🟣 **Mern Stack Developer Intern**: 8 jobs
+- 🟤 **Software Engineer**: 6 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -74,6 +74,78 @@ DATE POSTED - 2026-08-01
 ADDED AT    - 2026-08-02 12:44 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=8&pageNum=0&refId=CAG0%2FFlg7h3BgNjyX2vUVg%3D%3D&trackingId=0N5WZefH%2Bt8Wz08kCghR7g%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=12&pageNum=0&refId=zxrNf87S7hLimuy923ilJA%3D%3D&trackingId=10p71uYZRux7UetaqlKrjg%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=16&pageNum=0&refId=fsA%2BJ1chtAbpmxcEFGCOKA%3D%3D&trackingId=18qJwsTMMWb%2FiFujoRRbmg%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=6&pageNum=0&refId=mVB8s6KYHL8HRnr2vAaeIA%3D%3D&trackingId=ivrhg3Dx1qkuK69h%2Bywn0g%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=8&pageNum=0&refId=C%2F%2F1y5y8cla1GTwfNFAtDQ%3D%3D&trackingId=Z7Ux%2F1JV84I2T2OF8Q5bmQ%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Zenia Mobile
+TITLE       - Full Stack Developer (Intern / Junior)
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-junior-at-zenia-mobile-4445810473?position=16&pageNum=0&refId=mVB8s6KYHL8HRnr2vAaeIA%3D%3D&trackingId=20GwrmAkjBj%2Bnp%2BNRJucmg%3D%3D)
+
+ROLE        - Mern Stack Developer Intern
+COMPANY     - Zenia Mobile
+TITLE       - Full Stack Developer (Intern / Junior)
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-junior-at-zenia-mobile-4445810473?position=22&pageNum=0&refId=HyiMGGAwMuhF1QGX%2F%2FR9Fw%3D%3D&trackingId=J8R9%2Bg15GW%2Fzm6ca%2Fmi0Dg%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Zenia Mobile
+TITLE       - Full Stack Developer (Intern / Junior)
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-junior-at-zenia-mobile-4445810473?position=27&pageNum=0&refId=C%2F%2F1y5y8cla1GTwfNFAtDQ%3D%3D&trackingId=YGboEmC8Weoc6HuP4EXVMQ%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Zenia Mobile
+TITLE       - Full Stack Developer (Intern / Junior)
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-junior-at-zenia-mobile-4445810473?position=33&pageNum=0&refId=zxrNf87S7hLimuy923ilJA%3D%3D&trackingId=%2BQPSgk0hftzWpfj1FIzaNw%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Zenia Mobile
+TITLE       - Full Stack Developer (Intern / Junior)
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-junior-at-zenia-mobile-4445810473?position=40&pageNum=0&refId=fsA%2BJ1chtAbpmxcEFGCOKA%3D%3D&trackingId=I40TaFOzPM94MqR5iBkB9w%3D%3D)
 
 ROLE        - Backend Developer
 COMPANY     - The Niche Brands
@@ -227,6 +299,38 @@ ADDED AT    - 2026-08-02 12:44 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=37&pageNum=0&refId=I8h3967cJG7m4pG%2FB%2BjgZQ%3D%3D&trackingId=sBAPDhM4tD9qiJecPgLHDQ%3D%3D)
 
+ROLE        - Nodejs Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=20&pageNum=0&refId=mVB8s6KYHL8HRnr2vAaeIA%3D%3D&trackingId=ozd%2BHy3eSuVHjXqLrvgfWw%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=26&pageNum=0&refId=C%2F%2F1y5y8cla1GTwfNFAtDQ%3D%3D&trackingId=7Emn5zwXzcmQEQAE%2F0imWw%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=30&pageNum=0&refId=zxrNf87S7hLimuy923ilJA%3D%3D&trackingId=TR5Yvfu67Zt6POXcVVvWKQ%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=39&pageNum=0&refId=fsA%2BJ1chtAbpmxcEFGCOKA%3D%3D&trackingId=LtbnqZ6aNp%2FPqqDR22oV9Q%3D%3D)
+
 ROLE        - Backend Developer
 COMPANY     - Multiplier AI
 TITLE       - Full Stack Developer Intern
@@ -311,6 +415,14 @@ ROLE        - Software Developer
 COMPANY     - Traincape Technology
 TITLE       - Full Stack Development Internship in Delhi
 DATE POSTED - 2026-07-30
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-at-traincape-technology-4446890500?position=46&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=wtlVoFXn053WQ8qDsEgeEQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Traincape Technology
+TITLE       - Full Stack Development Internship in Delhi
+DATE POSTED - 2026-07-30
 ADDED AT    - 2026-08-02 05:29 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-at-traincape-technology-4446890500?position=46&pageNum=0&refId=p6UDcf0zBfJN4L9tP3wlGQ%3D%3D&trackingId=1%2ByAbmYuvv5iHdQmuhLH%2Bw%3D%3D)
@@ -338,6 +450,22 @@ DATE POSTED - 2026-07-29
 ADDED AT    - 2026-08-02 12:44 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=11&pageNum=0&refId=CAG0%2FFlg7h3BgNjyX2vUVg%3D%3D&trackingId=UMucHywZarVG09gv%2F0Ou2w%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - VAYUZ Technologies
+TITLE       - Flutter Developer Internship in Noida
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/flutter-developer-internship-in-noida-at-vayuz-technologies-4446503905?position=36&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=RTitR7mnUFIjIfLtXeQC5A%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=24&pageNum=0&refId=fsA%2BJ1chtAbpmxcEFGCOKA%3D%3D&trackingId=UPIVoNkqqjYORsVYvWB5Bg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - VAYUZ Technologies
@@ -399,6 +527,30 @@ ROLE        - Software Developer
 COMPANY     - Intouch Quality Services Private Limited
 TITLE       - Front End Development Internship in Delhi, Dehradun
 DATE POSTED - 2026-07-25
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/front-end-development-internship-in-delhi-dehradun-at-intouch-quality-services-private-limited-4445276210?position=32&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=2xc6jqYSNkCo3CeFLgbP2w%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Intouch Quality Services Private Limited
+TITLE       - Front End Development Internship in Delhi, Dehradun
+DATE POSTED - 2026-07-25
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/front-end-development-internship-in-delhi-dehradun-at-intouch-quality-services-private-limited-4445276210?position=7&pageNum=2&refId=K6kGaiUCjuZ0DXUSquIKpQ%3D%3D&trackingId=9KVreuWXq8%2BPrca11kCNIA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Intouch Quality Services Private Limited
+TITLE       - Full Stack Development Internship in Delhi, Dehradun
+DATE POSTED - 2026-07-25
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-dehradun-at-intouch-quality-services-private-limited-4445262623?position=48&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=gbGvOjz8U56xEmKDwXL8zQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Intouch Quality Services Private Limited
+TITLE       - Front End Development Internship in Delhi, Dehradun
+DATE POSTED - 2026-07-25
 ADDED AT    - 2026-08-02 05:29 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/front-end-development-internship-in-delhi-dehradun-at-intouch-quality-services-private-limited-4445276210?position=34&pageNum=0&refId=p6UDcf0zBfJN4L9tP3wlGQ%3D%3D&trackingId=u1LW68mO4z1ViUls1DlPrA%3D%3D)
@@ -423,6 +575,14 @@ ROLE        - Software Developer
 COMPANY     - Flick2Know
 TITLE       - Computer Vision Intern
 DATE POSTED - 2026-07-22
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/computer-vision-intern-at-flick2know-4443705380?position=5&pageNum=10&refId=LyV79%2Bxx5czTkrV0VKe3zg%3D%3D&trackingId=rGIxaxp039VdKzCdJho3pQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Flick2Know
+TITLE       - Computer Vision Intern
+DATE POSTED - 2026-07-22
 ADDED AT    - 2026-08-02 05:29 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/computer-vision-intern-at-flick2know-4443705380?position=1&pageNum=10&refId=t9o31CAwy7NBcsIHEXsneA%3D%3D&trackingId=5ScXi3gNrZtZ2SeYFSX3dg%3D%3D)
@@ -442,6 +602,22 @@ DATE POSTED - 2026-07-20
 ADDED AT    - 2026-08-02 12:44 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-agent-development-internship-in-noida-at-nippon-data-systems-4442545895?position=6&pageNum=5&refId=aszZyCrd73v41yCkvndXaw%3D%3D&trackingId=nYUJsloFDD1%2FUsSsAHMdVA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Nippon Data Systems
+TITLE       - AI Agent Development Internship in Noida
+DATE POSTED - 2026-07-20
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-agent-development-internship-in-noida-at-nippon-data-systems-4442545895?position=56&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=yaW%2BuBMbDqyAtv94RHy1KQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Nippon Data Systems
+TITLE       - AI Agent Development Internship in Noida
+DATE POSTED - 2026-07-20
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-agent-development-internship-in-noida-at-nippon-data-systems-4442545895?position=6&pageNum=5&refId=%2FXbtN%2FEd%2F2JKI%2F9ugSisIA%3D%3D&trackingId=xHAvbZTqrTcq7OR6rrCZGg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - Nippon Data Systems
@@ -514,6 +690,78 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-08-02 12:44 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=3&pageNum=2&refId=Ydt52Vy0wXJi4VQGdtcD3A%3D%3D&trackingId=ZipWL%2F3nH8u4KqgjAcNWsQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - SMARRTIF AI
+TITLE       - AI Tool Developer Internship in Delhi (Hybrid)
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-tool-developer-internship-in-delhi-hybrid-at-smarrtif-ai-4441682921?position=29&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=wbfg6u4QyWiQdZNe73exAA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - SMARRTIF AI
+TITLE       - AI Tool Developer Internship in Delhi (Hybrid)
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-tool-developer-internship-in-delhi-hybrid-at-smarrtif-ai-4441682921?position=4&pageNum=2&refId=K6kGaiUCjuZ0DXUSquIKpQ%3D%3D&trackingId=%2BZ%2BuKebJo603GEV70S0KYA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - DeHaat
+TITLE       - Engineering Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/engineering-intern-at-dehaat-4441176448?position=20&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=eJJNRi%2BeUWmClqU4hF1XMA%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=13&pageNum=0&refId=zxrNf87S7hLimuy923ilJA%3D%3D&trackingId=vSO5aLkEiF9KFHzrhM1EVA%3D%3D)
+
+ROLE        - Full Stack Engineer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=14&pageNum=0&refId=fsA%2BJ1chtAbpmxcEFGCOKA%3D%3D&trackingId=Yte%2Bd2Jn5NyG1cyEr5FFsA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=19&pageNum=0&refId=C%2F%2F1y5y8cla1GTwfNFAtDQ%3D%3D&trackingId=1Cghecax1jELR282VlODZQ%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=19&pageNum=0&refId=mVB8s6KYHL8HRnr2vAaeIA%3D%3D&trackingId=EvJLKs45XlRvw6Bgdaw8fA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=28&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=F6T7mc0ZkFPPLvbXr80GMQ%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=3&pageNum=2&refId=K6kGaiUCjuZ0DXUSquIKpQ%3D%3D&trackingId=KZH86%2FpVTfU4fx9N%2ByVFug%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
@@ -631,6 +879,14 @@ ROLE        - Software Developer
 COMPANY     - Attero
 TITLE       - Intern
 DATE POSTED - 2026-07-15
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/intern-at-attero-4440968523?position=7&pageNum=10&refId=LyV79%2Bxx5czTkrV0VKe3zg%3D%3D&trackingId=4oy9K4e4BW7BUDHhRtN9SA%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - Attero
+TITLE       - Intern
+DATE POSTED - 2026-07-15
 ADDED AT    - 2026-08-02 05:29 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/intern-at-attero-4440968523?position=3&pageNum=10&refId=t9o31CAwy7NBcsIHEXsneA%3D%3D&trackingId=OjMTkv4orMY9yYGhPo4fug%3D%3D)
@@ -644,12 +900,28 @@ LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/embedded-systems-internship-in-noida-at-zaptics-research-4439764473?position=9&pageNum=7&refId=Da3vTstba5sTogsnldmV7A%3D%3D&trackingId=4poONJg8%2FfEcGcbOffTMEA%3D%3D)
 
 ROLE        - Software Developer
+COMPANY     - Zaptics Research
+TITLE       - Embedded Systems Internship in Noida
+DATE POSTED - 2026-07-13
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/embedded-systems-internship-in-noida-at-zaptics-research-4439764473?position=9&pageNum=7&refId=kwDZGIHW7SP3BKQ6GciaoQ%3D%3D&trackingId=gcoblFhPvDCx1O1p81NsAQ%3D%3D)
+
+ROLE        - Software Developer
 COMPANY     - AppVersal
 TITLE       - Golang Developer Internship in Noida, Greater Noida
 DATE POSTED - 2026-07-10
 ADDED AT    - 2026-08-02 12:44 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-in-noida-greater-noida-at-appversal-4438852515?position=39&pageNum=0&refId=TXOJ%2B7d8Ztk5qa48IZt6%2Bg%3D%3D&trackingId=wL8D%2FHUmchZVPhiaae%2Fk%2Fg%3D%3D)
+
+ROLE        - Software Developer
+COMPANY     - AppVersal
+TITLE       - Golang Developer Internship in Noida, Greater Noida
+DATE POSTED - 2026-07-10
+ADDED AT    - 2026-08-02 09:14 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-in-noida-greater-noida-at-appversal-4438852515?position=40&pageNum=0&refId=4rHTZzp0ItAbsWYMQW1U8A%3D%3D&trackingId=k8HW3jSJ6vDSqBYFT47abQ%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - AppVersal
