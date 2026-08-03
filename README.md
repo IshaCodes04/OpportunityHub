@@ -4,21 +4,37 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 4, 2026 — Live Opportunities (69 Jobs)
-**Last Updated:** 2026-08-03 09:07 PM UTC | **Status:** Live ✅
+## 📅 August 4, 2026 — Live Opportunities (78 Jobs)
+**Last Updated:** 2026-08-03 11:05 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 41 jobs
 - 🟠 **Full Stack Engineer**: 14 jobs
-- 🟡 **Full Stack Developer**: 4 jobs
-- 🟢 **Nodejs Developer**: 3 jobs
-- 🔵 **Backend Developer**: 3 jobs
-- 🟣 **Software Engineer**: 3 jobs
+- 🟡 **Nodejs Developer**: 6 jobs
+- 🟢 **Software Engineer**: 6 jobs
+- 🔵 **Backend Developer**: 6 jobs
+- 🟣 **Full Stack Developer**: 4 jobs
 - 🟤 **Mern Stack Developer Intern**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
+ROLE        - Nodejs Developer
+COMPANY     - AulNova Techsoft Ind Private Limited
+TITLE       - Hiring "Junior Developer (React.js, Node.js, Express.js, Java" @AulNova Techsoft
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%40aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212?position=19&pageNum=0&refId=FRWhIcL46pT%2FC5HhLPydeA%3D%3D&trackingId=y6iXwM%2FIXb4DdX4a4MwnfA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - AulNova Techsoft Ind Private Limited
+TITLE       - Hiring "Junior Developer (React.js, Node.js, Express.js, Java" @AulNova Techsoft
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%40aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212?position=28&pageNum=0&refId=GD7zISY%2B0yWD2%2Fkp7z6i8A%3D%3D&trackingId=EpS2kXRxktGoR562PNFEaQ%3D%3D)
+
 ROLE        - Full Stack Developer
 COMPANY     - VedaAI
 TITLE       - Full-Stack Developer Intern
@@ -167,9 +183,33 @@ ROLE        - Software Engineer
 COMPANY     - 1Fi
 TITLE       - SDE intern
 DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=14&pageNum=0&refId=bknnocomZ8kdry9iiveyqw%3D%3D&trackingId=0LPDX2KN05PnMqEvM%2BcSsg%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - 1Fi
+TITLE       - SDE intern
+DATE POSTED - 2026-08-01
 ADDED AT    - 2026-08-04 02:37 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=14&pageNum=0&refId=Hjij0mAUFGUX5ans1WGwTg%3D%3D&trackingId=%2BecbGdiBXAXnsSXoIe%2BLnA%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=22&pageNum=0&refId=FRWhIcL46pT%2FC5HhLPydeA%3D%3D&trackingId=gLYbdE8AXgR9BCusBpzlZQ%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=26&pageNum=0&refId=GD7zISY%2B0yWD2%2Fkp7z6i8A%3D%3D&trackingId=nxgsAZTL0GQrrsQNwP9sbQ%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - American Express
@@ -274,6 +314,14 @@ DATE POSTED - 2026-07-30
 ADDED AT    - 2026-08-04 01:12 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/mobile-app-development-internship-in-delhi-at-rakshak-securitas-pvt-ltd-4446889507?position=1&pageNum=7&refId=mX8M6eExxEV5pwC41acXkg%3D%3D&trackingId=0LY86vSDfVnYLgwWPr%2Bo2A%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=6&pageNum=0&refId=bknnocomZ8kdry9iiveyqw%3D%3D&trackingId=DF8PGhQAYieUniY0ojvFQg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - VAYUZ Technologies
@@ -395,6 +443,22 @@ ADDED AT    - 2026-08-04 01:12 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-agent-development-internship-in-noida-at-nippon-data-systems-4442545895?position=47&pageNum=0&refId=DC0kBV5UjeWah4UjnDt3RQ%3D%3D&trackingId=eamp5Cn%2FVT0yajUTJTcd8g%3D%3D)
 
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=23&pageNum=0&refId=GD7zISY%2B0yWD2%2Fkp7z6i8A%3D%3D&trackingId=oxr%2FtuiEBe1lzcZq0KO7kg%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=25&pageNum=0&refId=FRWhIcL46pT%2FC5HhLPydeA%3D%3D&trackingId=vDUIBNbUYWVeECJfzTWlqg%3D%3D)
+
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
 TITLE       - AI Tool Developer Internship in Delhi (Hybrid)
@@ -514,6 +578,14 @@ DATE POSTED - 2026-07-13
 ADDED AT    - 2026-08-04 01:12 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/embedded-systems-internship-in-noida-at-zaptics-research-4439764473?position=2&pageNum=7&refId=mX8M6eExxEV5pwC41acXkg%3D%3D&trackingId=C4s%2Fuoocdmuz2Wvh7BC29w%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Samin TekMindz
+TITLE       - Fresher's Hiring
+DATE POSTED - 2026-07-10
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-s-hiring-at-samin-tekmindz-4438371227?position=9&pageNum=0&refId=bknnocomZ8kdry9iiveyqw%3D%3D&trackingId=ndZFO%2Ft%2F0fEgKgu1iW0j1w%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - Samin TekMindz

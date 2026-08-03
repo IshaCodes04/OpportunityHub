@@ -1,0 +1,23 @@
+ROLE        - Backend Developer
+COMPANY     - AulNova Techsoft Ind Private Limited
+TITLE       - Hiring "Junior Developer (React.js, Node.js, Express.js, Java" @AulNova Techsoft
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%40aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212?position=28&pageNum=0&refId=GD7zISY%2B0yWD2%2Fkp7z6i8A%3D%3D&trackingId=EpS2kXRxktGoR562PNFEaQ%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=26&pageNum=0&refId=GD7zISY%2B0yWD2%2Fkp7z6i8A%3D%3D&trackingId=nxgsAZTL0GQrrsQNwP9sbQ%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-04 04:35 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=23&pageNum=0&refId=GD7zISY%2B0yWD2%2Fkp7z6i8A%3D%3D&trackingId=oxr%2FtuiEBe1lzcZq0KO7kg%3D%3D)
