@@ -4,17 +4,17 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 3, 2026 — Live Opportunities (148 Jobs)
-**Last Updated:** 2026-08-03 12:28 PM UTC | **Status:** Live ✅
+## 📅 August 3, 2026 — Live Opportunities (164 Jobs)
+**Last Updated:** 2026-08-03 03:45 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 53 jobs
 - 🟠 **Full Stack Engineer**: 29 jobs
-- 🟡 **Full Stack Developer**: 20 jobs
-- 🟢 **Backend Developer**: 20 jobs
-- 🔵 **Nodejs Developer**: 12 jobs
+- 🟡 **Full Stack Developer**: 25 jobs
+- 🟢 **Backend Developer**: 25 jobs
+- 🔵 **Nodejs Developer**: 17 jobs
 - 🟣 **Software Engineer**: 9 jobs
-- 🟤 **Mern Stack Developer Intern**: 5 jobs
+- 🟤 **Mern Stack Developer Intern**: 6 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -26,6 +26,62 @@ DATE POSTED - 2026-08-03
 ADDED AT    - 2026-08-03 10:03 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/php-development-internship-in-delhi-at-softsolvate-4448114806?position=2&pageNum=10&refId=tXM09Zk2yPbLQdttJKQckg%3D%3D&trackingId=m6EafC8SFIYhX4o55Mdpww%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - VedaAI
+TITLE       - Full-Stack Developer Intern
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Delhi, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-vedaai-4448172837?position=15&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=pbEdaFmDquaonrUy1n6qpA%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - VedaAI
+TITLE       - Full-Stack Developer Intern
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Delhi, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-vedaai-4448172837?position=4&pageNum=0&refId=RCZz%2BFbxas6bfgf%2BAmPYvA%3D%3D&trackingId=2QKwV%2BClKLx%2B9ZTstP9%2F%2FA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - VedaAI
+TITLE       - Full-Stack Developer Intern
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Delhi, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-vedaai-4448172837?position=8&pageNum=0&refId=Y8gu254p5d85lInstQxp0A%3D%3D&trackingId=w6rUl9z7%2F1O9%2ByG9tfTbxQ%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - AulNova Techsoft Ind Private Limited
+TITLE       - Hiring "Junior Developer (React.js, Node.js, Express.js, Java" @AulNova Techsoft
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%40aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212?position=22&pageNum=0&refId=RCZz%2BFbxas6bfgf%2BAmPYvA%3D%3D&trackingId=ZtDfi8OSdl70zzeae0p9Lw%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - AulNova Techsoft Ind Private Limited
+TITLE       - Hiring "Junior Developer (React.js, Node.js, Express.js, Java" @AulNova Techsoft
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%40aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212?position=30&pageNum=0&refId=Y8gu254p5d85lInstQxp0A%3D%3D&trackingId=DbxspeFt%2FAOnIsAeHNEYkA%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - AulNova Techsoft Ind Private Limited
+TITLE       - Hiring "Junior Developer (React.js, Node.js, Express.js, Java" @AulNova Techsoft
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%40aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212?position=34&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=RtAAJPg85z7bpt%2Fw2cQJ8Q%3D%3D)
+
+ROLE        - Mern Stack Developer Intern
+COMPANY     - AulNova Techsoft Ind Private Limited
+TITLE       - Hiring "Junior Developer (React.js, Node.js, Express.js, Java" @AulNova Techsoft
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%40aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212?position=9&pageNum=15&refId=HqJVwEEtebBu9T%2BEKCNrjg%3D%3D&trackingId=emWs1yxUFOZJeSPTwDXLUg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - CODE PARK TECHNOLOGIES
@@ -138,6 +194,30 @@ DATE POSTED - 2026-08-01
 ADDED AT    - 2026-08-03 10:03 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=8&pageNum=0&refId=xQpGYPGvhuQyop%2BXeMVfGA%3D%3D&trackingId=scKMWpUwzxzjvTFGIZDwag%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=14&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=cF%2Fsb3J23b%2FkiYuLA%2Bvzig%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=8&pageNum=0&refId=RCZz%2BFbxas6bfgf%2BAmPYvA%3D%3D&trackingId=NaIgFY0L%2Fh0L%2FyDFrJaDew%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=9&pageNum=0&refId=Y8gu254p5d85lInstQxp0A%3D%3D&trackingId=Liop8hMA6h0ljncrukIOQg%3D%3D)
 
 ROLE        - Mern Stack Developer Intern
 COMPANY     - Zenia Mobile
@@ -498,6 +578,30 @@ DATE POSTED - 2026-07-31
 ADDED AT    - 2026-08-03 10:03 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=35&pageNum=0&refId=F%2F6cThBAkqCmvFou6UXYbw%3D%3D&trackingId=PDxF6tfhi8wtXWl05LL4%2FA%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=25&pageNum=0&refId=RCZz%2BFbxas6bfgf%2BAmPYvA%3D%3D&trackingId=%2FS%2FdLhgfeA%2BRq3fi00YlNQ%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=28&pageNum=0&refId=Y8gu254p5d85lInstQxp0A%3D%3D&trackingId=iKH3jNuYV3FBvWN0zvoC7g%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=37&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=eSZm%2F8WoHPtfUmAn1GJPYQ%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - American Express
@@ -1002,6 +1106,30 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-08-03 10:03 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=25&pageNum=0&refId=0BOC4NmiAxPk0tWJuCY1nA%3D%3D&trackingId=ssEx2PqoInwl6w6gI%2FR6yg%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=17&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=5axhGWSWDACiM8ChGGbPZQ%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=26&pageNum=0&refId=Y8gu254p5d85lInstQxp0A%3D%3D&trackingId=NO0FOKqDJ%2B43mIfoKMSUhA%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=28&pageNum=0&refId=RCZz%2BFbxas6bfgf%2BAmPYvA%3D%3D&trackingId=lzVpIeUv07TDPUg%2B24cZDA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI

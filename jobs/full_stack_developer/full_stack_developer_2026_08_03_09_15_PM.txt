@@ -1,0 +1,39 @@
+ROLE        - Full Stack Developer
+COMPANY     - VedaAI
+TITLE       - Full-Stack Developer Intern
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Delhi, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-vedaai-4448172837?position=15&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=pbEdaFmDquaonrUy1n6qpA%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - AulNova Techsoft Ind Private Limited
+TITLE       - Hiring "Junior Developer (React.js, Node.js, Express.js, Java" @AulNova Techsoft
+DATE POSTED - 2026-08-03
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/hiring-junior-developer-react-js-node-js-express-js-java-%40aulnova-techsoft-at-aulnova-techsoft-ind-private-limited-4446229212?position=34&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=RtAAJPg85z7bpt%2Fw2cQJ8Q%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=14&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=cF%2Fsb3J23b%2FkiYuLA%2Bvzig%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=37&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=eSZm%2F8WoHPtfUmAn1GJPYQ%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-03 09:15 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=17&pageNum=0&refId=bFW%2BaLbHjV5IT40zTJ3cVg%3D%3D&trackingId=5axhGWSWDACiM8ChGGbPZQ%3D%3D)
