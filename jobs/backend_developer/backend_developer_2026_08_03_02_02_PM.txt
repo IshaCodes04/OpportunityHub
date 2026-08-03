@@ -1,0 +1,31 @@
+ROLE        - Backend Developer
+COMPANY     - The Niche Brands
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-03 02:02 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-the-niche-brands-4447475557?position=9&pageNum=0&refId=8JH34fN6fzeGMbNY3ix3ew%3D%3D&trackingId=MHsFNmqTAVbgfx90QSMV0Q%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Zenia Mobile
+TITLE       - Full Stack Developer (Intern / Junior)
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-03 02:02 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-junior-at-zenia-mobile-4445810473?position=28&pageNum=0&refId=8JH34fN6fzeGMbNY3ix3ew%3D%3D&trackingId=sAuQNU4RlXA6g11kFDRkCA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-03 02:02 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=25&pageNum=0&refId=8JH34fN6fzeGMbNY3ix3ew%3D%3D&trackingId=sMohTLXuJLnYiDEpbDhATQ%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-03 02:02 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=23&pageNum=0&refId=8JH34fN6fzeGMbNY3ix3ew%3D%3D&trackingId=7XBva%2BI%2B4d0Vtmm3f24ilw%3D%3D)
