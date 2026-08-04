@@ -4,13 +4,13 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 4, 2026 — Live Opportunities (114 Jobs)
-**Last Updated:** 2026-08-04 05:51 AM UTC | **Status:** Live ✅
+## 📅 August 4, 2026 — Live Opportunities (119 Jobs)
+**Last Updated:** 2026-08-04 08:43 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 59 jobs
 - 🟠 **Full Stack Engineer**: 18 jobs
-- 🟡 **Software Engineer**: 10 jobs
+- 🟡 **Software Engineer**: 15 jobs
 - 🟢 **Backend Developer**: 10 jobs
 - 🔵 **Nodejs Developer**: 8 jobs
 - 🟣 **Full Stack Developer**: 8 jobs
@@ -34,6 +34,14 @@ DATE POSTED - 2026-08-04
 ADDED AT    - 2026-08-04 11:21 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/siemens-off-campus-recruitment-graduate-program-2024-at-fresher-jobs-4448677416?position=4&pageNum=12&refId=8autGV7kMa1vSB%2B9jBljvQ%3D%3D&trackingId=szhFp%2FGgaVam1dbgIRP3PA%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Fresher Jobs
+TITLE       - Milliman Off Campus Recruitment | Trainee Software Engineer – Fresher
+DATE POSTED - 2026-08-04
+ADDED AT    - 2026-08-04 02:13 PM IST
+LOCATION    - Gurgaon, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/milliman-off-campus-recruitment-trainee-software-engineer-%E2%80%93-fresher-at-fresher-jobs-4448679384?position=31&pageNum=0&refId=zMm360USPZxau3SziyVj2Q%3D%3D&trackingId=1ZJMnk4nFbjS6F3GYaKhAg%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - Iris Software Inc.
@@ -226,6 +234,14 @@ DATE POSTED - 2026-08-01
 ADDED AT    - 2026-08-04 02:37 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=14&pageNum=0&refId=Hjij0mAUFGUX5ans1WGwTg%3D%3D&trackingId=%2BecbGdiBXAXnsSXoIe%2BLnA%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - 1Fi
+TITLE       - SDE intern
+DATE POSTED - 2026-08-01
+ADDED AT    - 2026-08-04 02:13 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=20&pageNum=0&refId=zMm360USPZxau3SziyVj2Q%3D%3D&trackingId=1ntrJwaoG5MW0LG8lHnG%2FQ%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - American Express
@@ -491,6 +507,14 @@ ADDED AT    - 2026-08-04 02:37 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=6&pageNum=0&refId=Hjij0mAUFGUX5ans1WGwTg%3D%3D&trackingId=P7OQTz9aPygRLaVzant%2Bng%3D%3D)
 
+ROLE        - Software Engineer
+COMPANY     - Babaclick
+TITLE       - Graduate Intern - Software Engineer (AI-Native)
+DATE POSTED - 2026-07-29
+ADDED AT    - 2026-08-04 02:13 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/graduate-intern-software-engineer-ai-native-at-babaclick-4446583064?position=9&pageNum=0&refId=zMm360USPZxau3SziyVj2Q%3D%3D&trackingId=vyxpzt4Mq66iOBcKRmdmfw%3D%3D)
+
 ROLE        - Software Developer
 COMPANY     - VAYUZ Technologies
 TITLE       - Flutter Developer Internship in Noida
@@ -578,6 +602,14 @@ DATE POSTED - 2026-07-25
 ADDED AT    - 2026-08-04 01:12 AM IST
 LOCATION    - Delhi, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-dehradun-at-intouch-quality-services-private-limited-4445262623?position=36&pageNum=0&refId=DC0kBV5UjeWah4UjnDt3RQ%3D%3D&trackingId=aYinON5Gu4TFiymveXeVFA%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Monotype
+TITLE       - Software Engineer Trainee
+DATE POSTED - 2026-07-23
+ADDED AT    - 2026-08-04 02:13 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-engineer-trainee-at-monotype-4443810802?position=2&pageNum=0&refId=zMm360USPZxau3SziyVj2Q%3D%3D&trackingId=UT0VKdx%2BAWi2v%2BHrPVkjhQ%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - Nippon Data Systems
@@ -906,6 +938,14 @@ DATE POSTED - 2026-07-10
 ADDED AT    - 2026-08-04 02:37 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/golang-developer-internship-in-noida-greater-noida-at-appversal-4438852515?position=5&pageNum=2&refId=pR5FSxISEoLmUVpCeAv%2BhA%3D%3D&trackingId=NH2w7WKMVWNOP6H7slgo1Q%3D%3D)
+
+ROLE        - Software Engineer
+COMPANY     - Samin TekMindz
+TITLE       - Fresher's Hiring
+DATE POSTED - 2026-07-10
+ADDED AT    - 2026-08-04 02:13 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/fresher-s-hiring-at-samin-tekmindz-4438371227?position=13&pageNum=0&refId=zMm360USPZxau3SziyVj2Q%3D%3D&trackingId=rLPfZYyxlbNYXIiBlr13WA%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - Samin TekMindz
