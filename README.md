@@ -4,16 +4,16 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 4, 2026 — Live Opportunities (153 Jobs)
-**Last Updated:** 2026-08-04 11:27 AM UTC | **Status:** Live ✅
+## 📅 August 4, 2026 — Live Opportunities (159 Jobs)
+**Last Updated:** 2026-08-04 02:24 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 78 jobs
 - 🟠 **Full Stack Engineer**: 24 jobs
 - 🟡 **Software Engineer**: 19 jobs
-- 🟢 **Backend Developer**: 12 jobs
-- 🔵 **Full Stack Developer**: 11 jobs
-- 🟣 **Nodejs Developer**: 8 jobs
+- 🟢 **Full Stack Developer**: 14 jobs
+- 🔵 **Backend Developer**: 12 jobs
+- 🟣 **Nodejs Developer**: 11 jobs
 - 🟤 **Mern Stack Developer Intern**: 1 jobs
 <!--END_SECTION:stats-->
 
@@ -34,6 +34,22 @@ DATE POSTED - 2026-08-04
 ADDED AT    - 2026-08-04 11:21 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/siemens-off-campus-recruitment-graduate-program-2024-at-fresher-jobs-4448677416?position=4&pageNum=12&refId=8autGV7kMa1vSB%2B9jBljvQ%3D%3D&trackingId=szhFp%2FGgaVam1dbgIRP3PA%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Blue Enigma
+TITLE       - Frontend Developer Intern
+DATE POSTED - 2026-08-04
+ADDED AT    - 2026-08-04 07:54 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/frontend-developer-intern-at-blue-enigma-4448275923?position=12&pageNum=0&refId=wkXzBLFRDOD%2B%2F3vDmc8Blg%3D%3D&trackingId=VJ36KY2%2FasKWxFOf5SFeYQ%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Blue Enigma
+TITLE       - Frontend Developer Intern
+DATE POSTED - 2026-08-04
+ADDED AT    - 2026-08-04 07:54 PM IST
+LOCATION    - Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/frontend-developer-intern-at-blue-enigma-4448275923?position=9&pageNum=0&refId=5UJgqlI4vK9ZoznvXryEnA%3D%3D&trackingId=3JHfeka9otH8rOugEIs3ag%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - Blue Enigma
@@ -354,6 +370,22 @@ DATE POSTED - 2026-07-31
 ADDED AT    - 2026-08-04 08:20 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=36&pageNum=0&refId=CN6yREWwrUX%2BJxsVZMnQJw%3D%3D&trackingId=5v%2FKmFfC8W9Fyqsk7tBd1g%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-04 07:54 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=15&pageNum=0&refId=5UJgqlI4vK9ZoznvXryEnA%3D%3D&trackingId=kHjqwqRJSaHW88BUhRbprw%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-04 07:54 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=33&pageNum=0&refId=wkXzBLFRDOD%2B%2F3vDmc8Blg%3D%3D&trackingId=%2FlaRK1zGhd9VOAIxJvJy5A%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - American Express
@@ -922,6 +954,22 @@ DATE POSTED - 2026-07-17
 ADDED AT    - 2026-08-04 08:20 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=24&pageNum=0&refId=uKqtrP3INlGbtDVtWbkd%2Fw%3D%3D&trackingId=AE1cKBs8Mpv1p4LOIz96vQ%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-04 07:54 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=16&pageNum=0&refId=wkXzBLFRDOD%2B%2F3vDmc8Blg%3D%3D&trackingId=EZzjW%2B0cpUtqo8YJJDZycg%3D%3D)
+
+ROLE        - Nodejs Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-04 07:54 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=20&pageNum=0&refId=5UJgqlI4vK9ZoznvXryEnA%3D%3D&trackingId=KXCFD0p504F01WauuFph7A%3D%3D)
 
 ROLE        - Software Developer
 COMPANY     - SMARRTIF AI
