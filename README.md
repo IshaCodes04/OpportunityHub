@@ -4,16 +4,16 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 4, 2026 — Live Opportunities (78 Jobs)
-**Last Updated:** 2026-08-03 11:05 PM UTC | **Status:** Live ✅
+## 📅 August 4, 2026 — Live Opportunities (82 Jobs)
+**Last Updated:** 2026-08-04 02:50 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 41 jobs
 - 🟠 **Full Stack Engineer**: 14 jobs
-- 🟡 **Nodejs Developer**: 6 jobs
-- 🟢 **Software Engineer**: 6 jobs
-- 🔵 **Backend Developer**: 6 jobs
-- 🟣 **Full Stack Developer**: 4 jobs
+- 🟡 **Backend Developer**: 8 jobs
+- 🟢 **Full Stack Developer**: 6 jobs
+- 🔵 **Nodejs Developer**: 6 jobs
+- 🟣 **Software Engineer**: 6 jobs
 - 🟤 **Mern Stack Developer Intern**: 1 jobs
 <!--END_SECTION:stats-->
 
@@ -194,6 +194,22 @@ DATE POSTED - 2026-08-01
 ADDED AT    - 2026-08-04 02:37 AM IST
 LOCATION    - Gurugram, Haryana, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/sde-intern-at-1fi-4447470394?position=14&pageNum=0&refId=Hjij0mAUFGUX5ans1WGwTg%3D%3D&trackingId=%2BecbGdiBXAXnsSXoIe%2BLnA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-04 08:20 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=26&pageNum=0&refId=uKqtrP3INlGbtDVtWbkd%2Fw%3D%3D&trackingId=IYXml3Ba2fjQuOBlTrIYLw%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-04 08:20 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=36&pageNum=0&refId=CN6yREWwrUX%2BJxsVZMnQJw%3D%3D&trackingId=5v%2FKmFfC8W9Fyqsk7tBd1g%3D%3D)
 
 ROLE        - Nodejs Developer
 COMPANY     - Multiplier AI
@@ -442,6 +458,22 @@ DATE POSTED - 2026-07-20
 ADDED AT    - 2026-08-04 01:12 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/ai-agent-development-internship-in-noida-at-nippon-data-systems-4442545895?position=47&pageNum=0&refId=DC0kBV5UjeWah4UjnDt3RQ%3D%3D&trackingId=eamp5Cn%2FVT0yajUTJTcd8g%3D%3D)
+
+ROLE        - Full Stack Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-04 08:20 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=20&pageNum=0&refId=CN6yREWwrUX%2BJxsVZMnQJw%3D%3D&trackingId=vaKdQ49dzbkBQO7P8ZXhBQ%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-04 08:20 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=24&pageNum=0&refId=uKqtrP3INlGbtDVtWbkd%2Fw%3D%3D&trackingId=AE1cKBs8Mpv1p4LOIz96vQ%3D%3D)
 
 ROLE        - Backend Developer
 COMPANY     - Upthrust Inc.
