@@ -1,0 +1,23 @@
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-05 05:37 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=24&pageNum=0&refId=ChphaKOXrR6IAfxxF%2B%2Bz8A%3D%3D&trackingId=d1BW29mfkXhctB7R7ew39Q%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Innovative Application Consultants
+TITLE       - Python Backend Developer Trainee / Intern
+DATE POSTED - 2026-07-21
+ADDED AT    - 2026-08-05 05:37 AM IST
+LOCATION    - Nehru Place, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/python-backend-developer-trainee-intern-at-innovative-application-consultants-4443321838?position=9&pageNum=0&refId=ChphaKOXrR6IAfxxF%2B%2Bz8A%3D%3D&trackingId=5%2FRNLDJVlIj24WQ%2BWu3biA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-05 05:37 AM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=23&pageNum=0&refId=ChphaKOXrR6IAfxxF%2B%2Bz8A%3D%3D&trackingId=vRCWmXlGOiMC0Vl7F%2F6Zog%3D%3D)
