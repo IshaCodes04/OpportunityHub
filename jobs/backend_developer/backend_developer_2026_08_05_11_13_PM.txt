@@ -1,0 +1,55 @@
+ROLE        - Backend Developer
+COMPANY     - Josh Talks
+TITLE       - Back End Developer Intern
+DATE POSTED - 2026-08-05
+ADDED AT    - 2026-08-05 11:13 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/back-end-developer-intern-at-josh-talks-4448970318?position=24&pageNum=0&refId=jbCAvZL3DAXNNAzlLMmHJQ%3D%3D&trackingId=LECiIV3hO8E3AKnjsPo4uA%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - WapHire
+TITLE       - Job Description - Full Stack Developer Intern
+DATE POSTED - 2026-08-05
+ADDED AT    - 2026-08-05 11:13 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/job-description-full-stack-developer-intern-at-waphire-4449437066?position=42&pageNum=0&refId=jbCAvZL3DAXNNAzlLMmHJQ%3D%3D&trackingId=74g2AGAX%2FVbJGUJU%2B8MClw%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Zenia Mobile
+TITLE       - React Native Mobile App Developer (Intern / Junior)
+DATE POSTED - 2026-08-05
+ADDED AT    - 2026-08-05 11:13 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/react-native-mobile-app-developer-intern-junior-at-zenia-mobile-4448014978?position=49&pageNum=0&refId=jbCAvZL3DAXNNAzlLMmHJQ%3D%3D&trackingId=YfghqTVWGLY%2FH83xbK9B6Q%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-05 11:13 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=37&pageNum=0&refId=jbCAvZL3DAXNNAzlLMmHJQ%3D%3D&trackingId=pXrJpPQ3YFiqouI0oUiJ1A%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Spectent™
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-30
+ADDED AT    - 2026-08-05 11:13 PM IST
+LOCATION    - Gurgaon, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-spectent%E2%84%A2-4444540185?position=4&pageNum=0&refId=jbCAvZL3DAXNNAzlLMmHJQ%3D%3D&trackingId=L4wNaZdcFgUVC%2BmQ0fbnyQ%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Innovative Application Consultants
+TITLE       - Python Backend Developer Trainee / Intern
+DATE POSTED - 2026-07-21
+ADDED AT    - 2026-08-05 11:13 PM IST
+LOCATION    - Nehru Place, Delhi, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/python-backend-developer-trainee-intern-at-innovative-application-consultants-4443321838?position=14&pageNum=0&refId=jbCAvZL3DAXNNAzlLMmHJQ%3D%3D&trackingId=iikI45p%2Bh%2FSz2nBiESKkBg%3D%3D)
+
+ROLE        - Backend Developer
+COMPANY     - Upthrust Inc.
+TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
+DATE POSTED - 2026-07-17
+ADDED AT    - 2026-08-05 11:13 PM IST
+LOCATION    - Gurugram, Haryana, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=36&pageNum=0&refId=jbCAvZL3DAXNNAzlLMmHJQ%3D%3D&trackingId=GQmSJI3ExHaLH01nSylF9Q%3D%3D)
