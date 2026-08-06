@@ -4,8 +4,8 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 6, 2026 — Live Opportunities (92 Jobs)
-**Last Updated:** 2026-08-05 11:03 PM UTC | **Status:** Live ✅
+## 📅 August 6, 2026 — Live Opportunities (93 Jobs)
+**Last Updated:** 2026-08-06 02:51 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 - 🔴 **Software Developer**: 36 jobs
@@ -14,6 +14,7 @@ Updates every hour with the latest job opportunities. Never miss out on your dre
 - 🟢 **Full Stack Engineer**: 9 jobs
 - 🔵 **Backend Developer**: 6 jobs
 - 🟣 **Software Engineer**: 5 jobs
+- 🟤 **Mern Stack Developer Intern**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
@@ -289,6 +290,14 @@ DATE POSTED - 2026-08-04
 ADDED AT    - 2026-08-06 01:10 AM IST
 LOCATION    - Noida, Uttar Pradesh, India
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/synopsys-off-campus-recruitment-intern-%E2%80%93-technical-engineering-at-fresher-jobs-4448678161?position=4&pageNum=7&refId=LGCEChVjJ7NHM6AEYOANDA%3D%3D&trackingId=A07MWyPmjocEhcNzmWQUTQ%3D%3D)
+
+ROLE        - Mern Stack Developer Intern
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-07-31
+ADDED AT    - 2026-08-06 08:21 AM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=7&pageNum=15&refId=zSW7B8gRZPyy%2Fv23k8NZdg%3D%3D&trackingId=cIF4dgUAbeoJFP3Qhydmkg%3D%3D)
 
 ROLE        - Nodejs Developer
 COMPANY     - Multiplier AI
