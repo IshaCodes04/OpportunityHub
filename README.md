@@ -4,15 +4,23 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 August 8, 2026 — Live Opportunities (2 Jobs)
-**Last Updated:** 2026-08-08 01:49 PM UTC | **Status:** Live ✅
+## 📅 August 8, 2026 — Live Opportunities (3 Jobs)
+**Last Updated:** 2026-08-08 02:35 PM UTC | **Status:** Live ✅
 
 ### Job Categories:
-- 🔴 **Mern Stack Developer Intern**: 2 jobs
+- 🔴 **Mern Stack Developer Intern**: 3 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
+ROLE        - Mern Stack Developer Intern
+COMPANY     - Multiplier AI
+TITLE       - Full Stack Developer Intern
+DATE POSTED - 2026-08-07
+ADDED AT    - 2026-08-08 08:05 PM IST
+LOCATION    - Noida, Uttar Pradesh, India
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=5&pageNum=15&refId=H1AYheEVD5%2Brtl7btXPCOQ%3D%3D&trackingId=i1hYBBiDiUPE5SK23JBC6A%3D%3D)
+
 ROLE        - Mern Stack Developer Intern
 COMPANY     - Multiplier AI
 TITLE       - Full Stack Developer Intern
