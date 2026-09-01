@@ -8,3 +8,4 @@
 - [x] 3. **main.py** — Fix missing `utc_timestamp_str()` function (pre-existing bug fix)
 - [x] 4. **main.py** — Remove hardcoded `pages=3` from main block (now uses default 5)
 - [x] 5. ✅ **All done!** Next GitHub Actions run will scrape July 2026 jobs automatically
+

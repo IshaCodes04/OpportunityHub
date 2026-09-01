@@ -427,16 +427,16 @@ def _render_job_blocks(rows: list[dict]) -> str:
     """Render jobs in fixed block format for README."""
     blocks = []
     for r in rows:
-        blocks.append("\n".join([
-            f"ROLE        - {r.get('Role', '')}",
-            f"COMPANY     - {r.get('Company', '')}",
-            f"TITLE       - {r.get('Title', '')}",
-            f"DATE POSTED - {r.get('Date Posted', '')}",
-            f"ADDED AT    - {r.get('Added At', '')}",
-            f"LOCATION    - {r.get('Location', '')}",
+        blocks.append("".join([
+            f"ROLE        - {r.get('Role', '')}<br>\n",
+            f"COMPANY     - {r.get('Company', '')}<br>\n",
+            f"TITLE       - {r.get('Title', '')}<br>\n",
+            f"DATE POSTED - {r.get('Date Posted', '')}<br>\n",
+            f"ADDED AT    - {r.get('Added At', '')}<br>\n",
+            f"LOCATION    - {r.get('Location', '')}<br>\n",
             f"APPLY LINK  - {r.get('Link', '')}",
         ]))
-    return "\n\n".join(blocks) + ("\n" if blocks else "")
+    return "\n".join(blocks) + ("\n" if blocks else "")
 
 
 def update_readme(all_today_jobs: list, target_date: str, now: datetime) -> None:
