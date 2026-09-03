@@ -4,13 +4,111 @@
 Updates every hour with the latest job opportunities. Never miss out on your dream role!
 
 <!--START_SECTION:stats-->
-## 📅 September 2, 2026 — Live Opportunities (0 Jobs)
-**Last Updated:** 2026-09-02 02:14 AM UTC | **Status:** Live ✅
+## 📅 September 3, 2026 — Live Opportunities (14 Jobs)
+**Last Updated:** 2026-09-03 02:21 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
+- 🔴 **Mern Stack Developer Intern**: 14 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-No jobs found yet today.
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - PMGlide<br>
+TITLE       - Software Intern | Fixed Term<br>
+DATE POSTED - 2026-09-02<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Delhi, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-intern-fixed-term-at-pmglide-4460977290?position=23&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=%2BKqCFyQdIXIjsFreGIc9jA%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Anslation<br>
+TITLE       - Tech Interns<br>
+DATE POSTED - 2026-09-02<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Gurugram, Haryana, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/tech-interns-at-anslation-4459914365?position=1&pageNum=10&refId=OvyrvuYci%2BWSDyznbtqv4g%3D%3D&trackingId=vr%2BLVDkkVLpc67euWzV4sQ%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Bosscoder Academy<br>
+TITLE       - Software Development Internship in Noida<br>
+DATE POSTED - 2026-09-01<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Noida, Uttar Pradesh, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-development-internship-in-noida-at-bosscoder-academy-4461507509?position=32&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=NXLHSQjig1i5RINTQ4P9Hw%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Bosscoder Academy<br>
+TITLE       - Software Development Internship in Noida<br>
+DATE POSTED - 2026-09-01<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Noida, Uttar Pradesh, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-development-internship-in-noida-at-bosscoder-academy-4461507509?position=7&pageNum=2&refId=K6eeBA9XqH4Wql%2BS8lv74w%3D%3D&trackingId=QCOL2q4K1hL8wgofIpzkaw%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Isourse<br>
+TITLE       - Backend Development Internship in Delhi<br>
+DATE POSTED - 2026-08-30<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Delhi, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/backend-development-internship-in-delhi-at-isourse-4460846571?position=47&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=2vZNVlPleIODR1t4dUJlLg%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Digital Guruji<br>
+TITLE       - Full Stack Development Internship in Delhi<br>
+DATE POSTED - 2026-08-28<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Delhi, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-at-digital-guruji-4460151320?position=41&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=L1r7SIIvR0LUhk9EyJOGdA%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - WapHire<br>
+TITLE       - Full Stack Developer Intern<br>
+DATE POSTED - 2026-08-25<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Noida, Uttar Pradesh, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-waphire-4458545933?position=15&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=kOAm53WqSD1XPU2K1rESfA%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Experiences Digital<br>
+TITLE       - Full Stack Development Internship in Gurgaon<br>
+DATE POSTED - 2026-08-19<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Gurgaon, Haryana, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-gurgaon-at-experiences-digital-4455987846?position=57&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=u9VCaO1Gf7ABCxg%2B8%2BcBcg%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Experiences Digital<br>
+TITLE       - Full Stack Development Internship in Gurgaon<br>
+DATE POSTED - 2026-08-19<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Gurgaon, Haryana, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-gurgaon-at-experiences-digital-4455987846?position=7&pageNum=5&refId=a83g%2FiEzIPRZ%2BlWsvUW1gA%3D%3D&trackingId=67cgzhepB8EnAVAWUP4E%2BA%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - WapHire<br>
+TITLE       - Full Stack Development Internship in Noida<br>
+DATE POSTED - 2026-08-15<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Noida, Uttar Pradesh, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-noida-at-waphire-4454828761?position=16&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=t6jVTVE4AXpQo4no81s2Sw%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - MeeTri Infotech<br>
+TITLE       - Full Stack Development (MERN) Internship in Noida<br>
+DATE POSTED - 2026-08-15<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Noida, Uttar Pradesh, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-mern-internship-in-noida-at-meetri-infotech-4454815902?position=39&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=NmpHSFely7wX3HBVRTcghg%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - MeeTri Infotech<br>
+TITLE       - Full Stack Development (React.js + Node.js) - MERN Internship in Noida<br>
+DATE POSTED - 2026-08-09<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Noida, Uttar Pradesh, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-development-react-js-%2B-node-js-mern-internship-in-noida-at-meetri-infotech-4451315292?position=3&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=zIxSovHTEgYpfDKvSdKBDQ%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Interloop - Zoho Partner| Manage Engine | Managed HR Services<br>
+TITLE       - Full Stack Developer Intern - React & Node JS<br>
+DATE POSTED - 2026-08-08<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Delhi, Delhi, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-react-node-js-at-interloop-zoho-partner-manage-engine-managed-hr-services-4451081170?position=7&pageNum=0&refId=NmkiyhLRB1h2VAXbSsYb2w%3D%3D&trackingId=yx0W32pCz7Rgg9aTpYegsg%3D%3D)
+ROLE        - Mern Stack Developer Intern<br>
+COMPANY     - Lighthouse Learning Group<br>
+TITLE       - .NET Development Internship in Delhi, Gurgaon, Noida<br>
+DATE POSTED - 2026-08-05<br>
+ADDED AT    - 2026-09-03 07:51 AM IST<br>
+LOCATION    - Gurgaon, Haryana, India<br>
+APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/net-development-internship-in-delhi-gurgaon-noida-at-lighthouse-learning-group-4449098910?position=3&pageNum=15&refId=2ho09Zz1mn8hJY3olvnGkA%3D%3D&trackingId=anX6wCrpw31%2FlUcdBL0cmg%3D%3D)
 <!--END_SECTION:workfetch-->
