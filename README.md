@@ -1,7 +1,7 @@
 # OpportunityHub: Jobs Scrapper
 > Your personal job opportunity aggregator! 🚀
 
-Updates every hour with the latest job opportunities. Never miss out on your dream role!
+Runs daily at 7:00 AM IST and emails a combined digest with direct apply links.
 
 <!--START_SECTION:stats-->
 ## 📅 September 4, 2026 — Live Opportunities (12 Jobs)
@@ -110,3 +110,26 @@ Place your resume in the `resume/` folder as a `.pdf`, `.docx`, `.txt`, or `.md`
 The generated `profile.json` contains extracted contact details, links, skills, experience, education, projects, certifications, summary, and the complete extracted resume text.
 
 Jobs are collected from the configured company boards on Greenhouse, Lever, and Ashby, plus public searches on LinkedIn, Naukri, and Internshala. Only the requested role families with a profile match score of at least 90% are saved.
+
+Optional Gemini verification uses the free-tier `gemini-2.5-flash-lite` model. Set your key only in the terminal environment, never in source files:
+
+```powershell
+$env:GEMINI_API_KEY = "your-key-here"
+```
+
+You can choose another available model with `$env:GEMINI_MODEL`. Without a key, the local profile matcher still runs. Listings must match a configured Delhi NCR location and duplicate application URLs are removed.
+
+## Daily Gmail Digest
+
+The scraper sends one combined HTML digest to `ishu010.com@gmail.com` after each completed run. It contains only newly discovered 90%+ Delhi NCR matches, with direct **Open & apply** links.
+
+For a local run, create a Gmail App Password (Google Account -> Security -> 2-Step Verification -> App passwords), then set it in the current PowerShell session:
+
+```powershell
+$env:GMAIL_APP_PASSWORD = "your-16-character-app-password"
+$env:GMAIL_SENDER = "ishu010.com@gmail.com"
+$env:GMAIL_RECIPIENT = "ishu010.com@gmail.com"
+python main.py
+```
+
+Never put the app password in `main.py`, `README.md`, or Git. The included GitHub Actions workflow runs every day at 7:00 AM IST (01:30 UTC). For that automatic cloud run, add `GEMINI_API_KEY` and `GMAIL_APP_PASSWORD` as repository secrets under GitHub -> Settings -> Secrets and variables -> Actions. `GMAIL_SENDER` and `GMAIL_RECIPIENT` are already configured for this account.

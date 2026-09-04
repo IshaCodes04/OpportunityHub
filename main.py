@@ -13,6 +13,10 @@ import json
 import re
 import csv
 import argparse
+import html
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
@@ -28,36 +32,36 @@ TARGET_ROLES = [
     "mern stack developer",
     "software engineer",
     "software developer",
-        "junior software engineer",
-        "sde",
-        "sde-1",
-        "software development engineer",
-        "junior full stack developer",
-        "associate software engineer",
-        "graduate software engineer",
-        "trainee software engineer",
+    "junior software engineer",
+    "sde",
+    "sde-1",
+    "software development engineer",
+    "junior full stack developer",
+    "associate software engineer",
+    "graduate software engineer",
+    "trainee software engineer",
     "generative ai engineer",
-        "genai engineer",
+    "genai engineer",
     "genai developer",
-        "ai engineer",
+    "ai engineer",
     "ai application developer",
-        "ai software engineer",
-        "ai developer",
+    "ai software engineer",
+    "ai developer",
     "full stack ai engineer",
-        "ai application engineer",
-        "llm application developer",
-        "llm engineer",
-        "rag engineer",
-        "generative ai developer",
-        "junior ai engineer",
-        "junior genai engineer",
+    "ai application engineer",
+    "llm application developer",
+    "llm engineer",
+    "rag engineer",
+    "generative ai developer",
+    "junior ai engineer",
+    "junior genai engineer",
 ]
 
 ALLOWED_ROLE_PATTERNS = [
     r"\bfull\s*stack\s+(?:developer|engineer)\b",
     r"\bmern\s+stack\s+developer\b",
     r"\bsoftware\s+(?:engineer|developer)\b",
-    r"\bsde(?:\s*[- ]?1)?\b(?!\s*(?:ii|2|iii)\b)",
+    r"\bsde(?:\s*[- ]?1)?\b(?!\s*(?:ii|2|iii|iv|4|v|5)\b)",
     r"\bsoftware\s+development\s+engineer\b",
     r"\bgenerative\s+ai\s+engineer\b",
     r"\bgen\s*ai\s+engineer\b",
@@ -410,7 +414,7 @@ def load_profile(path: str = "profile.json") -> dict:
 
 def profile_match_score(job: dict, profile: dict) -> int:
     """Score title, skills, and experience relevance from 0 to 100."""
-    if not profile or not is_allowed_job_title(job.get("Title", "")):
+    if not profile or not is_allowed_job_title(job.get("Title", "")) or not is_target_location(job.get("Location", "")):
         return 0
     job_text = " ".join(str(job.get(key, "")) for key in ("Title", "Description", "Role")).lower()
     profile_text = " ".join([
@@ -422,8 +426,14 @@ def profile_match_score(job: dict, profile: dict) -> int:
     overlap = len(skill_terms & job_terms)
     skill_score = min(40, overlap * 4)
     title_score = 50 if is_allowed_job_title(job.get("Title", "")) else 0
-    location_score = 10 if any(loc in str(job.get("Location", "")).lower() for loc in TARGET_LOCATIONS) else 0
+    location_score = 10
     return min(100, title_score + skill_score + location_score)
+
+
+def is_target_location(location: str) -> bool:
+    """Require every saved listing to be in one of the configured locations."""
+    normalized = re.sub(r"[^a-z0-9]+", " ", str(location).lower()).strip()
+    return any(re.search(rf"\b{re.escape(loc)}\b", normalized) for loc in TARGET_LOCATIONS)
 
 
 def _json_get(url: str) -> object:
@@ -432,22 +442,65 @@ def _json_get(url: str) -> object:
         return json.loads(response.read().decode("utf-8"))
 
 
+def _canonical_url(link: str) -> str:
+    url = extract_url_from_markdown_link(link).split("?")[0].rstrip("/").lower()
+    return url
+
+
+def gemini_match_score(job: dict, profile: dict) -> int | None:
+    """Use Gemini Flash-Lite when GEMINI_API_KEY is configured; return None on failure."""
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        return None
+    model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
+    prompt = {
+        "job_title": job.get("Title", ""),
+        "job_location": job.get("Location", ""),
+        "job_description": str(job.get("Description", ""))[:6000],
+        "profile_skills": profile.get("skills", []),
+        "profile_experience": profile.get("experience", []),
+        "instruction": "Return JSON only: {\"score\": number}. Score 0-100 for entry-level fit. Require title fit and configured location; do not invent requirements.",
+    }
+    body = json.dumps({"contents": [{"parts": [{"text": json.dumps(prompt)}]}], "generationConfig": {"temperature": 0, "responseMimeType": "application/json"}}).encode("utf-8")
+    request = Request(
+        f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={quote_plus(api_key)}",
+        data=body,
+        headers={"Content-Type": "application/json", "User-Agent": "OpportunityHub/1.0"},
+        method="POST",
+    )
+    try:
+        with urlopen(request, timeout=20) as response:
+            result = json.loads(response.read().decode("utf-8"))
+        text = result["candidates"][0]["content"]["parts"][0]["text"]
+        score = json.loads(text).get("score")
+        return max(0, min(100, int(score)))
+    except (HTTPError, URLError, TimeoutError, KeyError, IndexError, TypeError, ValueError, json.JSONDecodeError) as error:
+        logger.warning("Gemini match check failed: %s", error)
+        return None
+
+
 def scrape_ats_company(company: dict, requested_role: str) -> list[dict]:
     """Fetch public jobs from a company's Greenhouse, Lever, or Ashby board."""
     ats, slug = company["ats"], company["slug"]
-    try:
-        if ats == "greenhouse":
-            payload = _json_get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true")
-            rows = payload.get("jobs", []) if isinstance(payload, dict) else []
-        elif ats == "lever":
-            rows = _json_get(f"https://api.lever.co/v0/postings/{slug}?mode=json")
-        elif ats == "ashby":
-            payload = _json_get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
-            rows = payload.get("jobs", []) if isinstance(payload, dict) else []
-        else:
-            rows = []
-    except (HTTPError, URLError, TimeoutError, ValueError) as error:
-        logger.warning("%s board unavailable for %s: %s", ats, company["name"], error)
+    rows = None
+    attempted = []
+    for candidate_ats in dict.fromkeys([ats, "greenhouse", "lever", "ashby"]):
+        attempted.append(candidate_ats)
+        try:
+            if candidate_ats == "greenhouse":
+                payload = _json_get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true")
+                rows = payload.get("jobs", []) if isinstance(payload, dict) else []
+            elif candidate_ats == "lever":
+                rows = _json_get(f"https://api.lever.co/v0/postings/{slug}?mode=json")
+            else:
+                payload = _json_get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
+                rows = payload.get("jobs", []) if isinstance(payload, dict) else []
+            break
+        except (HTTPError, URLError, TimeoutError, ValueError):
+            continue
+    if rows is None:
+        logger.warning("No public ATS board found for %s (tried %s)", company["name"], ", ".join(attempted))
+        rows = []
         return []
 
     jobs = []
@@ -460,7 +513,7 @@ def scrape_ats_company(company: dict, requested_role: str) -> list[dict]:
         link = row.get("absolute_url", row.get("hostedUrl", row.get("applyUrl", "")))
         job = {"Role": requested_role.title(), "Company": company["name"], "Title": title,
                "Location": str(location), "Link": f"[Apply]({link})", "Description": BeautifulSoup(str(description), "html.parser").get_text(" ")}
-        if is_allowed_job_title(title):
+        if is_allowed_job_title(title) and is_target_location(str(location)):
             jobs.append(job)
     return jobs
 
@@ -481,7 +534,7 @@ def scrape_public_platforms(requested_role: str, location: str) -> list[dict]:
             soup = BeautifulSoup(driver.page_source or "", "html.parser")
             for link in soup.find_all("a", href=True):
                 title = link.get_text(" ", strip=True)
-                if is_allowed_job_title(title) and len(title) < 150:
+                if is_allowed_job_title(title) and is_target_location(location) and len(title) < 150:
                     jobs.append({"Role": requested_role.title(), "Company": source, "Title": title,
                                  "Location": location, "Link": f"[Apply]({link['href']})", "Description": ""})
             driver.quit()
@@ -499,8 +552,11 @@ def scrape_all_sources(requested_role: str, location: str, profile: dict) -> lis
     seen_links = set()
     for job in jobs:
         score = profile_match_score(job, profile)
-        link = job.get("Link", "")
-        if score >= 90 and link not in seen_links:
+        gemini_score = gemini_match_score(job, profile) if score >= 90 else None
+        if gemini_score is not None:
+            score = gemini_score
+        link = _canonical_url(job.get("Link", ""))
+        if score >= 90 and link and link not in seen_links:
             job["Match Score"] = score
             job.pop("Description", None)
             matching.append(job)
@@ -594,7 +650,7 @@ def save_to_csv(data: list, filename: str) -> None:
         return
     try:
         df = pd.DataFrame(data)
-            preferred = ["Role", "Company", "Title", "Location", "Link", "Date Posted", "Match Score", "Added At"]
+        preferred = ["Role", "Company", "Title", "Location", "Link", "Date Posted", "Match Score", "Added At"]
         cols = [c for c in preferred if c in df.columns] + [c for c in df.columns if c not in preferred]
         df = df[cols]
         df.to_csv(filename, index=False, encoding="utf-8", quoting=csv.QUOTE_ALL)
@@ -641,6 +697,7 @@ def _render_job_blocks(rows: list[dict]) -> str:
             f"DATE POSTED - {r.get('Date Posted', '')}<br>\n",
             f"ADDED AT    - {r.get('Added At', '')}<br>\n",
             f"LOCATION    - {r.get('Location', '')}<br>\n",
+            f"MATCH SCORE - {r.get('Match Score', '')}%<br>\n",
             f"APPLY LINK  - {r.get('Link', '')}",
         ]))
     return "\n".join(blocks) + ("\n" if blocks else "")
@@ -715,6 +772,72 @@ def update_readme(all_today_jobs: list, target_date: str, now: datetime) -> None
 
     except Exception as e:
         logger.exception("Error updating README: %s", str(e))
+
+
+def _email_link(link: str) -> str:
+    url = extract_url_from_markdown_link(link).strip()
+    return url if url.startswith(("http://", "https://")) else "#"
+
+
+def build_digest_html(jobs: list[dict], target_date: str, scanned_count: int) -> str:
+    """Build a Gmail-friendly daily digest with one apply card per new job."""
+    day_label = day_label_from_target_date(target_date)
+    cards = []
+    for job in sorted(jobs, key=lambda item: int(item.get("Match Score", 0)), reverse=True):
+        title = html.escape(str(job.get("Title", "Untitled role")))
+        company = html.escape(str(job.get("Company", "")))
+        location = html.escape(str(job.get("Location", "")))
+        role = html.escape(str(job.get("Role", "")))
+        date_posted = html.escape(str(job.get("Date Posted", "Not specified")))
+        score = html.escape(str(job.get("Match Score", "")))
+        apply_url = html.escape(_email_link(str(job.get("Link", ""))), quote=True)
+        cards.append(f"""
+        <tr><td style="padding:0 0 18px 0;"><table width="100%" cellpadding="0" cellspacing="0"
+          style="background:#171a21;border:1px solid #2b303b;border-radius:14px;color:#f4f6fb;">
+          <tr><td style="padding:22px 24px 10px 24px;font-family:Arial,sans-serif;">
+            <span style="font-size:20px;font-weight:700;">{title}</span>
+            <span style="display:inline-block;background:#aebbd0;color:#10131a;border-radius:14px;padding:4px 9px;margin-left:8px;font-weight:700;">{score}%</span>
+          </td></tr>
+          <tr><td style="padding:0 24px 10px 24px;color:#aebbd0;font:14px Arial,sans-serif;">{company} &middot; {location} &middot; {role}</td></tr>
+          <tr><td style="padding:0 24px 18px 24px;color:#d9deea;font:14px/1.5 Arial,sans-serif;">Posted: {date_posted}</td></tr>
+          <tr><td style="padding:0 24px 22px 24px;"><a href="{apply_url}" style="background:#7898ff;color:#10131a;text-decoration:none;border-radius:10px;padding:12px 18px;font:bold 15px Arial,sans-serif;display:inline-block;">Open &amp; apply &rarr;</a></td></tr>
+        </table></td></tr>""")
+    if not cards:
+        cards.append("<tr><td style=\"padding:28px 0;font:16px Arial,sans-serif;color:#aebbd0;\">No new matching jobs today.</td></tr>")
+    return f"""<!doctype html><html><body style="margin:0;background:#0f1115;padding:24px 12px;">
+    <table width="100%" cellpadding="0" cellspacing="0"><tr><td align="center">
+    <table width="640" cellpadding="0" cellspacing="0" style="max-width:640px;color:#f4f6fb;">
+      <tr><td style="padding:18px 0 22px;font:700 28px Arial,sans-serif;">Your job digest</td></tr>
+      <tr><td style="padding:0 0 24px;color:#aebbd0;font:14px/1.6 Arial,sans-serif;">{html.escape(day_label)} &middot; scanned {scanned_count} postings &middot; {len(jobs)} new matches<br>Delhi NCR &middot; 90%+ profile match</td></tr>
+      {''.join(cards)}
+      <tr><td style="padding:10px 0;color:#697386;font:12px Arial,sans-serif;">Generated by OpportunityHub</td></tr>
+    </table></td></tr></table></body></html>"""
+
+
+def send_daily_digest(jobs: list[dict], target_date: str, scanned_count: int) -> bool:
+    """Send the digest through Gmail SMTP when a Gmail app password is configured."""
+    password = os.getenv("GMAIL_APP_PASSWORD")
+    sender = os.getenv("GMAIL_SENDER", "ishu010.com@gmail.com")
+    recipient = os.getenv("GMAIL_RECIPIENT", "ishu010.com@gmail.com")
+    if not password:
+        logger.warning("Digest not sent: GMAIL_APP_PASSWORD is not configured.")
+        return False
+    message = MIMEMultipart("alternative")
+    message["Subject"] = f"{len(jobs)} jobs worth your time - {day_label_from_target_date(target_date)}"
+    message["From"] = sender
+    message["To"] = recipient
+    message.attach(MIMEText(f"{len(jobs)} new matching jobs found. Open the HTML version to apply.", "plain", "utf-8"))
+    message.attach(MIMEText(build_digest_html(jobs, target_date, scanned_count), "html", "utf-8"))
+    try:
+        with smtplib.SMTP("smtp.gmail.com", 587, timeout=30) as server:
+            server.starttls()
+            server.login(sender, password)
+            server.sendmail(sender, [recipient], message.as_string())
+        logger.info("Daily digest sent to %s (%s jobs)", recipient, len(jobs))
+        return True
+    except (OSError, smtplib.SMTPException) as error:
+        logger.exception("Daily digest could not be sent: %s", error)
+        return False
 
 
 # ─────────────────────────── Resume profile ──────────────────────────
@@ -836,6 +959,7 @@ if __name__ == "__main__":
     if not profile:
         raise SystemExit("profile.json not found or empty. Create it with --resume before scraping.")
     role_results: dict[str, list[dict]] = {}  # role -> jobs found this run
+    run_seen_links: set[str] = set()
 
     # ── Step 1: Scrape each role → save to its own folder immediately ──
     for idx, role in enumerate(TARGET_ROLES, 1):
@@ -843,6 +967,13 @@ if __name__ == "__main__":
         print("-" * 70)
 
         jobs = scrape_all_sources(role, location, profile)
+        unique_jobs = []
+        for job in jobs:
+            link_key = _canonical_url(job.get("Link", ""))
+            if link_key and link_key not in run_seen_links:
+                run_seen_links.add(link_key)
+                unique_jobs.append(job)
+        jobs = unique_jobs
 
         if jobs:
             # Stamp Added At for this run
@@ -883,7 +1014,10 @@ if __name__ == "__main__":
     print(f"  📊 Total jobs today    : {len(all_today_jobs)}")
     update_readme(all_today_jobs, target_date, now)
 
-    # ── Step 4: Summary per role ──
+    # ── Step 4: Email only jobs first discovered in this run ──
+    send_daily_digest(new_jobs, target_date, len(all_scraped))
+
+    # ── Step 5: Summary per role ──
     print("\n" + "=" * 70)
     print("  📋 Per-Role Summary:")
     print("-" * 70)

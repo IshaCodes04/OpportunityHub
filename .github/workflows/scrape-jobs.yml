@@ -2,8 +2,8 @@ name: 🚀 Scrape & Update Jobs
 
 on:
   schedule:
-    # Run daily at midnight UTC (5:30 AM IST)
-    - cron: '0 0 * * *'
+    # Run daily at 01:30 UTC (7:00 AM IST)
+    - cron: '30 1 * * *'
   # Manual trigger
   workflow_dispatch:
   # Trigger on push to main
@@ -44,6 +44,10 @@ jobs:
       - name: 🔍 Run job scraper
         env:
           CHROME_BIN: ${{ steps.setup-chrome.outputs.chrome-path }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_SENDER: ishu010.com@gmail.com
+          GMAIL_RECIPIENT: ishu010.com@gmail.com
         run: |
           python main.py
 
