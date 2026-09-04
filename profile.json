@@ -1,0 +1,54 @@
+{
+  "source_file": "C:\\Users\\Isha Singh\\OneDrive\\Desktop\\OpportunityHub\\resume\\my_resume.pdf",
+  "extracted_at": "2026-09-04 01:27 PM IST",
+  "name": "Isha Singh",
+  "email": "ishu010.com@gmail.com",
+  "phone": "+91 8287528798",
+  "links": [],
+  "skills": [
+    "•Frontend: React.js, Tailwind CSS, Responsive Web Design, UI/UX",
+    "•Backend: Node.js, Express.js, REST API Design, JWT Authentication, OAuth 2.0, MVC Architecture, API Security",
+    "•Databases: MongoDB, MySQL, Vector Embeddings, Pinecone DB",
+    "•AI & Real-Time: Retrieval-Augmented Generation (RAG), LLM, Gemini API, GROQ (LLaMA 3.3), Generative AI,",
+    "Socket.IO, WebSockets"
+  ],
+  "experience": [
+    "• Freelance Full Stack Developer Remote",
+    "Nov 2025 – Present",
+    "◦Full Stack Development: Built and delivered production-ready MERN stack applications and RESTful APIs using",
+    "React.js, Node.js, Express.js, and MongoDB, focusing on scalable architecture and reliable backend systems.",
+    "◦AI & Backend Solutions: Developed AI-powered features and backend services using Gemini API, RAG, JWT",
+    "authentication, and optimized MongoDB queries, integrating secure APIs and intelligent workflows into full-stack",
+    "applications."
+  ],
+  "education": [
+    "• Mangalayatan University Aligarh, India",
+    "Bachelor of Computer Applications (BCA); GPA: 3.4/4.0 Sep 2025 – 2027"
+  ],
+  "projects": [
+    "• Aura AI – Full Stack AI Web Application",
+    "Node.js, React.js, MongoDB, Gemini API, RAG, JWT, Vector Embeddings, Render",
+    "◦Production-grade AI assistant with persistent multi-session memory, JWT-secured authentication, and real-time responses",
+    "built on the MERN stack.",
+    "◦Architected a custom RAG pipeline using Vector Embeddings and Gemini 2.0 Flash API for context-aware retrieval;",
+    "deployed with MongoDB Atlas using database indexing and caching.",
+    "• CraveScroll – Full Stack Food Reels Platform",
+    "React.js, Node.js, Express.js, MongoDB, REST API, JWT, Tailwind CSS, Render",
+    "◦Full-stack food reels platform with a social media-style feed where users discover trending content and creators upload",
+    "their own reels.",
+    "◦Developed using MERN stack with authentication, creator uploads, RESTful APIs, and optimized MongoDB queries for",
+    "smooth reel delivery.",
+    "• SnapScript – AI-Powered Caption Generator",
+    "React.js, Node.js, Express.js, Gemini API, Generative AI, Tailwind CSS, Render",
+    "◦AI-powered caption generator that creates multiple context-aware social media captions from an image or idea.",
+    "◦Integrated Gemini API with React.js frontend and Express.js backend for fast multi-suggestion caption generation.",
+    "Certifications & Achievements",
+    "• Deloitte Technology Virtual Internship – Forage",
+    "System analysis, data analytics, IT consulting workflows, enterprise client solution delivery 2025",
+    "• AI Powered Job-Ready Cohort – Sheryians Coding School",
+    "MERN Stack, Generative AI integration, DSA, REST API design, software engineering fundamentals 2025"
+  ],
+  "certifications": [],
+  "summary": [],
+  "resume_text": "Isha Singh\nEmail: ishu010.com@gmail.com Portfolio: ishasingh.framer.website\nMobile: +91 8287528798 Github: github.com/IshaCodes04\nLinkedIn: isha-singh-b00715300\nProfessional Summary\nFull Stack Developer with 1 year of freelance experience building MERN applications, RESTful APIs, and Generative AI\nsolutions using RAG and LLMs. Skilled in scalable backend architecture, AI integrations, real-time WebSockets, secure\nauthentication, and cloud deployment.\nEducation\n• Mangalayatan University Aligarh, India\nBachelor of Computer Applications (BCA); GPA: 3.4/4.0 Sep 2025 – 2027\nTechnical Skills\n•Frontend: React.js, Tailwind CSS, Responsive Web Design, UI/UX\n•Backend: Node.js, Express.js, REST API Design, JWT Authentication, OAuth 2.0, MVC Architecture, API Security\n•Databases: MongoDB, MySQL, Vector Embeddings, Pinecone DB\n•AI & Real-Time: Retrieval-Augmented Generation (RAG), LLM, Gemini API, GROQ (LLaMA 3.3), Generative AI,\nSocket.IO, WebSockets\nWork Experience\n• Freelance Full Stack Developer Remote\nNov 2025 – Present\n◦Full Stack Development: Built and delivered production-ready MERN stack applications and RESTful APIs using\nReact.js, Node.js, Express.js, and MongoDB, focusing on scalable architecture and reliable backend systems.\n◦AI & Backend Solutions: Developed AI-powered features and backend services using Gemini API, RAG, JWT\nauthentication, and optimized MongoDB queries, integrating secure APIs and intelligent workflows into full-stack\napplications.\nProjects\n• Aura AI – Full Stack AI Web Application\nNode.js, React.js, MongoDB, Gemini API, RAG, JWT, Vector Embeddings, Render\n◦Production-grade AI assistant with persistent multi-session memory, JWT-secured authentication, and real-time responses\nbuilt on the MERN stack.\n◦Architected a custom RAG pipeline using Vector Embeddings and Gemini 2.0 Flash API for context-aware retrieval;\ndeployed with MongoDB Atlas using database indexing and caching.\n• CraveScroll – Full Stack Food Reels Platform\nReact.js, Node.js, Express.js, MongoDB, REST API, JWT, Tailwind CSS, Render\n◦Full-stack food reels platform with a social media-style feed where users discover trending content and creators upload\ntheir own reels.\n◦Developed using MERN stack with authentication, creator uploads, RESTful APIs, and optimized MongoDB queries for\nsmooth reel delivery.\n• SnapScript – AI-Powered Caption Generator\nReact.js, Node.js, Express.js, Gemini API, Generative AI, Tailwind CSS, Render\n◦AI-powered caption generator that creates multiple context-aware social media captions from an image or idea.\n◦Integrated Gemini API with React.js frontend and Express.js backend for fast multi-suggestion caption generation.\nCertifications & Achievements\n• Deloitte Technology Virtual Internship – Forage\nSystem analysis, data analytics, IT consulting workflows, enterprise client solution delivery 2025\n• AI Powered Job-Ready Cohort – Sheryians Coding School\nMERN Stack, Generative AI integration, DSA, REST API design, software engineering fundamentals 2025"
+}

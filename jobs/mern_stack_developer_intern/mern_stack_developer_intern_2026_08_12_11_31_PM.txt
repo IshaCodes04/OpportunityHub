@@ -1,7 +1,0 @@
-ROLE        - Mern Stack Developer Intern
-COMPANY     - Multiplier AI
-TITLE       - Full Stack Developer Intern
-DATE POSTED - 2026-08-11
-ADDED AT    - 2026-08-12 11:31 PM IST
-LOCATION    - Noida, Uttar Pradesh, India
-APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184?position=10&pageNum=15&refId=hZ1NfiJ0aYDtxrkB1KKZWw%3D%3D&trackingId=PpP2orrTjj1ReGkLy1vVMA%3D%3D)

@@ -12,6 +12,10 @@ from datetime import datetime, timezone
 import json
 import re
 import csv
+import argparse
+from urllib.parse import quote_plus
+from urllib.request import Request, urlopen
+from urllib.error import HTTPError, URLError
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -22,11 +26,56 @@ TARGET_ROLES = [
     "full stack developer",
     "full stack engineer",
     "mern stack developer",
-    "mern stack developer intern",
     "software engineer",
     "software developer",
-    "nodejs developer",
-    "backend developer",
+        "junior software engineer",
+        "sde",
+        "sde-1",
+        "software development engineer",
+        "junior full stack developer",
+        "associate software engineer",
+        "graduate software engineer",
+        "trainee software engineer",
+    "generative ai engineer",
+        "genai engineer",
+    "genai developer",
+        "ai engineer",
+    "ai application developer",
+        "ai software engineer",
+        "ai developer",
+    "full stack ai engineer",
+        "ai application engineer",
+        "llm application developer",
+        "llm engineer",
+        "rag engineer",
+        "generative ai developer",
+        "junior ai engineer",
+        "junior genai engineer",
+]
+
+ALLOWED_ROLE_PATTERNS = [
+    r"\bfull\s*stack\s+(?:developer|engineer)\b",
+    r"\bmern\s+stack\s+developer\b",
+    r"\bsoftware\s+(?:engineer|developer)\b",
+    r"\bsde(?:\s*[- ]?1)?\b(?!\s*(?:ii|2|iii)\b)",
+    r"\bsoftware\s+development\s+engineer\b",
+    r"\bgenerative\s+ai\s+engineer\b",
+    r"\bgen\s*ai\s+engineer\b",
+    r"\bgen\s*ai\s+developer\b",
+    r"\bai\s+engineer\b",
+    r"\bai\s+application\s+developer\b",
+    r"\bai\s+software\s+engineer\b",
+    r"\bai\s+developer\b",
+    r"\bfull\s+stack\s+ai\s+engineer\b",
+    r"\bai\s+application\s+engineer\b",
+    r"\bllm\s+application\s+developer\b",
+    r"\bllm\s+engineer\b",
+    r"\brag\s+engineer\b",
+    r"\bgenerative\s+ai\s+developer\b",
+]
+
+DISALLOWED_SENIORITY_PATTERNS = [
+    r"\b(?:senior|sr|sr\.|lead|principal|staff|manager|director|head|architect)\b",
 ]
 
 # Target locations — only jobs from these cities will be captured
@@ -39,6 +88,55 @@ TARGET_LOCATIONS = [
     "noida",
     "dwarka",
     "greater noida",
+]
+
+TARGET_COMPANIES = [
+    {"ats": "lever", "slug": "zeta", "name": "Zeta"},
+    {"ats": "greenhouse", "slug": "turing", "name": "Turing"},
+    {"ats": "lever", "slug": "icertis", "name": "Icertis"},
+    {"ats": "lever", "slug": "locus.co", "name": "Locus"},
+    {"ats": "greenhouse", "slug": "netradyne", "name": "Netradyne"},
+    {"ats": "lever", "slug": "curefit", "name": "Cure.fit"},
+    {"ats": "greenhouse", "slug": "inmobi", "name": "InMobi"},
+    {"ats": "lever", "slug": "hevodata", "name": "Hevo Data"},
+    {"ats": "greenhouse", "slug": "groww", "name": "Groww"},
+    {"ats": "lever", "slug": "paytm", "name": "Paytm"},
+    {"ats": "lever", "slug": "meesho", "name": "Meesho"},
+    {"ats": "greenhouse", "slug": "zenoti", "name": "Zenoti"},
+    {"ats": "ashby", "slug": "plotlineso", "name": "Plotline"},
+    {"ats": "ashby", "slug": "playpowerlabs", "name": "Playpower Labs"},
+    {"ats": "lever", "slug": "upstox", "name": "Upstox"},
+    {"ats": "greenhouse", "slug": "nanonets", "name": "Nanonets"},
+    {"ats": "greenhouse", "slug": "aidashinc", "name": "AiDASH"},
+    {"ats": "greenhouse", "slug": "ocrolusinc", "name": "Ocrolus"},
+    {"ats": "greenhouse", "slug": "saucelabs", "name": "Sauce Labs"},
+    {"ats": "greenhouse", "slug": "gravitonresearchcapital", "name": "Graviton Research Capital"},
+    {"ats": "greenhouse", "slug": "nksecuritiesresearch", "name": "NK Securities Research"},
+    {"ats": "greenhouse", "slug": "pay2dc", "name": "PayPay India"},
+    {"ats": "ashby", "slug": "commure", "name": "Commure"},
+    {"ats": "ashby", "slug": "sentilink", "name": "SentiLink"},
+    {"ats": "ashby", "slug": "better-mortgage", "name": "Better Mortgage"},
+    {"ats": "lever", "slug": "klearnow", "name": "KlearNow.ai"},
+    {"ats": "lever", "slug": "thinkahead", "name": "AHEAD"},
+    {"ats": "lever", "slug": "resilinc", "name": "Resilinc"},
+    {"ats": "greenhouse", "slug": "swiggy", "name": "Swiggy"},
+    {"ats": "greenhouse", "slug": "razorpay", "name": "Razorpay"},
+    {"ats": "greenhouse", "slug": "freshworks", "name": "Freshworks"},
+    {"ats": "lever", "slug": "vedantu", "name": "Vedantu"},
+    {"ats": "greenhouse", "slug": "unacademy", "name": "Unacademy"},
+    {"ats": "ashby", "slug": "cred", "name": "CRED"},
+    {"ats": "lever", "slug": "dunzo", "name": "Dunzo"},
+    {"ats": "greenhouse", "slug": "phonepe", "name": "PhonePe"},
+    {"ats": "greenhouse", "slug": "flipkart", "name": "Flipkart"},
+    {"ats": "greenhouse", "slug": "hiddenlayer", "name": "Hidden Layer"},
+    {"ats": "lever", "slug": "akkio", "name": "Akkio"},
+    {"ats": "ashby", "slug": "humartificial", "name": "Humartificial"},
+    {"ats": "greenhouse", "slug": "gpt4all", "name": "GPT4All"},
+    {"ats": "greenhouse", "slug": "thoughtworks", "name": "ThoughtWorks"},
+    {"ats": "greenhouse", "slug": "harelabs", "name": "Hare Labs"},
+    {"ats": "ashby", "slug": "appliedai", "name": "Applied AI"},
+    {"ats": "lever", "slug": "almabetter", "name": "Alma Better"},
+    {"ats": "lever", "slug": "unstop", "name": "Unstop"},
 ]
 
 # ─────────────────────────── Time helpers ────────────────────────────
@@ -294,6 +392,122 @@ def build_linkedin_search_url(job_title: str, location: str) -> str:
     )
 
 
+def is_allowed_job_title(title: str) -> bool:
+    """Return True only for the requested role families and fresher variants."""
+    normalized = re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
+    if any(re.search(pattern, normalized) for pattern in DISALLOWED_SENIORITY_PATTERNS):
+        return False
+    return any(re.search(pattern, normalized) for pattern in ALLOWED_ROLE_PATTERNS)
+
+
+def load_profile(path: str = "profile.json") -> dict:
+    if not os.path.exists(path):
+        return {}
+    with open(path, "r", encoding="utf-8") as profile_file:
+        data = json.load(profile_file)
+    return data if isinstance(data, dict) else {}
+
+
+def profile_match_score(job: dict, profile: dict) -> int:
+    """Score title, skills, and experience relevance from 0 to 100."""
+    if not profile or not is_allowed_job_title(job.get("Title", "")):
+        return 0
+    job_text = " ".join(str(job.get(key, "")) for key in ("Title", "Description", "Role")).lower()
+    profile_text = " ".join([
+        str(profile.get("resume_text", "")),
+        " ".join(str(item) for item in profile.get("skills", [])),
+    ]).lower()
+    skill_terms = set(re.findall(r"[a-z][a-z0-9+#.\-]{2,}", profile_text))
+    job_terms = set(re.findall(r"[a-z][a-z0-9+#.\-]{2,}", job_text))
+    overlap = len(skill_terms & job_terms)
+    skill_score = min(40, overlap * 4)
+    title_score = 50 if is_allowed_job_title(job.get("Title", "")) else 0
+    location_score = 10 if any(loc in str(job.get("Location", "")).lower() for loc in TARGET_LOCATIONS) else 0
+    return min(100, title_score + skill_score + location_score)
+
+
+def _json_get(url: str) -> object:
+    request = Request(url, headers={"User-Agent": "OpportunityHub/1.0"})
+    with urlopen(request, timeout=20) as response:
+        return json.loads(response.read().decode("utf-8"))
+
+
+def scrape_ats_company(company: dict, requested_role: str) -> list[dict]:
+    """Fetch public jobs from a company's Greenhouse, Lever, or Ashby board."""
+    ats, slug = company["ats"], company["slug"]
+    try:
+        if ats == "greenhouse":
+            payload = _json_get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true")
+            rows = payload.get("jobs", []) if isinstance(payload, dict) else []
+        elif ats == "lever":
+            rows = _json_get(f"https://api.lever.co/v0/postings/{slug}?mode=json")
+        elif ats == "ashby":
+            payload = _json_get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
+            rows = payload.get("jobs", []) if isinstance(payload, dict) else []
+        else:
+            rows = []
+    except (HTTPError, URLError, TimeoutError, ValueError) as error:
+        logger.warning("%s board unavailable for %s: %s", ats, company["name"], error)
+        return []
+
+    jobs = []
+    for row in rows:
+        title = row.get("title", "")
+        location = row.get("location", {})
+        if isinstance(location, dict):
+            location = location.get("name", "")
+        description = row.get("content", row.get("descriptionPlain", row.get("description", "")))
+        link = row.get("absolute_url", row.get("hostedUrl", row.get("applyUrl", "")))
+        job = {"Role": requested_role.title(), "Company": company["name"], "Title": title,
+               "Location": str(location), "Link": f"[Apply]({link})", "Description": BeautifulSoup(str(description), "html.parser").get_text(" ")}
+        if is_allowed_job_title(title):
+            jobs.append(job)
+    return jobs
+
+
+def scrape_public_platforms(requested_role: str, location: str) -> list[dict]:
+    """Search public pages on LinkedIn, Naukri, and Internshala with Selenium."""
+    searches = {
+        "LinkedIn": f"https://www.linkedin.com/jobs/search/?keywords={quote_plus(requested_role)}&location={quote_plus(location)}&sortBy=DD",
+        "Naukri": f"https://www.naukri.com/{quote_plus(requested_role.replace(' ', '-'))}-jobs-in-{quote_plus(location.replace(' ', '-'))}",
+        "Internshala": f"https://internshala.com/jobs/{quote_plus(requested_role.replace(' ', '-'))}-jobs-in-{quote_plus(location.replace(' ', '-'))}/",
+    }
+    jobs = []
+    for source, url in searches.items():
+        try:
+            driver = setup_chrome_driver()
+            driver.get(url)
+            polite_sleep(2.0, 4.0)
+            soup = BeautifulSoup(driver.page_source or "", "html.parser")
+            for link in soup.find_all("a", href=True):
+                title = link.get_text(" ", strip=True)
+                if is_allowed_job_title(title) and len(title) < 150:
+                    jobs.append({"Role": requested_role.title(), "Company": source, "Title": title,
+                                 "Location": location, "Link": f"[Apply]({link['href']})", "Description": ""})
+            driver.quit()
+        except Exception as error:
+            logger.warning("%s search failed: %s", source, error)
+    return jobs
+
+
+def scrape_all_sources(requested_role: str, location: str, profile: dict) -> list[dict]:
+    jobs = []
+    for company in TARGET_COMPANIES:
+        jobs.extend(scrape_ats_company(company, requested_role))
+    jobs.extend(scrape_public_platforms(requested_role, location))
+    matching = []
+    seen_links = set()
+    for job in jobs:
+        score = profile_match_score(job, profile)
+        link = job.get("Link", "")
+        if score >= 90 and link not in seen_links:
+            job["Match Score"] = score
+            job.pop("Description", None)
+            matching.append(job)
+            seen_links.add(link)
+    return matching
+
+
 def scrape_linkedin_jobs(job_title: str, location: str, pages: int = 5) -> list:
     jobs = []
     driver = None
@@ -342,20 +556,12 @@ def scrape_linkedin_jobs(job_title: str, location: str, pages: int = 5) -> list:
                 apply_link = link_elem.get("href", "#")
                 date_posted = date_elem.get("datetime", "N/A")
 
-                is_relevant = any(
-                    keyword in job_title_text.lower()
-                    for keyword in [
-                        "intern", "apprentice", "trainee", "graduate",
-                        "fresher", "junior", "entry level", "entry-level"
-                    ]
-                )
-
                 is_target_city = any(
                     loc in job_location.lower()
                     for loc in TARGET_LOCATIONS
                 )
 
-                if is_relevant and is_target_city:
+                if is_allowed_job_title(job_title_text) and is_target_city:
                     jobs.append({
                         "Role": job_title.title(),
                         "Company": job_company,
@@ -388,7 +594,7 @@ def save_to_csv(data: list, filename: str) -> None:
         return
     try:
         df = pd.DataFrame(data)
-        preferred = ["Role", "Company", "Title", "Location", "Link", "Date Posted", "Added At"]
+            preferred = ["Role", "Company", "Title", "Location", "Link", "Date Posted", "Match Score", "Added At"]
         cols = [c for c in preferred if c in df.columns] + [c for c in df.columns if c not in preferred]
         df = df[cols]
         df.to_csv(filename, index=False, encoding="utf-8", quoting=csv.QUOTE_ALL)
@@ -413,6 +619,7 @@ def save_to_txt(data: list, filename: str) -> None:
                 f"DATE POSTED - {job.get('Date Posted', '')}",
                 f"ADDED AT    - {job.get('Added At', '')}",
                 f"LOCATION    - {job.get('Location', '')}",
+                f"MATCH SCORE - {job.get('Match Score', '')}%",
                 f"APPLY LINK  - {job.get('Link', '')}",
             ]))
         content = "\n\n".join(blocks) + "\n"
@@ -510,9 +717,104 @@ def update_readme(all_today_jobs: list, target_date: str, now: datetime) -> None
         logger.exception("Error updating README: %s", str(e))
 
 
+# ─────────────────────────── Resume profile ──────────────────────────
+
+def extract_resume_text(resume_path: str) -> str:
+    """Extract text from a PDF, DOCX, or plain-text resume."""
+    extension = os.path.splitext(resume_path)[1].lower()
+    if extension == ".pdf":
+        from pypdf import PdfReader
+        return "\n".join(page.extract_text() or "" for page in PdfReader(resume_path).pages)
+    if extension == ".docx":
+        from docx import Document
+        document = Document(resume_path)
+        paragraphs = [paragraph.text for paragraph in document.paragraphs]
+        paragraphs.extend(cell.text for table in document.tables for row in table.rows for cell in row.cells)
+        return "\n".join(paragraphs)
+    if extension in {".txt", ".md"}:
+        with open(resume_path, "r", encoding="utf-8", errors="ignore") as resume_file:
+            return resume_file.read()
+    raise ValueError("Unsupported resume format. Use PDF, DOCX, TXT, or MD.")
+
+
+def _resume_lines(text: str) -> list[str]:
+    return [re.sub(r"\s+", " ", line).strip() for line in text.splitlines() if line.strip()]
+
+
+def _resume_section(lines: list[str], names: set[str]) -> list[str]:
+    section_lines = []
+    collecting = False
+    section_names = {
+        "skills", "technical skills", "experience", "work experience",
+        "education", "projects", "certifications", "achievements",
+        "summary", "profile", "objective"
+    }
+    for line in lines:
+        normalized = re.sub(r"[^a-z ]", "", line.lower()).strip()
+        if normalized in section_names:
+            collecting = normalized in names
+            continue
+        if collecting:
+            next_normalized = re.sub(r"[^a-z ]", "", line.lower()).strip()
+            if next_normalized in section_names and next_normalized not in names:
+                break
+            section_lines.append(line)
+    return section_lines
+
+
+def build_profile_from_resume(resume_path: str) -> dict:
+    text = extract_resume_text(resume_path)
+    lines = _resume_lines(text)
+    email_match = re.search(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}", text)
+    phone_match = re.search(r"(?:\+?\d[\d ()-]{8,}\d)", text)
+    links = re.findall(r"https?://[^\s)]+", text)
+    name = next(
+        (line for line in lines[:5] if "@" not in line and not re.search(r"\d", line)
+         and len(line.split()) <= 6),
+        ""
+    )
+    skills = _resume_section(lines, {"skills", "technical skills"})
+    profile = {
+        "source_file": os.path.abspath(resume_path),
+        "extracted_at": ist_timestamp_str(),
+        "name": name,
+        "email": email_match.group(0) if email_match else "",
+        "phone": phone_match.group(0).strip() if phone_match else "",
+        "links": links,
+        "skills": skills,
+        "experience": _resume_section(lines, {"experience", "work experience"}),
+        "education": _resume_section(lines, {"education"}),
+        "projects": _resume_section(lines, {"projects"}),
+        "certifications": _resume_section(lines, {"certifications"}),
+        "summary": _resume_section(lines, {"summary", "profile", "objective"}),
+        "resume_text": text.strip(),
+    }
+    return profile
+
+
+def create_profile_from_resume(resume_path: str, output_path: str = "profile.json") -> None:
+    if not os.path.isfile(resume_path):
+        raise FileNotFoundError(f"Resume not found: {resume_path}")
+    profile = build_profile_from_resume(resume_path)
+    with open(output_path, "w", encoding="utf-8") as profile_file:
+        json.dump(profile, profile_file, ensure_ascii=False, indent=2)
+    print(f"Profile created: {output_path}")
+
+
 # ─────────────────────────── Main ────────────────────────────────────
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Scrape strictly allowed roles or build a profile from a resume.")
+    parser.add_argument("--resume", help="Path to a PDF, DOCX, TXT, or MD resume")
+    parser.add_argument("--profile-output", default="profile.json", help="Output path for the extracted profile")
+    args = parser.parse_args()
+    if args.resume:
+        try:
+            create_profile_from_resume(args.resume, args.profile_output)
+        except (OSError, ValueError, ImportError) as error:
+            raise SystemExit(f"Could not create profile: {error}")
+        raise SystemExit(0)
+
     now = _ist_now()          # ← IST time used everywhere
     target_date = get_target_date()
     day_label = day_label_from_target_date(target_date)
@@ -530,6 +832,9 @@ if __name__ == "__main__":
 
     all_scraped: list[dict] = []
     location = "India"
+    profile = load_profile()
+    if not profile:
+        raise SystemExit("profile.json not found or empty. Create it with --resume before scraping.")
     role_results: dict[str, list[dict]] = {}  # role -> jobs found this run
 
     # ── Step 1: Scrape each role → save to its own folder immediately ──
@@ -537,7 +842,7 @@ if __name__ == "__main__":
         print(f"[{idx}/{len(TARGET_ROLES)}] Scraping: '{role}'")
         print("-" * 70)
 
-        jobs = scrape_linkedin_jobs(role, location)
+        jobs = scrape_all_sources(role, location, profile)
 
         if jobs:
             # Stamp Added At for this run

@@ -1,7 +1,0 @@
-ROLE        - Nodejs Developer
-COMPANY     - Upthrust Inc.
-TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
-DATE POSTED - 2026-07-17
-ADDED AT    - 2026-07-30 12:52 AM IST
-LOCATION    - Gurugram, Haryana, India
-APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=21&pageNum=0&refId=dLUAJTzft4QEpFbp89cmbg%3D%3D&trackingId=lho1k0LTvPaOOddH7rBMgw%3D%3D)

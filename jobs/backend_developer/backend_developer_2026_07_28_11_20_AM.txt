@@ -1,7 +1,0 @@
-ROLE        - Backend Developer
-COMPANY     - Upthrust Inc.
-TITLE       - Software Developer - React, Next.js, Webflow & AI Automation Intern
-DATE POSTED - 2026-07-17
-ADDED AT    - 2026-07-28 11:20 AM IST
-LOCATION    - Gurugram, Haryana, India
-APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/software-developer-react-next-js-webflow-ai-automation-intern-at-upthrust-inc-4438795643?position=22&pageNum=0&refId=l40QF6zVD5l49VDp%2Bak95g%3D%3D&trackingId=d%2FCOsptWzGItS6GVjIdCLw%3D%3D)

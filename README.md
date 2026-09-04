@@ -98,3 +98,15 @@ ADDED AT    - 2026-09-04 07:46 AM IST<br>
 LOCATION    - Noida, Uttar Pradesh, India<br>
 APPLY LINK  - [Apply](https://in.linkedin.com/jobs/view/backend-development-internship-in-noida-at-opstree-global-4449962024?position=1&pageNum=12&refId=hG9PG3Isdhj1ByKViTitLA%3D%3D&trackingId=rdzwa91aWLa9Zl0kIFKeLA%3D%3D)
 <!--END_SECTION:workfetch-->
+
+## Resume Profile
+
+Place your resume in the `resume/` folder as a `.pdf`, `.docx`, `.txt`, or `.md` file. Create `profile.json` with:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --resume "resume\your-resume.pdf"
+```
+
+The generated `profile.json` contains extracted contact details, links, skills, experience, education, projects, certifications, summary, and the complete extracted resume text.
+
+Jobs are collected from the configured company boards on Greenhouse, Lever, and Ashby, plus public searches on LinkedIn, Naukri, and Internshala. Only the requested role families with a profile match score of at least 90% are saved.
