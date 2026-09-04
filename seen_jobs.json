@@ -1,1 +1,98 @@
-﻿{}
+{
+  "https://boards.greenhouse.io/gravitonresearchcapital/jobs/4004920002": {
+    "first_seen": "2026-09-04 02:38 PM IST",
+    "job": {
+      "Added At": "2026-09-04 02:38 PM IST",
+      "Company": "Graviton Research Capital",
+      "Link": "[Apply](https://boards.greenhouse.io/gravitonresearchcapital/jobs/4004920002?gh_jid=4004920002)",
+      "Location": "Gurugram, Haryana, India",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "Software Engineer (C++)"
+    }
+  },
+  "https://boards.greenhouse.io/gravitonresearchcapital/jobs/5099344002": {
+    "first_seen": "2026-09-04 02:38 PM IST",
+    "job": {
+      "Added At": "2026-09-04 02:38 PM IST",
+      "Company": "Graviton Research Capital",
+      "Link": "[Apply](https://boards.greenhouse.io/gravitonresearchcapital/jobs/5099344002?gh_jid=5099344002)",
+      "Location": "Gurugram, Haryana, India",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "Software Engineer"
+    }
+  },
+  "https://boards.greenhouse.io/gravitonresearchcapital/jobs/8147013002": {
+    "first_seen": "2026-09-04 02:38 PM IST",
+    "job": {
+      "Added At": "2026-09-04 02:38 PM IST",
+      "Company": "Graviton Research Capital",
+      "Link": "[Apply](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8147013002?gh_jid=8147013002)",
+      "Location": "Gurugram, Haryana, India",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "Software Engineer- Python"
+    }
+  },
+  "https://boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002": {
+    "first_seen": "2026-09-04 02:38 PM IST",
+    "job": {
+      "Added At": "2026-09-04 02:38 PM IST",
+      "Company": "Graviton Research Capital",
+      "Link": "[Apply](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002?gh_jid=8764240002)",
+      "Location": "Gurugram, Haryana, India",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "Software Engineer (2027 Graduate)"
+    }
+  },
+  "https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4470703101": {
+    "first_seen": "2026-09-04 02:38 PM IST",
+    "job": {
+      "Added At": "2026-09-04 02:38 PM IST",
+      "Company": "NK Securities Research",
+      "Link": "[Apply](https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4470703101)",
+      "Location": "Gurugram",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "Software Developer "
+    }
+  },
+  "https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4519747101": {
+    "first_seen": "2026-09-04 02:38 PM IST",
+    "job": {
+      "Added At": "2026-09-04 02:38 PM IST",
+      "Company": "NK Securities Research",
+      "Link": "[Apply](https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4519747101)",
+      "Location": "Gurugram, Haryana, India",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "Software Developer - Platform"
+    }
+  },
+  "https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4811652101": {
+    "first_seen": "2026-09-04 02:38 PM IST",
+    "job": {
+      "Added At": "2026-09-04 02:38 PM IST",
+      "Company": "NK Securities Research",
+      "Link": "[Apply](https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4811652101)",
+      "Location": "Gurugram, Haryana, India",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "AI Engineer"
+    }
+  },
+  "https://job-boards.greenhouse.io/saucelabs/jobs/8125664": {
+    "first_seen": "2026-09-04 02:38 PM IST",
+    "job": {
+      "Added At": "2026-09-04 02:38 PM IST",
+      "Company": "Sauce Labs",
+      "Link": "[Apply](https://job-boards.greenhouse.io/saucelabs/jobs/8125664)",
+      "Location": "Gurgaon, India",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "Full-stack Software Engineer (python/go)"
+    }
+  }
+}
