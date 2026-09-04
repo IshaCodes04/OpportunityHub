@@ -6,10 +6,6 @@ on:
     - cron: '30 1 * * *'
   # Manual trigger
   workflow_dispatch:
-  # Trigger on push to main
-  push:
-    branches:
-      - main
 
 jobs:
   scrape-jobs:

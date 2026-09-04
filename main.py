@@ -243,10 +243,10 @@ def extract_url_from_markdown_link(text: str) -> str:
 
 def _get_url_key(job: dict) -> str:
     link = str(job.get("Link", "") or "")
-    url = extract_url_from_markdown_link(link).strip()
+    url = _canonical_url(link)
     if url:
         return url
-    return f"{job.get('Company', '')}|{job.get('Title', '')}|{job.get('Location', '')}"
+    return "|".join(str(job.get(field, "")).strip().lower() for field in ("Company", "Title", "Location"))
 
 
 def load_seen_index(path: str = "seen_jobs.json") -> dict:
@@ -278,7 +278,17 @@ def add_new_jobs_to_seen(
     Returns only the NEWLY added jobs from this run.
     """
     now_str = ist_timestamp_str(now)
-    seen = load_seen_index(index_path)
+    raw_seen = load_seen_index(index_path)
+    seen = {}
+    # Migrate older raw URL keys so tracking parameters cannot create duplicates.
+    for old_key, entry in raw_seen.items():
+        if isinstance(entry, dict):
+            existing_job = entry.get("job", {})
+            canonical_key = _get_url_key(existing_job) if existing_job else _canonical_url(old_key)
+        else:
+            canonical_key = _canonical_url(old_key) or str(old_key).strip().lower()
+        if canonical_key and canonical_key not in seen:
+            seen[canonical_key] = entry
     new_jobs = []
 
     for job in jobs:
