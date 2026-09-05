@@ -4,79 +4,15 @@
 Runs daily at 7:00 AM IST and emails a combined digest with direct apply links.
 
 <!--START_SECTION:stats-->
-## 📅 September 4, 2026 — Live Opportunities (8 Jobs)
-**Last Updated:** 2026-09-04 09:08 AM UTC | **Status:** Live ✅
+## 📅 September 5, 2026 — Live Opportunities (0 Jobs)
+**Last Updated:** 2026-09-05 05:59 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
-- 🔴 **Full Stack Developer**: 8 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-ROLE        - Full Stack Developer<br>
-COMPANY     - Graviton Research Capital<br>
-TITLE       - Software Engineer (C++)<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-04 02:38 PM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://boards.greenhouse.io/gravitonresearchcapital/jobs/4004920002?gh_jid=4004920002)
-ROLE        - Full Stack Developer<br>
-COMPANY     - Graviton Research Capital<br>
-TITLE       - Software Engineer<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-04 02:38 PM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://boards.greenhouse.io/gravitonresearchcapital/jobs/5099344002?gh_jid=5099344002)
-ROLE        - Full Stack Developer<br>
-COMPANY     - Graviton Research Capital<br>
-TITLE       - Software Engineer- Python<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-04 02:38 PM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8147013002?gh_jid=8147013002)
-ROLE        - Full Stack Developer<br>
-COMPANY     - Graviton Research Capital<br>
-TITLE       - Software Engineer (2027 Graduate)<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-04 02:38 PM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002?gh_jid=8764240002)
-ROLE        - Full Stack Developer<br>
-COMPANY     - NK Securities Research<br>
-TITLE       - Software Developer <br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-04 02:38 PM IST<br>
-LOCATION    - Gurugram<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4470703101)
-ROLE        - Full Stack Developer<br>
-COMPANY     - NK Securities Research<br>
-TITLE       - Software Developer - Platform<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-04 02:38 PM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4519747101)
-ROLE        - Full Stack Developer<br>
-COMPANY     - NK Securities Research<br>
-TITLE       - AI Engineer<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-04 02:38 PM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://job-boards.eu.greenhouse.io/nksecuritiesresearch/jobs/4811652101)
-ROLE        - Full Stack Developer<br>
-COMPANY     - Sauce Labs<br>
-TITLE       - Full-stack Software Engineer (python/go)<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-04 02:38 PM IST<br>
-LOCATION    - Gurgaon, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://job-boards.greenhouse.io/saucelabs/jobs/8125664)
+No jobs found yet today.
 <!--END_SECTION:workfetch-->
 
 ## Resume Profile
