@@ -10,6 +10,7 @@ on:
 jobs:
   scrape-jobs:
     runs-on: ubuntu-latest
+    timeout-minutes: 115
     permissions:
       contents: write
     
@@ -44,6 +45,7 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           GMAIL_SENDER: ishu010.com@gmail.com
           GMAIL_RECIPIENT: ishu010.com@gmail.com
+          OPPORTUNITYHUB_FAST: "1"
         run: |
           python main.py
 

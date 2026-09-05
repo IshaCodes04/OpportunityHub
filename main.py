@@ -15,6 +15,7 @@ import csv
 import argparse
 import html
 import smtplib
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from urllib.parse import quote_plus
@@ -555,9 +556,17 @@ def scrape_public_platforms(requested_role: str, location: str) -> list[dict]:
 
 def scrape_all_sources(requested_role: str, location: str, profile: dict) -> list[dict]:
     jobs = []
-    for company in TARGET_COMPANIES:
-        jobs.extend(scrape_ats_company(company, requested_role))
-    jobs.extend(scrape_public_platforms(requested_role, location))
+    fast_mode = os.getenv("OPPORTUNITYHUB_FAST", "0") == "1"
+    max_workers = min(12, len(TARGET_COMPANIES)) if fast_mode else 1
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(scrape_ats_company, company, requested_role) for company in TARGET_COMPANIES]
+        for future in as_completed(futures):
+            try:
+                jobs.extend(future.result())
+            except Exception as error:
+                logger.warning("ATS search failed for '%s': %s", requested_role, error)
+    if not fast_mode:
+        jobs.extend(scrape_public_platforms(requested_role, location))
     matching = []
     seen_links = set()
     for job in jobs:
@@ -1008,7 +1017,7 @@ if __name__ == "__main__":
             print(f"  ✗ No matching jobs found for '{role}'")
             role_results[role] = []
 
-        if idx < len(TARGET_ROLES):
+        if idx < len(TARGET_ROLES) and os.getenv("OPPORTUNITYHUB_FAST", "0") != "1":
             wait = random.randint(8, 15)
             print(f"  ⏳ Waiting {wait}s...\n")
             time.sleep(wait)
