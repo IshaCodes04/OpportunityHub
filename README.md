@@ -4,15 +4,23 @@
 Runs daily at 7:00 AM IST and emails a combined digest with direct apply links.
 
 <!--START_SECTION:stats-->
-## 📅 September 8, 2026 — Live Opportunities (0 Jobs)
-**Last Updated:** 2026-09-08 06:09 AM UTC | **Status:** Live ✅
+## 📅 September 9, 2026 — Live Opportunities (1 Jobs)
+**Last Updated:** 2026-09-09 06:15 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
+- 🔴 **Full Stack Developer**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-No jobs found yet today.
+ROLE        - Full Stack Developer<br>
+COMPANY     - Sauce Labs<br>
+TITLE       - Software Engineer <br>
+DATE POSTED - <br>
+ADDED AT    - 2026-09-09 11:45 AM IST<br>
+LOCATION    - Gurgaon, India<br>
+MATCH SCORE - 100%<br>
+APPLY LINK  - [Apply](https://job-boards.greenhouse.io/saucelabs/jobs/8185664)
 <!--END_SECTION:workfetch-->
 
 ## Resume Profile
