@@ -4,47 +4,15 @@
 Runs daily at 7:00 AM IST and emails a combined digest with direct apply links.
 
 <!--START_SECTION:stats-->
-## 📅 September 24, 2026 — Live Opportunities (4 Jobs)
-**Last Updated:** 2026-09-24 06:23 AM UTC | **Status:** Live ✅
+## 📅 September 25, 2026 — Live Opportunities (0 Jobs)
+**Last Updated:** 2026-09-25 06:19 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
-- 🔴 **Full Stack Developer**: 4 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-ROLE        - Full Stack Developer<br>
-COMPANY     - Graviton Research Capital<br>
-TITLE       - Software Engineer (C++)<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-24 11:53 AM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/4004920002)
-ROLE        - Full Stack Developer<br>
-COMPANY     - Graviton Research Capital<br>
-TITLE       - Software Engineer<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-24 11:53 AM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/5099344002)
-ROLE        - Full Stack Developer<br>
-COMPANY     - Graviton Research Capital<br>
-TITLE       - Software Engineer- Python<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-24 11:53 AM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8147013002)
-ROLE        - Full Stack Developer<br>
-COMPANY     - Graviton Research Capital<br>
-TITLE       - Software Engineer (2027 Graduate)<br>
-DATE POSTED - <br>
-ADDED AT    - 2026-09-24 11:53 AM IST<br>
-LOCATION    - Gurugram, Haryana, India<br>
-MATCH SCORE - 100%<br>
-APPLY LINK  - [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002)
+No jobs found yet today.
 <!--END_SECTION:workfetch-->
 
 ## Resume Profile
