@@ -4,15 +4,23 @@
 Runs daily at 7:00 AM IST and emails a combined digest with direct apply links.
 
 <!--START_SECTION:stats-->
-## 📅 October 29, 2026 — Live Opportunities (0 Jobs)
-**Last Updated:** 2026-10-29 07:23 AM UTC | **Status:** Live ✅
+## 📅 October 30, 2026 — Live Opportunities (1 Jobs)
+**Last Updated:** 2026-10-30 07:25 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
+- 🔴 **Full Stack Developer**: 1 jobs
 <!--END_SECTION:stats-->
 
 ### Current Opportunities:
 <!--START_SECTION:workfetch-->
-No jobs found yet today.
+ROLE        - Full Stack Developer<br>
+COMPANY     - Sauce Labs<br>
+TITLE       - Software Engineer (Python/Go, Infrastructure)<br>
+DATE POSTED - <br>
+ADDED AT    - 2026-10-30 12:55 PM IST<br>
+LOCATION    - Gurgaon, India<br>
+MATCH SCORE - 100%<br>
+APPLY LINK  - [Apply](https://job-boards.greenhouse.io/saucelabs/jobs/8303361)
 <!--END_SECTION:workfetch-->
 
 ## Resume Profile

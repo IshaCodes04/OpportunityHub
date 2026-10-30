@@ -154,5 +154,17 @@
       "Role": "Full Stack Developer",
       "Title": "Software Engineer "
     }
+  },
+  "https://job-boards.greenhouse.io/saucelabs/jobs/8303361": {
+    "first_seen": "2026-10-30 12:55 PM IST",
+    "job": {
+      "Added At": "2026-10-30 12:55 PM IST",
+      "Company": "Sauce Labs",
+      "Link": "[Apply](https://job-boards.greenhouse.io/saucelabs/jobs/8303361)",
+      "Location": "Gurgaon, India",
+      "Match Score": 100,
+      "Role": "Full Stack Developer",
+      "Title": "Software Engineer (Python/Go, Infrastructure)"
+    }
   }
 }
