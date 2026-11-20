@@ -4,8 +4,8 @@
 Runs daily at 7:00 AM IST and emails a combined digest with direct apply links.
 
 <!--START_SECTION:stats-->
-## 📅 November 19, 2026 — Live Opportunities (0 Jobs)
-**Last Updated:** 2026-11-19 09:00 AM UTC | **Status:** Live ✅
+## 📅 November 20, 2026 — Live Opportunities (0 Jobs)
+**Last Updated:** 2026-11-20 08:48 AM UTC | **Status:** Live ✅
 
 ### Job Categories:
 <!--END_SECTION:stats-->
